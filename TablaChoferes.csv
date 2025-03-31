@@ -1,0 +1,16 @@
+id_chofer,nombre,cuil,direccion,telefono,tipo_carnet
+1,Juan Pérez,20123456783,Calle Mendoza 123 San Juan,2644567890,B1
+2,Carlos González,23234567897,Avenida Libertador 456 San Juan,2645678901,B2
+3,María Fernández,27345678902,Calle Mitre 789 San Juan,2646789012,D1
+4,José Rodríguez,20456789015,Barrio Kennedy 12 San Juan,2647890123,A3
+5,Ana Sánchez,23567890128,Calle Rivadavia 321 San Juan,2648901234,C2
+6,Pedro Gómez,27678901231,Avenida Rioja 654 San Juan,2649012345,D3
+7,Laura Ramírez,20789012344,Calle Tucumán 987 San Juan,2640123456,E1
+8,Luis Herrera,23890123457,Barrio Universitario 45 San Juan,2641234567,B1
+9,Sofía Castro,27901234560,Calle San Luis 258 San Juan,2642345678,D2
+10,Martín Álvarez,20012345673,Avenida Rawson 852 San Juan,2643456789,B2
+11,Verónica Medina,23123456786,Barrio CGT 10 San Juan,2644567890,E2
+12,Andrés López,27234567899,Calle Laprida 369 San Juan,2645678901,D4
+13,Patricia Vargas,20345678902,Calle Sarmiento 741 San Juan,2646789012,A3
+14,Gabriel Flores,23456789015,Barrio Valle Grande 55 San Juan,2647890123,C2
+15,Elena Ríos,27567890128,Calle Aberastain 159 San Juan,2648901234,D1

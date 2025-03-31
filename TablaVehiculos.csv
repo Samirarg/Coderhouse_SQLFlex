@@ -1,0 +1,11 @@
+id_vehiculo,marca,modelo,anio,tara,carnet_requerido,peso_maximo
+1,Iveco,Tector 170E,2021,6500,C2,17000
+2,Mercedes-Benz,Accelo 815,2023,5100,B2,8000
+3,Volkswagen,Delivery 9.170,2022,4600,C2,9000
+4,Ford,Cargo 1723,2020,7500,C3,23000
+5,Scania,R500,2024,9500,C3,50000
+6,Volvo,FH 540,2021,9800,C3,54000
+7,Mercedes-Benz,Atego 1726,2019,7200,C2,18000
+8,Renault Trucks,D Wide 280,2023,7600,C3,26000
+9,Fiat,Ducato Maxicargo,2022,2100,B1,1500
+10,Mercedes-Benz,Sprinter 416 CDI,2020,2400,B1,3500

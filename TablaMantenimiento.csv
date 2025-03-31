@@ -1,0 +1,1001 @@
+id_mantenimiento,id_vehiculo,fecha_mantenimiento,tipo_mantenimiento,descripcion_mantenimiento,costo_mantenimiento
+1,1,2021-08-21 17:13:57,correctivo,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.",111427.11
+2,7,2020-10-06 21:58:47,preventivo,Nullam porttitor lacus at turpis.,239278.54
+3,2,2020-04-03 20:54:02,preventivo,Proin at turpis a pede posuere nonummy. Integer non velit.,47307.57
+4,2,2022-02-23 00:53:39,correctivo,Phasellus id sapien in sapien iaculis congue.,248900.04
+5,5,2022-01-12 23:26:29,preventivo,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",157514.14
+6,8,2021-07-21 21:36:49,preventivo,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",163210.65
+7,5,2024-03-08 01:49:33,preventivo,In quis justo.,136064.24
+8,4,2023-03-25 19:26:10,preventivo,Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.,272271.2
+9,5,2021-05-30 05:15:58,preventivo,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",46691.81
+10,3,2022-03-08 23:51:33,correctivo,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula.",196212.66
+11,4,2023-04-03 11:48:37,preventivo,Nulla ac enim.,97730.45
+12,8,2023-05-23 22:52:57,preventivo,Etiam faucibus cursus urna. Ut tellus.,213834.46
+13,4,2021-06-07 21:13:30,correctivo,Aenean fermentum.,74171.74
+14,4,2020-01-17 12:36:59,preventivo,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",237719.74
+15,6,2020-04-18 03:08:26,preventivo,Phasellus sit amet erat.,27724.03
+16,5,2023-04-04 14:46:25,correctivo,Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.,89525.48
+17,3,2023-04-29 08:03:39,preventivo,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,226051.16
+18,1,2021-05-25 12:00:34,correctivo,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula.",216318.01
+19,3,2020-04-21 16:04:44,correctivo,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.,106122.84
+20,8,2023-04-25 19:16:13,correctivo,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",163155.01
+21,8,2021-06-29 18:16:11,correctivo,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.,153193.9
+22,8,2021-03-14 14:30:20,preventivo,Vivamus in felis eu sapien cursus vestibulum.,21728.12
+23,7,2023-11-26 13:30:57,correctivo,Integer ac neque.,15624.94
+24,3,2023-07-23 03:21:54,preventivo,Etiam pretium iaculis justo. In hac habitasse platea dictumst.,329129.22
+25,10,2023-12-30 18:56:10,correctivo,Nullam molestie nibh in lectus.,171232.68
+26,10,2023-03-14 13:21:34,correctivo,Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.,278746.18
+27,3,2024-02-05 03:55:47,preventivo,Ut at dolor quis odio consequat varius.,241614.16
+28,4,2024-08-22 00:18:51,preventivo,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",148144.41
+29,8,2021-04-29 06:28:08,correctivo,"Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",163178.35
+30,2,2023-08-16 15:31:04,preventivo,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.,255096.01
+31,5,2021-09-16 11:44:47,preventivo,Proin at turpis a pede posuere nonummy.,133396.92
+32,10,2020-12-20 01:01:38,correctivo,Duis mattis egestas metus. Aenean fermentum.,333456.88
+33,5,2024-06-14 10:07:58,preventivo,In quis justo.,130381.01
+34,10,2020-03-19 20:45:19,correctivo,Nullam varius. Nulla facilisi.,271365.1
+35,8,2023-05-01 14:05:05,correctivo,Nam tristique tortor eu pede.,246081.33
+36,5,2021-11-28 06:05:32,preventivo,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",13782.27
+37,7,2022-01-05 14:19:23,preventivo,Nullam varius.,263108.44
+38,8,2020-10-25 15:45:20,preventivo,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",102136.6
+39,10,2022-10-23 15:33:48,preventivo,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",345919.08
+40,1,2020-04-26 06:07:10,correctivo,Integer ac neque.,346473.99
+41,6,2024-04-21 20:17:27,correctivo,Cras non velit nec nisi vulputate nonummy.,258479.1
+42,6,2022-11-16 22:18:29,preventivo,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.,194882.37
+43,5,2022-08-16 08:15:09,preventivo,Curabitur gravida nisi at nibh.,304023.92
+44,2,2023-06-23 15:37:24,preventivo,In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.,102344.5
+45,9,2021-10-05 07:36:50,correctivo,Morbi non quam nec dui luctus rutrum.,35117.4
+46,10,2021-02-12 01:03:02,correctivo,In congue. Etiam justo.,267168.03
+47,9,2021-07-27 03:35:47,correctivo,Aliquam quis turpis eget elit sodales scelerisque.,82939.36
+48,8,2022-05-30 21:18:32,correctivo,Fusce posuere felis sed lacus.,233435.1
+49,4,2023-10-19 18:25:10,preventivo,Aliquam sit amet diam in magna bibendum imperdiet.,125095.21
+50,8,2024-06-17 15:41:23,correctivo,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",342827.79
+51,3,2020-10-08 12:27:01,preventivo,Curabitur in libero ut massa volutpat convallis.,182808.01
+52,10,2020-01-14 04:29:32,correctivo,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",221355.41
+53,4,2022-10-07 01:04:48,correctivo,Etiam justo.,262242.6
+54,9,2020-09-02 11:52:31,preventivo,Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.,185631.82
+55,5,2021-02-02 20:11:56,correctivo,Quisque ut erat. Curabitur gravida nisi at nibh.,91473.76
+56,7,2021-07-10 19:44:42,correctivo,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,260886.51
+57,8,2021-10-17 10:55:02,correctivo,Morbi non lectus.,77095.68
+58,9,2022-06-09 16:10:40,correctivo,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,225597.98
+59,5,2020-01-12 05:11:38,preventivo,Ut at dolor quis odio consequat varius. Integer ac leo.,68382.5
+60,7,2022-11-28 04:51:11,correctivo,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",272528.5
+61,10,2024-09-23 00:44:36,correctivo,Morbi non quam nec dui luctus rutrum. Nulla tellus.,178873.99
+62,10,2023-09-25 07:17:51,preventivo,Praesent blandit lacinia erat.,133702.88
+63,7,2023-01-15 16:38:25,correctivo,Nam nulla.,85750.77
+64,1,2021-11-02 20:48:14,preventivo,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",284009.73
+65,5,2022-10-30 03:47:03,preventivo,Sed sagittis.,181690.33
+66,10,2021-08-21 08:03:08,correctivo,Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.,283672.47
+67,4,2023-10-31 09:24:55,preventivo,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",56290.58
+68,6,2024-10-19 21:06:23,correctivo,Morbi non quam nec dui luctus rutrum. Nulla tellus.,100746.29
+69,9,2021-11-21 21:52:44,preventivo,Nulla ut erat id mauris vulputate elementum. Nullam varius.,314806.5
+70,7,2020-02-15 16:42:50,correctivo,Mauris lacinia sapien quis libero.,348840.79
+71,7,2023-09-22 12:01:14,correctivo,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",230011.45
+72,7,2024-03-18 08:54:48,preventivo,Phasellus in felis.,274610.64
+73,5,2024-12-27 03:32:34,preventivo,Vivamus tortor. Duis mattis egestas metus.,227353.79
+74,5,2020-07-06 22:06:46,preventivo,Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,185661.97
+75,7,2022-10-15 15:37:45,preventivo,Proin risus.,296452.39
+76,10,2021-11-18 09:46:57,preventivo,"Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",253373.03
+77,2,2020-10-21 18:40:08,preventivo,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",143851.94
+78,9,2023-12-13 19:31:47,correctivo,Nullam varius.,172182.37
+79,8,2024-02-19 14:50:41,correctivo,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.,156642.56
+80,3,2022-10-21 15:20:20,correctivo,Suspendisse potenti.,287970.57
+81,8,2021-03-08 17:36:39,correctivo,Nam tristique tortor eu pede.,72370.6
+82,2,2020-12-02 02:38:55,preventivo,Aenean lectus.,308846.65
+83,2,2023-03-25 08:56:40,correctivo,Duis consequat dui nec nisi volutpat eleifend.,149435.05
+84,3,2024-08-02 13:05:31,preventivo,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",207189.09
+85,8,2021-01-09 22:24:56,preventivo,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.,102638.88
+86,7,2021-08-31 20:21:06,correctivo,Aenean fermentum.,77028.41
+87,4,2022-02-22 12:52:31,correctivo,Duis at velit eu est congue elementum.,313072.36
+88,5,2023-05-24 23:37:43,correctivo,"In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",177443.87
+89,2,2024-12-10 15:37:43,correctivo,Etiam pretium iaculis justo. In hac habitasse platea dictumst.,192413.93
+90,6,2024-05-04 07:41:57,correctivo,Donec semper sapien a libero. Nam dui.,310916.2
+91,4,2023-02-26 12:52:37,preventivo,Suspendisse potenti. Nullam porttitor lacus at turpis.,146035.43
+92,9,2020-05-03 02:03:58,correctivo,Nunc rhoncus dui vel sem. Sed sagittis.,224212.89
+93,1,2024-11-06 22:25:30,correctivo,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.",169252.22
+94,3,2020-06-20 01:36:36,preventivo,"Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",287600.79
+95,4,2022-03-07 06:02:04,correctivo,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.,287667.64
+96,1,2022-02-11 10:36:15,correctivo,Nunc nisl.,149586.5
+97,10,2022-03-10 17:32:28,correctivo,Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,262267.26
+98,10,2020-12-28 10:50:49,correctivo,Aenean lectus.,92489.59
+99,2,2024-02-18 00:05:36,correctivo,Duis consequat dui nec nisi volutpat eleifend.,108151.23
+100,9,2022-05-30 09:08:18,preventivo,Nunc rhoncus dui vel sem. Sed sagittis.,22831.52
+101,3,2024-06-09 07:35:26,preventivo,"Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",214499.48
+102,4,2021-07-21 05:50:51,preventivo,"Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",221750.62
+103,1,2022-04-10 09:11:22,correctivo,Morbi non quam nec dui luctus rutrum. Nulla tellus.,93633.79
+104,5,2023-02-11 05:44:15,correctivo,In quis justo.,262329.89
+105,8,2022-09-23 00:02:14,correctivo,Integer ac leo. Pellentesque ultrices mattis odio.,73879.15
+106,10,2023-03-12 03:05:08,correctivo,"Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",202513.92
+107,7,2023-06-28 10:31:27,correctivo,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",236174.0
+108,3,2021-04-18 13:45:12,correctivo,"In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",94360.0
+109,10,2020-07-26 08:41:32,preventivo,Quisque ut erat. Curabitur gravida nisi at nibh.,169954.52
+110,2,2024-02-03 13:13:20,preventivo,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.,75019.72
+111,5,2024-05-04 20:29:29,correctivo,"Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",109459.81
+112,9,2024-10-11 12:38:25,preventivo,Morbi porttitor lorem id ligula.,301970.12
+113,5,2024-12-27 06:59:30,correctivo,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.",113115.67
+114,8,2021-11-27 02:02:25,correctivo,Donec quis orci eget orci vehicula condimentum.,282447.09
+115,8,2023-02-12 03:53:59,preventivo,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",252618.15
+116,1,2023-10-02 06:02:02,preventivo,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.,79421.29
+117,5,2023-10-25 10:17:17,correctivo,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",110594.57
+118,3,2023-04-28 00:18:58,preventivo,Nullam molestie nibh in lectus.,132640.41
+119,2,2020-09-09 18:11:14,preventivo,Mauris sit amet eros.,139881.5
+120,5,2022-01-29 12:24:22,correctivo,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",246455.5
+121,6,2024-07-21 10:00:46,preventivo,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.,252363.06
+122,9,2023-06-11 04:52:21,correctivo,Proin risus.,218688.22
+123,9,2021-08-23 21:46:28,correctivo,Praesent blandit.,152014.53
+124,2,2022-01-31 17:07:53,preventivo,Integer ac neque.,75560.53
+125,10,2020-01-19 07:24:01,correctivo,Fusce consequat. Nulla nisl.,291599.73
+126,7,2020-08-17 07:42:00,preventivo,Sed vel enim sit amet nunc viverra dapibus.,240343.98
+127,3,2021-01-22 09:09:05,preventivo,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",298030.02
+128,3,2023-09-18 13:18:53,preventivo,Nullam varius. Nulla facilisi.,314826.67
+129,3,2023-06-08 16:25:33,preventivo,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",208393.95
+130,9,2024-08-22 11:40:00,correctivo,Curabitur at ipsum ac tellus semper interdum.,185306.15
+131,10,2022-07-11 03:25:43,preventivo,Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.,62199.32
+132,6,2021-11-14 16:10:24,preventivo,Vestibulum sed magna at nunc commodo placerat. Praesent blandit.,277830.06
+133,8,2022-01-18 02:36:09,correctivo,Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.,277258.66
+134,6,2023-09-07 00:16:18,preventivo,In hac habitasse platea dictumst.,156264.6
+135,4,2023-07-24 00:43:09,preventivo,Integer ac neque. Duis bibendum.,75515.81
+136,9,2020-02-21 02:38:38,correctivo,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",187766.54
+137,7,2023-10-20 19:32:11,preventivo,"In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",198224.86
+138,1,2022-08-12 03:12:40,preventivo,Donec quis orci eget orci vehicula condimentum.,83330.91
+139,8,2020-12-22 04:26:20,correctivo,Aenean sit amet justo.,328001.86
+140,9,2024-01-15 07:39:44,correctivo,Duis mattis egestas metus.,293231.01
+141,6,2023-06-27 10:22:11,correctivo,Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.,200979.53
+142,10,2024-05-27 11:53:42,preventivo,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",263590.28
+143,7,2020-04-14 22:44:09,correctivo,Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.,30537.61
+144,7,2024-08-30 04:01:21,correctivo,Praesent blandit. Nam nulla.,218095.7
+145,4,2021-02-22 09:27:59,correctivo,Donec semper sapien a libero.,67926.08
+146,6,2021-02-21 05:08:25,preventivo,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",190093.63
+147,4,2023-05-17 03:00:12,preventivo,Nulla nisl.,254399.95
+148,8,2024-09-24 09:15:19,correctivo,Donec posuere metus vitae ipsum. Aliquam non mauris.,60243.35
+149,3,2020-11-11 14:01:29,preventivo,Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.,29419.01
+150,8,2022-11-26 03:41:14,correctivo,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",84639.94
+151,8,2024-01-09 14:14:48,preventivo,Etiam justo.,193611.17
+152,2,2022-05-04 06:40:29,correctivo,Sed accumsan felis.,81812.13
+153,3,2024-07-21 20:59:01,correctivo,Nullam varius. Nulla facilisi.,216787.33
+154,3,2024-05-27 19:13:16,correctivo,Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.,261677.22
+155,9,2020-02-25 23:45:57,correctivo,"In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",54971.08
+156,3,2020-07-13 13:29:00,correctivo,Aenean fermentum.,190961.24
+157,1,2024-08-20 12:13:01,correctivo,Phasellus id sapien in sapien iaculis congue.,171260.74
+158,9,2021-06-22 17:29:45,preventivo,Aenean sit amet justo.,102313.92
+159,8,2024-10-29 12:46:33,correctivo,Morbi ut odio.,20126.55
+160,3,2021-01-31 15:34:28,preventivo,Nunc nisl.,80446.37
+161,7,2021-10-11 05:02:43,correctivo,Maecenas ut massa quis augue luctus tincidunt.,20487.15
+162,8,2021-12-10 07:33:44,correctivo,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",184969.59
+163,9,2022-10-01 04:25:27,correctivo,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",25837.36
+164,2,2020-07-02 16:49:23,correctivo,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",301642.1
+165,6,2022-11-03 18:16:20,correctivo,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",163193.72
+166,4,2020-11-04 14:56:00,preventivo,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.,326581.44
+167,9,2020-11-28 12:37:56,correctivo,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",316186.29
+168,10,2022-10-18 19:49:28,preventivo,In congue. Etiam justo.,306874.97
+169,8,2020-03-13 13:57:12,correctivo,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",122309.21
+170,3,2021-08-22 15:42:29,preventivo,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",272044.95
+171,8,2021-09-12 06:26:03,preventivo,Quisque porta volutpat erat.,195853.16
+172,7,2021-05-15 16:14:33,preventivo,Curabitur gravida nisi at nibh.,140086.26
+173,4,2021-11-23 11:54:38,correctivo,Nullam molestie nibh in lectus. Pellentesque at nulla.,79322.81
+174,7,2023-10-11 11:00:44,correctivo,Pellentesque viverra pede ac diam.,311405.99
+175,10,2022-07-30 06:20:48,preventivo,Aenean sit amet justo.,122296.65
+176,10,2024-09-19 06:45:48,preventivo,Phasellus sit amet erat. Nulla tempus.,191519.24
+177,5,2023-03-03 09:06:58,correctivo,Nulla mollis molestie lorem. Quisque ut erat.,113380.24
+178,8,2024-01-20 00:57:42,correctivo,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",239814.81
+179,8,2024-09-01 17:59:24,preventivo,Vestibulum ac est lacinia nisi venenatis tristique.,134634.21
+180,9,2020-07-24 17:22:54,preventivo,"Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",207896.53
+181,7,2020-06-25 23:32:55,correctivo,Donec ut dolor.,254886.22
+182,2,2024-12-28 14:10:22,correctivo,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",120279.24
+183,10,2021-08-02 04:07:32,preventivo,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",260933.38
+184,5,2020-09-06 10:36:29,correctivo,In hac habitasse platea dictumst. Etiam faucibus cursus urna.,55927.89
+185,8,2024-05-03 20:09:08,preventivo,"Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",239526.2
+186,8,2023-11-08 23:38:34,preventivo,Suspendisse accumsan tortor quis turpis.,269716.87
+187,8,2020-06-12 05:46:08,correctivo,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",324602.04
+188,1,2022-10-15 08:04:18,correctivo,Proin at turpis a pede posuere nonummy.,141953.66
+189,8,2022-04-28 12:15:47,preventivo,Donec vitae nisi.,132161.31
+190,5,2023-04-12 11:51:52,preventivo,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.,256325.32
+191,2,2022-10-31 06:19:24,preventivo,Duis at velit eu est congue elementum.,15048.71
+192,2,2024-04-05 23:49:13,preventivo,Integer ac neque. Duis bibendum.,342469.42
+193,9,2020-08-27 10:36:43,preventivo,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.",46699.19
+194,10,2020-07-01 23:09:13,correctivo,"Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",116246.06
+195,2,2020-01-04 02:00:32,preventivo,Integer ac leo. Pellentesque ultrices mattis odio.,180592.67
+196,5,2020-10-01 23:52:53,preventivo,Donec posuere metus vitae ipsum.,83720.17
+197,8,2022-04-03 02:06:21,correctivo,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",321259.61
+198,3,2020-01-30 04:20:19,correctivo,"Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",110669.05
+199,5,2024-09-16 03:21:35,preventivo,In sagittis dui vel nisl. Duis ac nibh.,255104.91
+200,6,2021-02-23 02:40:37,preventivo,Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.,216519.94
+201,3,2024-11-26 08:59:33,preventivo,In eleifend quam a odio.,17897.49
+202,1,2020-02-04 08:51:16,preventivo,In blandit ultrices enim.,281886.62
+203,4,2024-09-02 04:17:44,preventivo,Vivamus in felis eu sapien cursus vestibulum.,25290.32
+204,6,2023-12-04 23:42:59,preventivo,Nullam porttitor lacus at turpis.,32923.4
+205,8,2024-01-11 21:26:18,preventivo,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc.",255762.12
+206,4,2024-09-24 00:01:58,correctivo,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.,287244.94
+207,3,2023-03-20 21:14:52,preventivo,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.,276639.92
+208,1,2024-08-20 06:18:11,preventivo,Nulla ac enim.,211522.79
+209,6,2020-08-13 00:36:47,correctivo,Aenean fermentum.,135681.46
+210,10,2020-11-03 14:47:01,correctivo,Aliquam non mauris.,283735.55
+211,8,2022-06-12 04:38:47,preventivo,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.,42754.75
+212,10,2024-06-05 16:16:19,preventivo,"Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",148548.83
+213,6,2020-08-28 04:27:42,correctivo,Suspendisse potenti.,288547.95
+214,10,2021-08-25 04:49:39,correctivo,Nunc rhoncus dui vel sem.,113561.75
+215,9,2023-04-09 09:03:36,preventivo,Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat.,76882.61
+216,5,2022-08-05 16:47:57,correctivo,Aenean fermentum.,102288.16
+217,1,2022-08-25 22:59:01,correctivo,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.,184169.44
+218,6,2023-07-04 23:30:33,correctivo,Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.,20131.06
+219,5,2021-12-08 14:26:38,preventivo,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,283955.79
+220,3,2021-02-21 01:06:13,preventivo,In hac habitasse platea dictumst.,44560.93
+221,2,2023-12-11 16:32:08,correctivo,Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.,40233.62
+222,7,2023-08-06 15:35:51,correctivo,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,162962.87
+223,5,2023-06-25 20:16:23,correctivo,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",44770.43
+224,8,2024-11-19 04:21:06,preventivo,Donec semper sapien a libero.,147016.16
+225,8,2024-01-04 03:18:25,correctivo,Quisque id justo sit amet sapien dignissim vestibulum.,206137.84
+226,9,2021-08-24 22:46:36,correctivo,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",67662.53
+227,9,2024-02-27 10:47:43,correctivo,Suspendisse potenti.,10945.77
+228,1,2020-11-24 22:09:38,preventivo,Proin at turpis a pede posuere nonummy.,238914.01
+229,8,2023-01-13 15:53:13,preventivo,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",214570.82
+230,10,2023-10-14 02:40:39,preventivo,Duis mattis egestas metus. Aenean fermentum.,203061.33
+231,5,2024-05-13 12:40:32,preventivo,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.,213954.34
+232,5,2022-07-23 06:48:00,preventivo,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,238079.58
+233,5,2022-08-29 07:03:01,correctivo,Morbi non lectus.,24254.58
+234,6,2024-01-23 14:52:05,preventivo,Nullam porttitor lacus at turpis.,166335.39
+235,1,2020-05-09 17:36:59,preventivo,Morbi quis tortor id nulla ultrices aliquet.,149471.11
+236,5,2020-07-09 04:30:23,correctivo,Vivamus in felis eu sapien cursus vestibulum.,81928.28
+237,3,2022-06-11 06:47:19,correctivo,Duis consequat dui nec nisi volutpat eleifend.,198760.4
+238,6,2023-12-27 07:51:20,correctivo,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc.",275907.14
+239,5,2021-11-14 23:05:10,correctivo,Maecenas tincidunt lacus at velit.,19741.91
+240,3,2023-02-20 01:20:13,preventivo,In quis justo.,185058.51
+241,8,2023-10-04 17:38:03,preventivo,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",335948.19
+242,8,2024-01-11 15:44:19,preventivo,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",270268.71
+243,7,2022-02-05 22:28:36,preventivo,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",279067.08
+244,6,2021-01-29 22:17:25,correctivo,Duis consequat dui nec nisi volutpat eleifend.,181044.59
+245,10,2024-10-15 16:26:38,preventivo,"Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",138469.03
+246,4,2023-06-25 05:38:56,correctivo,Vivamus vestibulum sagittis sapien.,151933.67
+247,2,2020-12-08 17:53:35,preventivo,"In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",67061.54
+248,9,2022-02-16 03:35:29,correctivo,"Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",252417.79
+249,4,2023-08-07 23:34:59,correctivo,Donec semper sapien a libero.,104409.34
+250,3,2024-10-06 04:07:54,preventivo,Praesent id massa id nisl venenatis lacinia.,34027.46
+251,1,2021-08-16 09:54:02,preventivo,Quisque id justo sit amet sapien dignissim vestibulum.,113832.63
+252,2,2023-01-10 13:41:47,correctivo,Integer ac leo. Pellentesque ultrices mattis odio.,113209.91
+253,8,2020-09-14 02:06:19,preventivo,Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,216496.23
+254,7,2023-07-01 20:43:11,preventivo,Proin risus.,26173.13
+255,4,2021-11-20 20:25:11,preventivo,Etiam faucibus cursus urna. Ut tellus.,78113.99
+256,8,2023-07-29 11:53:04,preventivo,Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,113881.99
+257,5,2024-11-27 02:02:25,correctivo,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",74871.14
+258,8,2022-06-20 04:56:12,correctivo,Suspendisse potenti. Cras in purus eu magna vulputate luctus.,263021.12
+259,4,2022-04-10 06:58:31,correctivo,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",148560.59
+260,8,2020-11-05 15:16:52,preventivo,Morbi quis tortor id nulla ultrices aliquet.,310504.36
+261,9,2021-04-26 10:41:05,preventivo,Morbi vel lectus in quam fringilla rhoncus.,279254.86
+262,8,2021-03-17 03:23:48,preventivo,Phasellus id sapien in sapien iaculis congue.,331430.73
+263,10,2022-12-25 12:28:36,correctivo,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",231554.1
+264,8,2022-12-14 00:45:23,preventivo,"Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",325889.37
+265,5,2020-07-23 12:19:01,correctivo,"In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",196443.6
+266,8,2024-07-02 12:02:07,correctivo,In eleifend quam a odio.,115570.47
+267,9,2020-01-20 21:25:12,correctivo,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus.",223870.95
+268,1,2024-08-01 03:02:13,correctivo,Duis bibendum. Morbi non quam nec dui luctus rutrum.,329524.7
+269,5,2021-10-15 04:59:38,correctivo,Aliquam erat volutpat.,132641.74
+270,5,2020-04-08 14:39:21,correctivo,In hac habitasse platea dictumst. Etiam faucibus cursus urna.,83133.62
+271,5,2024-04-14 20:11:03,preventivo,Suspendisse potenti. Nullam porttitor lacus at turpis.,11482.29
+272,8,2020-05-28 09:51:45,preventivo,Duis consequat dui nec nisi volutpat eleifend.,211291.29
+273,10,2024-09-16 02:12:41,correctivo,Donec quis orci eget orci vehicula condimentum.,41194.47
+274,5,2022-05-21 14:10:09,preventivo,"Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",227389.23
+275,7,2022-05-17 08:20:09,correctivo,Aliquam quis turpis eget elit sodales scelerisque.,119572.69
+276,4,2023-09-11 03:04:45,correctivo,Aenean sit amet justo.,176568.52
+277,7,2022-01-04 22:27:29,preventivo,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",134724.05
+278,10,2024-06-30 13:34:34,preventivo,Duis ac nibh.,319230.16
+279,10,2024-04-08 01:06:38,preventivo,Vivamus tortor. Duis mattis egestas metus.,165959.67
+280,4,2023-12-03 19:32:37,correctivo,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",222829.9
+281,9,2022-11-14 09:03:02,correctivo,Sed accumsan felis. Ut at dolor quis odio consequat varius.,93493.44
+282,7,2022-07-13 22:23:12,preventivo,Aenean lectus. Pellentesque eget nunc.,172068.08
+283,2,2023-01-03 20:13:35,preventivo,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum.",121056.74
+284,4,2021-01-15 21:06:21,preventivo,Etiam vel augue. Vestibulum rutrum rutrum neque.,249985.5
+285,6,2023-06-26 15:57:49,correctivo,Cras in purus eu magna vulputate luctus.,287318.84
+286,4,2023-10-09 23:18:32,preventivo,Duis bibendum.,250287.24
+287,4,2023-06-12 15:46:32,preventivo,Fusce consequat.,190757.42
+288,8,2020-05-18 11:10:19,preventivo,"Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",189245.23
+289,7,2022-12-03 07:34:29,preventivo,Nulla suscipit ligula in lacus.,64731.5
+290,1,2023-05-19 14:13:29,correctivo,Nulla ut erat id mauris vulputate elementum. Nullam varius.,25706.37
+291,4,2020-09-01 18:16:25,correctivo,Etiam vel augue. Vestibulum rutrum rutrum neque.,29763.14
+292,9,2024-09-25 18:27:01,preventivo,Nunc rhoncus dui vel sem. Sed sagittis.,53793.81
+293,1,2024-07-16 01:44:31,correctivo,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",163924.69
+294,1,2023-05-21 18:04:28,preventivo,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum.",264701.33
+295,10,2021-12-23 05:24:49,preventivo,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",233873.88
+296,4,2021-05-08 07:04:24,preventivo,Praesent id massa id nisl venenatis lacinia.,14459.72
+297,1,2024-04-06 10:52:03,correctivo,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",341559.18
+298,9,2022-05-22 05:30:01,correctivo,Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,143200.03
+299,3,2020-11-25 21:55:04,preventivo,Pellentesque viverra pede ac diam.,301325.57
+300,7,2024-10-27 05:39:13,correctivo,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.",218344.82
+301,6,2020-06-11 20:51:06,correctivo,Etiam pretium iaculis justo.,62626.73
+302,1,2021-03-04 20:59:52,preventivo,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",37083.04
+303,1,2020-05-08 16:46:03,correctivo,Nam tristique tortor eu pede.,105719.88
+304,3,2023-09-03 16:03:47,correctivo,Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,308177.91
+305,1,2022-09-06 18:22:48,preventivo,Praesent id massa id nisl venenatis lacinia.,85740.63
+306,7,2021-10-31 12:15:46,preventivo,Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.,268749.64
+307,1,2020-01-01 01:26:26,correctivo,Quisque ut erat. Curabitur gravida nisi at nibh.,32900.62
+308,6,2024-12-14 01:13:02,correctivo,"Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",200982.06
+309,8,2024-10-22 07:17:57,correctivo,Sed ante. Vivamus tortor.,173029.34
+310,1,2020-07-18 19:05:55,correctivo,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus.",141755.1
+311,4,2024-05-27 08:07:12,preventivo,Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.,104247.62
+312,1,2021-04-02 04:29:31,correctivo,In sagittis dui vel nisl.,86851.76
+313,2,2022-11-02 16:01:50,correctivo,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",179739.09
+314,5,2023-08-19 22:52:34,correctivo,In quis justo. Maecenas rhoncus aliquam lacus.,337557.13
+315,5,2024-01-10 00:46:32,correctivo,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",32049.78
+316,2,2020-06-25 06:55:19,correctivo,Aliquam erat volutpat.,251984.86
+317,3,2023-12-24 12:14:53,correctivo,"Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",80049.63
+318,4,2020-07-21 18:58:37,preventivo,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.",34667.58
+319,3,2020-11-13 01:37:40,preventivo,Morbi non quam nec dui luctus rutrum. Nulla tellus.,349351.71
+320,7,2024-09-14 22:10:59,preventivo,Nulla mollis molestie lorem.,74601.49
+321,4,2023-12-02 19:14:34,preventivo,Sed accumsan felis. Ut at dolor quis odio consequat varius.,313344.96
+322,6,2020-08-04 20:26:48,preventivo,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",200655.02
+323,3,2023-10-29 18:26:20,preventivo,Fusce consequat. Nulla nisl.,226618.47
+324,4,2024-07-22 09:16:53,preventivo,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",219902.9
+325,1,2020-05-22 00:22:37,correctivo,Suspendisse potenti.,56281.1
+326,3,2021-12-21 12:47:19,preventivo,Nam tristique tortor eu pede.,238333.67
+327,1,2023-01-06 15:51:04,preventivo,Sed vel enim sit amet nunc viverra dapibus.,34371.59
+328,8,2021-04-22 05:42:18,preventivo,In hac habitasse platea dictumst.,347676.78
+329,10,2020-03-03 00:54:28,correctivo,Sed accumsan felis.,108193.9
+330,4,2023-11-06 02:27:20,correctivo,Vestibulum rutrum rutrum neque.,233206.53
+331,3,2020-05-27 04:22:18,correctivo,Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,268057.36
+332,9,2020-12-15 02:26:39,preventivo,Nulla nisl. Nunc nisl.,306314.11
+333,3,2023-09-15 12:45:34,preventivo,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.,55667.5
+334,8,2022-09-18 21:52:55,preventivo,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.",203349.76
+335,10,2021-02-02 10:38:27,preventivo,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",46722.31
+336,9,2024-08-06 06:43:30,correctivo,Pellentesque eget nunc.,200231.64
+337,9,2020-04-14 18:39:08,correctivo,Fusce consequat. Nulla nisl.,211876.66
+338,9,2020-11-13 08:06:08,correctivo,"In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",295610.49
+339,4,2020-11-24 07:21:47,correctivo,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc.",183869.24
+340,7,2021-10-14 11:39:50,correctivo,Duis aliquam convallis nunc.,214559.71
+341,5,2024-12-03 21:35:22,preventivo,Nulla ut erat id mauris vulputate elementum.,294759.02
+342,5,2020-03-20 05:39:41,preventivo,Curabitur gravida nisi at nibh.,263180.43
+343,7,2022-01-23 06:19:48,correctivo,Cras pellentesque volutpat dui.,201207.29
+344,7,2020-06-19 15:06:58,correctivo,Integer tincidunt ante vel ipsum.,333308.35
+345,10,2024-10-10 16:58:14,correctivo,In eleifend quam a odio. In hac habitasse platea dictumst.,93755.36
+346,5,2022-12-19 15:54:20,preventivo,Quisque porta volutpat erat.,239197.03
+347,3,2020-04-28 08:25:33,preventivo,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",79511.29
+348,8,2020-01-13 02:31:09,preventivo,In hac habitasse platea dictumst.,149985.69
+349,9,2023-11-08 19:03:29,correctivo,Maecenas rhoncus aliquam lacus.,287176.99
+350,4,2021-08-06 18:24:11,correctivo,Duis mattis egestas metus.,338341.55
+351,6,2022-03-01 03:00:20,preventivo,Morbi vel lectus in quam fringilla rhoncus.,289596.7
+352,4,2024-12-14 05:24:40,preventivo,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.",117946.47
+353,7,2021-03-28 08:06:36,preventivo,Ut tellus. Nulla ut erat id mauris vulputate elementum.,315928.13
+354,9,2024-04-04 12:37:37,preventivo,Duis aliquam convallis nunc.,175972.48
+355,3,2024-02-25 08:35:49,correctivo,Pellentesque ultrices mattis odio. Donec vitae nisi.,209384.04
+356,1,2020-07-27 18:54:24,correctivo,Maecenas pulvinar lobortis est.,282753.88
+357,7,2024-05-18 16:12:14,correctivo,Vivamus tortor. Duis mattis egestas metus.,77758.96
+358,1,2023-11-14 20:27:32,preventivo,Fusce posuere felis sed lacus.,311267.55
+359,3,2024-11-24 12:53:55,correctivo,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",293196.68
+360,1,2024-09-10 15:33:20,correctivo,Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,127907.73
+361,4,2022-04-16 03:25:11,preventivo,Nulla tellus.,182377.55
+362,9,2024-02-04 20:55:37,correctivo,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",255537.76
+363,9,2024-07-19 15:16:52,correctivo,Aenean lectus. Pellentesque eget nunc.,341198.02
+364,6,2020-10-08 17:42:16,correctivo,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",333879.87
+365,7,2021-02-15 04:27:11,preventivo,Curabitur at ipsum ac tellus semper interdum.,317751.21
+366,1,2022-09-22 07:08:02,correctivo,Etiam vel augue.,225875.3
+367,2,2021-08-10 15:31:17,correctivo,Etiam vel augue.,176330.57
+368,1,2023-09-08 17:42:53,correctivo,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",11767.7
+369,4,2021-12-15 06:34:39,correctivo,Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,155453.73
+370,7,2024-02-20 13:16:11,correctivo,Curabitur convallis.,187047.74
+371,4,2022-04-16 12:55:54,preventivo,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",325667.36
+372,7,2021-04-24 04:39:01,correctivo,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",165946.47
+373,2,2022-10-30 07:17:39,preventivo,Nulla facilisi. Cras non velit nec nisi vulputate nonummy.,199728.0
+374,5,2024-11-03 18:25:31,correctivo,Quisque ut erat. Curabitur gravida nisi at nibh.,188840.67
+375,5,2022-11-09 00:18:58,preventivo,"In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",211187.56
+376,3,2023-08-23 09:33:24,correctivo,Integer a nibh. In quis justo.,319331.96
+377,6,2022-07-06 15:57:07,preventivo,Sed ante.,90183.06
+378,4,2021-01-14 01:57:56,correctivo,Curabitur gravida nisi at nibh.,136616.38
+379,3,2024-01-04 09:05:12,correctivo,Pellentesque at nulla. Suspendisse potenti.,50635.07
+380,1,2022-08-15 09:43:28,preventivo,"Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",29455.16
+381,3,2024-02-03 22:37:05,preventivo,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",318201.59
+382,3,2022-06-10 05:39:08,preventivo,In eleifend quam a odio. In hac habitasse platea dictumst.,250704.47
+383,10,2023-04-11 02:26:05,preventivo,Nullam porttitor lacus at turpis.,30751.66
+384,5,2020-07-26 22:18:58,correctivo,Mauris sit amet eros.,63432.37
+385,3,2024-06-07 01:25:37,preventivo,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",33964.61
+386,9,2024-05-10 09:24:06,preventivo,In hac habitasse platea dictumst.,144381.43
+387,6,2021-02-06 12:02:44,preventivo,Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,138004.06
+388,2,2024-09-07 07:10:44,correctivo,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",108229.22
+389,9,2023-04-15 21:23:56,correctivo,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",107655.3
+390,1,2024-05-05 12:01:08,correctivo,Proin risus. Praesent lectus.,292564.26
+391,10,2023-02-04 14:16:55,preventivo,Vestibulum ac est lacinia nisi venenatis tristique.,114679.77
+392,8,2023-09-09 20:40:41,preventivo,Duis mattis egestas metus.,114145.91
+393,1,2024-09-27 11:24:28,preventivo,Donec quis orci eget orci vehicula condimentum.,281057.41
+394,1,2023-01-22 20:16:07,correctivo,Aenean fermentum. Donec ut mauris eget massa tempor convallis.,274169.18
+395,4,2024-01-20 23:51:14,preventivo,Phasellus sit amet erat.,256791.28
+396,3,2022-05-15 09:31:55,preventivo,Curabitur at ipsum ac tellus semper interdum.,303469.33
+397,2,2021-01-04 18:08:40,correctivo,Vestibulum ac est lacinia nisi venenatis tristique.,112246.41
+398,9,2020-09-05 10:12:36,preventivo,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",319638.69
+399,6,2023-08-20 00:41:09,preventivo,Morbi quis tortor id nulla ultrices aliquet.,122163.66
+400,5,2024-04-24 04:58:50,preventivo,Cras non velit nec nisi vulputate nonummy.,131294.99
+401,9,2024-02-12 11:05:24,preventivo,Donec dapibus. Duis at velit eu est congue elementum.,90117.0
+402,1,2022-06-14 19:14:27,preventivo,Duis at velit eu est congue elementum.,277041.34
+403,3,2022-05-23 10:50:58,preventivo,Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.,250233.77
+404,3,2020-06-27 20:22:34,correctivo,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",180782.84
+405,5,2024-03-21 06:48:37,correctivo,In hac habitasse platea dictumst.,126544.48
+406,2,2020-05-18 15:05:03,correctivo,In hac habitasse platea dictumst.,177468.69
+407,5,2020-12-31 11:30:22,correctivo,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",225368.43
+408,2,2021-02-21 17:20:49,preventivo,Phasellus id sapien in sapien iaculis congue.,289157.23
+409,2,2023-08-05 09:54:26,preventivo,Nullam sit amet turpis elementum ligula vehicula consequat.,331553.51
+410,8,2020-03-27 14:35:02,preventivo,In blandit ultrices enim.,59944.56
+411,9,2020-07-27 22:29:33,preventivo,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",84365.08
+412,7,2023-12-20 16:13:49,preventivo,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",60628.26
+413,6,2023-06-28 00:40:47,preventivo,Integer ac leo.,201780.41
+414,5,2023-09-19 09:18:27,preventivo,Etiam faucibus cursus urna.,199877.1
+415,3,2020-08-01 09:37:20,correctivo,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",89916.96
+416,5,2021-07-15 04:56:37,preventivo,"Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",328161.38
+417,7,2020-05-26 07:05:25,preventivo,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,250491.0
+418,5,2024-01-30 19:29:35,preventivo,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",249633.82
+419,9,2023-01-13 06:34:56,preventivo,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,104271.47
+420,3,2022-06-03 00:02:41,preventivo,Nullam porttitor lacus at turpis.,123775.69
+421,9,2022-03-09 15:57:18,preventivo,Maecenas pulvinar lobortis est.,234109.17
+422,6,2023-12-31 15:52:10,correctivo,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",262158.85
+423,7,2021-05-17 03:17:27,preventivo,Phasellus id sapien in sapien iaculis congue.,62615.09
+424,10,2024-04-07 12:10:29,preventivo,Vivamus tortor.,12948.58
+425,8,2023-08-06 16:54:47,correctivo,Fusce posuere felis sed lacus.,332954.09
+426,9,2023-06-07 17:59:44,correctivo,Aenean sit amet justo.,52418.37
+427,5,2020-03-10 06:21:30,correctivo,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.,28509.62
+428,5,2023-11-24 23:27:04,correctivo,Duis ac nibh.,246037.72
+429,7,2024-11-27 06:54:11,correctivo,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",194646.78
+430,7,2021-12-04 13:14:20,correctivo,Pellentesque eget nunc.,99681.13
+431,3,2023-03-19 20:16:32,correctivo,Duis at velit eu est congue elementum. In hac habitasse platea dictumst.,13455.48
+432,10,2024-05-27 04:23:44,correctivo,Vestibulum rutrum rutrum neque.,323065.54
+433,2,2021-04-06 19:33:56,preventivo,Nullam sit amet turpis elementum ligula vehicula consequat.,314199.2
+434,2,2022-10-03 01:33:05,preventivo,Cras pellentesque volutpat dui.,142760.47
+435,6,2020-10-14 10:39:23,correctivo,Nunc rhoncus dui vel sem.,146259.86
+436,9,2021-12-08 23:39:23,correctivo,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",166115.65
+437,2,2023-10-22 14:43:01,correctivo,Nulla ut erat id mauris vulputate elementum. Nullam varius.,253240.52
+438,2,2021-10-21 00:00:02,preventivo,Etiam justo.,308700.28
+439,6,2020-06-22 06:37:44,correctivo,Suspendisse potenti. Cras in purus eu magna vulputate luctus.,323108.93
+440,6,2021-03-09 01:38:32,preventivo,Pellentesque ultrices mattis odio.,133438.13
+441,7,2023-08-12 09:57:52,correctivo,Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.,66578.77
+442,8,2021-03-02 13:38:42,preventivo,Duis bibendum. Morbi non quam nec dui luctus rutrum.,243357.91
+443,5,2022-02-18 11:17:54,correctivo,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.,30111.26
+444,8,2020-12-10 03:54:50,preventivo,Proin interdum mauris non ligula pellentesque ultrices.,134375.44
+445,8,2022-07-19 22:44:09,preventivo,"In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",304568.74
+446,3,2024-06-10 05:20:19,preventivo,Integer ac leo.,145986.09
+447,10,2022-05-10 20:40:45,preventivo,Nunc rhoncus dui vel sem.,231669.2
+448,4,2023-01-08 04:20:04,correctivo,Praesent id massa id nisl venenatis lacinia.,182671.88
+449,4,2024-04-26 10:42:12,correctivo,Sed ante. Vivamus tortor.,295243.84
+450,1,2021-10-12 22:38:49,preventivo,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",76045.12
+451,2,2022-03-07 10:31:05,correctivo,Duis consequat dui nec nisi volutpat eleifend.,336200.75
+452,3,2023-09-05 07:13:51,preventivo,In hac habitasse platea dictumst.,329943.38
+453,10,2022-04-22 17:54:40,correctivo,In quis justo. Maecenas rhoncus aliquam lacus.,182352.64
+454,6,2022-03-25 16:39:13,correctivo,Nulla ut erat id mauris vulputate elementum. Nullam varius.,110286.62
+455,9,2021-01-20 19:41:28,preventivo,Nullam molestie nibh in lectus.,22017.0
+456,5,2020-08-16 09:05:08,preventivo,Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,236621.26
+457,10,2022-03-12 04:24:37,correctivo,Quisque id justo sit amet sapien dignissim vestibulum.,13029.67
+458,3,2020-05-22 21:03:07,preventivo,Integer ac neque.,50047.64
+459,3,2023-04-09 13:30:06,correctivo,Nulla suscipit ligula in lacus.,23732.36
+460,8,2020-07-07 04:29:07,correctivo,Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.,152254.77
+461,7,2023-07-06 12:35:01,preventivo,Quisque porta volutpat erat.,199766.21
+462,10,2020-12-10 13:21:10,preventivo,Nulla ut erat id mauris vulputate elementum. Nullam varius.,99325.4
+463,7,2022-07-10 17:41:22,correctivo,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,283359.74
+464,9,2023-05-20 13:45:20,correctivo,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.,324799.42
+465,6,2021-04-27 01:48:29,correctivo,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.,170935.23
+466,9,2024-04-26 03:27:05,correctivo,Fusce posuere felis sed lacus.,333721.48
+467,8,2020-10-30 03:38:26,preventivo,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",245535.55
+468,8,2020-01-03 12:21:24,correctivo,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",241075.24
+469,1,2023-11-12 19:17:52,correctivo,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus.",201143.36
+470,7,2022-09-09 13:05:30,correctivo,Pellentesque at nulla. Suspendisse potenti.,85667.28
+471,5,2023-12-09 01:20:12,preventivo,Integer tincidunt ante vel ipsum.,47507.77
+472,1,2023-10-18 15:28:02,preventivo,Suspendisse potenti. Cras in purus eu magna vulputate luctus.,291550.99
+473,9,2023-11-22 18:26:04,preventivo,Cras in purus eu magna vulputate luctus.,215716.08
+474,7,2020-01-03 21:17:56,correctivo,Cras non velit nec nisi vulputate nonummy.,87890.48
+475,6,2024-01-18 20:07:26,correctivo,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",158917.89
+476,1,2023-07-19 04:53:04,correctivo,In quis justo. Maecenas rhoncus aliquam lacus.,199043.12
+477,7,2023-09-27 14:53:30,preventivo,Aliquam erat volutpat.,187733.87
+478,9,2023-06-04 02:39:21,correctivo,"Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",271093.72
+479,2,2021-02-06 16:03:21,preventivo,Ut tellus. Nulla ut erat id mauris vulputate elementum.,320832.63
+480,1,2021-12-04 13:00:56,preventivo,Vivamus in felis eu sapien cursus vestibulum.,88918.79
+481,1,2020-02-03 22:53:00,preventivo,Ut tellus. Nulla ut erat id mauris vulputate elementum.,52748.37
+482,4,2022-08-01 02:30:02,correctivo,Integer ac leo.,94429.73
+483,5,2022-04-17 16:59:54,correctivo,Aliquam quis turpis eget elit sodales scelerisque.,80237.39
+484,10,2024-09-14 05:45:02,preventivo,In hac habitasse platea dictumst.,302117.07
+485,10,2024-08-12 22:07:20,correctivo,Maecenas rhoncus aliquam lacus.,189720.3
+486,3,2022-07-28 20:53:12,preventivo,Donec semper sapien a libero.,75853.45
+487,4,2024-03-05 07:55:06,correctivo,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,193367.94
+488,1,2022-08-27 21:24:05,correctivo,Pellentesque ultrices mattis odio.,76651.88
+489,10,2023-02-07 12:30:49,preventivo,Mauris lacinia sapien quis libero.,168782.21
+490,3,2021-12-09 06:01:29,correctivo,Duis bibendum.,180002.78
+491,3,2023-09-10 05:21:08,preventivo,Curabitur at ipsum ac tellus semper interdum.,293691.31
+492,7,2022-12-09 06:40:39,preventivo,Cras in purus eu magna vulputate luctus.,276677.73
+493,7,2020-02-18 12:38:45,preventivo,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",146407.57
+494,4,2024-03-01 13:18:50,preventivo,Integer ac leo.,121790.98
+495,3,2024-07-03 06:50:51,correctivo,Vivamus tortor.,158183.25
+496,2,2020-07-09 18:33:26,preventivo,Vivamus tortor. Duis mattis egestas metus.,32206.7
+497,9,2021-03-20 21:12:57,correctivo,Proin at turpis a pede posuere nonummy. Integer non velit.,348718.8
+498,3,2022-04-19 18:13:59,correctivo,Donec posuere metus vitae ipsum.,265396.22
+499,10,2021-01-25 04:28:59,correctivo,Suspendisse potenti.,225639.17
+500,9,2024-07-07 23:02:44,preventivo,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",57855.59
+501,2,2020-07-06 00:45:29,preventivo,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",130408.56
+502,7,2020-02-26 07:50:55,correctivo,Vivamus tortor. Duis mattis egestas metus.,170732.14
+503,3,2020-02-24 08:43:54,correctivo,Aliquam erat volutpat.,12067.65
+504,5,2020-01-30 11:48:56,correctivo,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum.",100789.65
+505,9,2021-04-01 23:05:02,preventivo,Suspendisse accumsan tortor quis turpis.,75700.37
+506,7,2024-08-06 06:56:40,correctivo,Nulla justo.,90859.84
+507,3,2024-07-18 22:24:50,preventivo,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.,329441.04
+508,5,2020-06-20 16:38:45,preventivo,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",96105.85
+509,1,2023-06-16 13:28:27,correctivo,Nunc rhoncus dui vel sem.,14804.54
+510,5,2021-08-16 10:01:17,correctivo,Curabitur gravida nisi at nibh.,265912.81
+511,1,2023-07-30 08:30:51,preventivo,Nunc purus.,24861.3
+512,1,2024-09-03 21:53:21,preventivo,Donec semper sapien a libero. Nam dui.,31434.09
+513,6,2022-02-17 02:52:46,preventivo,Sed accumsan felis.,19716.8
+514,10,2024-07-05 09:41:49,preventivo,Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.,137318.07
+515,9,2022-09-11 14:23:02,preventivo,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",28864.84
+516,4,2023-01-27 06:00:02,correctivo,In hac habitasse platea dictumst.,153915.53
+517,2,2020-02-03 09:04:24,preventivo,Donec quis orci eget orci vehicula condimentum.,265665.04
+518,6,2021-10-09 01:11:10,correctivo,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,244283.16
+519,9,2022-09-09 22:01:45,preventivo,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",315786.41
+520,10,2022-12-30 17:59:08,preventivo,Proin at turpis a pede posuere nonummy.,312076.82
+521,9,2023-09-27 22:21:55,correctivo,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus.",184759.42
+522,2,2021-05-12 08:57:11,preventivo,Nullam varius. Nulla facilisi.,341508.62
+523,2,2020-02-09 02:02:38,correctivo,Aliquam sit amet diam in magna bibendum imperdiet.,107993.44
+524,9,2021-09-01 16:36:36,preventivo,In eleifend quam a odio. In hac habitasse platea dictumst.,347070.22
+525,8,2022-09-12 11:28:16,preventivo,Suspendisse potenti. In eleifend quam a odio.,263706.56
+526,8,2024-01-26 10:44:02,preventivo,"Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",341080.11
+527,4,2022-09-20 14:48:19,preventivo,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus.",154636.41
+528,7,2021-04-10 21:31:01,correctivo,Suspendisse potenti. In eleifend quam a odio.,103819.99
+529,3,2022-05-12 11:16:09,correctivo,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",197165.07
+530,4,2021-04-15 06:26:13,correctivo,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",95213.27
+531,10,2020-09-30 08:37:01,preventivo,Aenean fermentum.,61571.56
+532,3,2020-01-29 06:53:03,correctivo,Aliquam sit amet diam in magna bibendum imperdiet.,190983.49
+533,9,2021-08-12 10:36:19,preventivo,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.,300070.31
+534,2,2022-04-21 00:19:02,preventivo,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",334613.88
+535,10,2023-09-14 21:24:08,correctivo,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.,55215.37
+536,5,2020-01-31 17:03:03,preventivo,In sagittis dui vel nisl. Duis ac nibh.,325009.31
+537,8,2021-10-01 15:18:11,preventivo,In hac habitasse platea dictumst.,94785.18
+538,5,2022-06-28 14:29:49,correctivo,Integer ac neque. Duis bibendum.,327306.43
+539,9,2020-05-10 04:00:39,preventivo,Nunc rhoncus dui vel sem. Sed sagittis.,294933.63
+540,3,2022-02-08 03:29:18,preventivo,Nulla facilisi. Cras non velit nec nisi vulputate nonummy.,181154.85
+541,5,2024-12-06 20:36:58,preventivo,"In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",107436.17
+542,7,2022-09-22 09:29:06,correctivo,In blandit ultrices enim.,296815.89
+543,2,2022-03-09 18:55:18,preventivo,"Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",348387.47
+544,6,2020-12-17 01:02:44,correctivo,Etiam faucibus cursus urna. Ut tellus.,199859.95
+545,2,2022-03-06 01:47:01,preventivo,Nam tristique tortor eu pede.,288300.24
+546,1,2021-05-28 21:16:02,preventivo,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",325635.4
+547,10,2022-03-05 10:30:07,correctivo,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",27927.83
+548,3,2021-03-18 12:16:01,preventivo,In hac habitasse platea dictumst.,216068.74
+549,10,2020-08-01 01:30:38,correctivo,Proin risus. Praesent lectus.,76398.05
+550,9,2024-05-12 19:47:46,preventivo,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",105435.49
+551,6,2024-05-04 03:27:31,preventivo,Nulla nisl.,86043.62
+552,9,2024-02-25 21:43:40,correctivo,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",271935.8
+553,10,2021-07-26 22:45:55,preventivo,Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,92572.0
+554,9,2021-10-13 12:18:52,preventivo,Pellentesque at nulla.,68581.0
+555,6,2021-08-28 09:45:27,preventivo,Duis consequat dui nec nisi volutpat eleifend.,114198.58
+556,1,2020-11-22 00:25:54,correctivo,Nam tristique tortor eu pede.,212177.22
+557,9,2022-09-15 14:51:05,correctivo,In hac habitasse platea dictumst.,345944.88
+558,1,2020-10-11 00:38:43,preventivo,In quis justo.,284290.52
+559,8,2022-04-01 22:43:24,correctivo,In eleifend quam a odio.,46024.63
+560,8,2020-04-28 20:16:50,preventivo,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",93047.68
+561,1,2022-11-01 23:27:01,correctivo,Vivamus vel nulla eget eros elementum pellentesque.,288350.79
+562,2,2021-01-26 06:46:40,correctivo,Proin risus. Praesent lectus.,102337.02
+563,5,2022-04-18 20:05:35,preventivo,Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,87451.03
+564,9,2023-01-19 18:22:00,preventivo,Sed sagittis.,51530.68
+565,6,2023-07-29 12:08:58,preventivo,Morbi a ipsum. Integer a nibh.,313154.46
+566,3,2023-01-30 06:52:33,preventivo,Donec quis orci eget orci vehicula condimentum.,40952.59
+567,4,2024-10-29 14:56:08,preventivo,Vivamus in felis eu sapien cursus vestibulum.,220668.34
+568,9,2020-11-21 09:05:13,correctivo,In sagittis dui vel nisl. Duis ac nibh.,205130.78
+569,2,2023-07-06 23:50:27,preventivo,In sagittis dui vel nisl. Duis ac nibh.,266476.65
+570,1,2024-03-07 20:55:03,preventivo,Ut at dolor quis odio consequat varius. Integer ac leo.,59174.68
+571,10,2021-10-04 11:06:22,correctivo,Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,338158.13
+572,1,2022-01-25 22:03:42,correctivo,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",52141.79
+573,8,2024-07-26 21:33:01,preventivo,Curabitur in libero ut massa volutpat convallis.,72051.47
+574,5,2023-12-20 19:29:15,preventivo,Proin eu mi. Nulla ac enim.,218000.1
+575,8,2024-01-18 22:41:35,preventivo,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.,88593.81
+576,7,2021-03-12 00:01:31,correctivo,Etiam faucibus cursus urna.,145996.29
+577,6,2023-05-23 14:01:27,preventivo,Duis mattis egestas metus.,228493.1
+578,7,2023-12-26 03:50:57,correctivo,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.,222275.42
+579,2,2021-06-27 22:44:59,preventivo,Nullam varius.,137971.23
+580,3,2024-04-07 04:20:23,preventivo,Duis aliquam convallis nunc.,305658.4
+581,2,2024-09-09 15:26:59,preventivo,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",254306.82
+582,3,2023-10-24 16:32:18,correctivo,Suspendisse potenti.,30836.35
+583,6,2023-05-11 21:03:32,correctivo,Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,345860.74
+584,3,2023-02-12 15:03:18,preventivo,Vestibulum ac est lacinia nisi venenatis tristique.,340875.92
+585,10,2023-09-26 23:58:06,preventivo,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",46137.78
+586,9,2020-10-08 22:45:19,preventivo,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",305901.69
+587,5,2024-02-02 05:39:06,correctivo,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.",14036.76
+588,7,2020-01-16 06:22:10,preventivo,Donec posuere metus vitae ipsum. Aliquam non mauris.,124927.86
+589,6,2020-05-13 18:40:46,preventivo,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",115555.57
+590,3,2023-03-06 21:53:08,correctivo,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",220610.29
+591,8,2023-04-09 18:07:59,correctivo,Suspendisse accumsan tortor quis turpis.,264788.53
+592,6,2020-09-22 07:03:06,correctivo,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",67301.76
+593,8,2023-08-19 01:46:34,correctivo,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",14554.75
+594,6,2020-08-28 18:03:27,preventivo,"Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",238951.36
+595,4,2023-01-11 03:38:36,preventivo,Nulla tellus. In sagittis dui vel nisl.,120677.78
+596,1,2024-08-15 19:48:25,correctivo,Vestibulum sed magna at nunc commodo placerat. Praesent blandit.,341695.14
+597,5,2022-03-07 05:22:46,preventivo,Sed accumsan felis.,171153.82
+598,3,2024-06-03 15:02:25,preventivo,Quisque porta volutpat erat.,165294.14
+599,10,2021-06-30 18:02:41,preventivo,Proin eu mi. Nulla ac enim.,51646.22
+600,5,2024-09-16 01:32:44,preventivo,Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,59483.25
+601,5,2021-11-05 14:56:11,preventivo,Nam nulla.,102217.26
+602,8,2024-07-10 10:12:45,correctivo,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.",100172.35
+603,5,2021-01-01 15:57:34,preventivo,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",148756.37
+604,5,2022-01-05 02:55:57,correctivo,Nulla facilisi. Cras non velit nec nisi vulputate nonummy.,213211.69
+605,9,2023-12-31 10:39:57,correctivo,"Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",268738.33
+606,2,2022-01-15 20:25:11,correctivo,Nullam varius.,129653.06
+607,5,2020-10-07 03:55:49,correctivo,Etiam faucibus cursus urna. Ut tellus.,209126.77
+608,2,2021-11-16 00:56:50,correctivo,Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,263527.37
+609,1,2023-11-19 18:59:35,preventivo,Morbi non quam nec dui luctus rutrum.,73637.07
+610,3,2023-09-23 15:13:21,correctivo,Curabitur in libero ut massa volutpat convallis.,195182.93
+611,9,2023-01-26 20:38:28,preventivo,Mauris ullamcorper purus sit amet nulla.,325509.68
+612,2,2022-12-14 01:47:51,correctivo,Donec ut mauris eget massa tempor convallis.,20379.02
+613,1,2023-02-25 00:51:14,correctivo,Phasellus sit amet erat.,234609.37
+614,5,2022-12-07 17:40:00,correctivo,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",173889.76
+615,5,2024-10-14 17:41:58,correctivo,Phasellus sit amet erat. Nulla tempus.,43509.52
+616,4,2021-03-15 12:23:06,preventivo,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",39069.57
+617,10,2020-01-01 20:34:01,correctivo,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.",294692.2
+618,4,2020-12-12 18:13:30,preventivo,Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,69982.14
+619,5,2024-11-19 15:16:38,correctivo,Nunc purus. Phasellus in felis.,177903.5
+620,3,2023-01-05 20:37:24,preventivo,Fusce posuere felis sed lacus.,122041.08
+621,9,2023-03-23 14:39:31,correctivo,Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.,19184.17
+622,3,2023-02-13 09:03:36,preventivo,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",31469.84
+623,4,2022-02-09 20:33:39,correctivo,Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,63180.75
+624,10,2023-07-09 13:54:26,preventivo,Morbi non lectus.,214939.77
+625,1,2023-08-19 02:29:42,preventivo,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",35846.96
+626,8,2024-12-20 10:07:34,preventivo,In hac habitasse platea dictumst.,87664.81
+627,7,2024-09-09 07:52:58,correctivo,Donec dapibus. Duis at velit eu est congue elementum.,215738.06
+628,3,2020-06-29 15:44:46,correctivo,Nulla nisl. Nunc nisl.,102072.47
+629,4,2020-04-10 09:03:29,preventivo,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus.",177158.65
+630,10,2024-09-15 11:19:03,preventivo,Integer tincidunt ante vel ipsum.,133975.28
+631,7,2024-07-22 17:43:43,preventivo,"Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",130042.95
+632,6,2020-06-25 08:49:41,correctivo,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",66621.13
+633,5,2023-08-21 18:11:05,correctivo,In sagittis dui vel nisl. Duis ac nibh.,172731.27
+634,6,2022-11-27 00:47:18,preventivo,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.,234936.12
+635,5,2021-07-20 04:55:17,preventivo,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.,326239.01
+636,8,2022-08-20 01:45:16,preventivo,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",274244.28
+637,2,2020-03-03 23:44:01,correctivo,In hac habitasse platea dictumst.,344422.72
+638,1,2024-07-07 23:54:33,correctivo,Curabitur at ipsum ac tellus semper interdum.,21139.79
+639,7,2023-10-14 05:20:45,correctivo,Nunc purus. Phasellus in felis.,260020.35
+640,4,2021-07-22 15:57:17,preventivo,Vestibulum sed magna at nunc commodo placerat.,317974.1
+641,4,2022-07-09 18:34:17,correctivo,Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,13669.88
+642,10,2024-02-09 20:46:49,preventivo,Cras non velit nec nisi vulputate nonummy.,23786.15
+643,5,2021-05-31 15:22:49,correctivo,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",271268.64
+644,1,2021-08-29 08:38:47,correctivo,Suspendisse potenti. Nullam porttitor lacus at turpis.,85962.66
+645,2,2022-04-23 10:41:09,preventivo,Nulla mollis molestie lorem.,266828.18
+646,7,2023-08-22 14:59:28,preventivo,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",206306.6
+647,4,2024-04-05 18:07:05,correctivo,"In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",254832.18
+648,8,2022-01-24 03:25:32,preventivo,Sed accumsan felis.,304933.27
+649,8,2021-06-29 12:01:25,correctivo,Aenean sit amet justo. Morbi ut odio.,23956.19
+650,7,2020-11-22 07:55:48,correctivo,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",226994.61
+651,9,2024-06-17 09:57:04,preventivo,"Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",33512.64
+652,4,2022-11-26 04:10:04,preventivo,Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.,132684.7
+653,4,2022-09-28 03:38:08,preventivo,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.,182354.98
+654,9,2024-11-17 16:20:19,correctivo,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",177548.92
+655,10,2021-09-24 23:42:44,correctivo,Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.,342565.58
+656,5,2023-12-27 18:48:19,correctivo,Integer tincidunt ante vel ipsum.,111329.71
+657,1,2023-05-29 09:31:19,correctivo,Sed accumsan felis. Ut at dolor quis odio consequat varius.,78893.0
+658,3,2023-03-20 03:59:45,correctivo,Quisque id justo sit amet sapien dignissim vestibulum.,190524.44
+659,7,2021-01-24 07:54:17,correctivo,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",231694.34
+660,6,2024-05-27 12:04:19,correctivo,Nullam varius.,32917.54
+661,3,2023-11-11 00:45:14,correctivo,Etiam pretium iaculis justo.,313266.1
+662,1,2021-11-15 20:55:42,preventivo,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",106845.36
+663,9,2024-07-12 04:53:52,correctivo,Nunc purus.,164026.45
+664,3,2022-07-27 15:05:42,preventivo,Cras in purus eu magna vulputate luctus.,16153.73
+665,9,2024-05-18 01:45:34,preventivo,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",289947.77
+666,7,2020-07-24 22:43:04,correctivo,Integer a nibh. In quis justo.,342583.24
+667,9,2021-10-24 18:57:06,preventivo,"Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",295957.35
+668,3,2024-04-17 03:27:25,correctivo,Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.,210283.24
+669,6,2023-04-18 14:49:42,correctivo,Nulla mollis molestie lorem.,153867.34
+670,3,2024-02-10 11:53:45,correctivo,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.,34736.88
+671,2,2020-12-23 19:13:09,preventivo,Morbi vel lectus in quam fringilla rhoncus.,157628.22
+672,4,2020-02-12 01:22:14,preventivo,Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,237117.86
+673,3,2020-07-11 02:33:27,correctivo,Cras non velit nec nisi vulputate nonummy.,98118.41
+674,4,2024-08-27 09:10:00,correctivo,"Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",34968.27
+675,6,2024-01-30 21:53:36,preventivo,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",81945.8
+676,10,2024-11-03 15:03:54,correctivo,Nullam sit amet turpis elementum ligula vehicula consequat.,185275.11
+677,3,2021-09-21 04:16:57,correctivo,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",66938.52
+678,3,2023-12-31 02:01:03,correctivo,Etiam pretium iaculis justo.,78098.71
+679,6,2024-01-22 22:28:23,correctivo,Integer ac leo.,135361.01
+680,7,2024-10-21 06:06:37,preventivo,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",303352.74
+681,8,2023-02-02 22:39:12,correctivo,Mauris sit amet eros.,88639.7
+682,1,2020-03-01 19:55:15,preventivo,"Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",43071.44
+683,5,2023-05-16 06:30:36,preventivo,Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.,212530.08
+684,9,2021-09-24 18:47:09,preventivo,"Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",316938.38
+685,2,2023-05-06 19:19:51,correctivo,Suspendisse potenti.,221372.95
+686,5,2022-01-12 11:28:08,correctivo,Nulla facilisi. Cras non velit nec nisi vulputate nonummy.,309953.54
+687,6,2020-07-21 22:41:08,preventivo,In hac habitasse platea dictumst.,259900.34
+688,2,2024-06-10 11:47:17,correctivo,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",154415.71
+689,7,2022-06-27 12:22:39,correctivo,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",36755.78
+690,10,2020-12-04 16:37:40,preventivo,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",136815.04
+691,3,2024-05-22 14:12:43,preventivo,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",296081.24
+692,8,2024-03-14 04:28:24,preventivo,Donec ut dolor.,24038.07
+693,2,2021-01-04 12:00:51,preventivo,Morbi non quam nec dui luctus rutrum.,79997.87
+694,3,2024-04-04 18:41:05,preventivo,Etiam pretium iaculis justo.,87715.11
+695,3,2020-05-13 03:33:24,correctivo,Donec quis orci eget orci vehicula condimentum.,199050.18
+696,5,2021-05-14 23:08:25,correctivo,Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,28384.72
+697,1,2023-12-08 01:07:15,preventivo,"Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",224595.46
+698,3,2023-02-19 06:20:54,correctivo,Donec ut mauris eget massa tempor convallis.,157998.37
+699,1,2023-12-07 04:52:49,correctivo,Cras in purus eu magna vulputate luctus.,241492.83
+700,7,2022-07-27 13:59:55,preventivo,"Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",315724.65
+701,10,2023-08-27 05:51:45,correctivo,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",177423.54
+702,1,2021-11-23 13:16:33,correctivo,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",229913.59
+703,7,2022-03-22 23:09:06,preventivo,"Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",297660.88
+704,5,2022-08-19 08:36:19,correctivo,"Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",73247.68
+705,7,2023-06-02 09:13:49,preventivo,Duis mattis egestas metus.,38347.8
+706,6,2020-05-12 23:25:37,preventivo,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",47947.25
+707,2,2023-07-18 07:15:22,preventivo,Proin risus.,333223.33
+708,8,2023-02-14 08:49:52,preventivo,Nulla suscipit ligula in lacus.,72771.44
+709,8,2024-11-16 14:54:51,correctivo,Donec vitae nisi.,118511.16
+710,4,2021-05-15 06:23:58,correctivo,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",308842.77
+711,4,2021-06-04 01:44:09,preventivo,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",28128.09
+712,2,2020-08-28 13:29:01,preventivo,Nunc purus. Phasellus in felis.,318109.08
+713,6,2021-04-02 05:39:15,correctivo,Praesent blandit lacinia erat.,122623.46
+714,6,2024-11-03 13:32:22,correctivo,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",171199.51
+715,7,2020-08-17 12:51:41,preventivo,Aenean sit amet justo. Morbi ut odio.,98967.79
+716,10,2021-11-14 15:07:56,correctivo,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",317143.37
+717,6,2022-10-02 09:45:02,correctivo,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",338228.98
+718,5,2023-12-21 02:16:08,correctivo,Suspendisse potenti.,91105.69
+719,3,2024-11-08 01:55:38,preventivo,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",126009.56
+720,4,2024-09-14 19:17:29,correctivo,Proin interdum mauris non ligula pellentesque ultrices.,236829.66
+721,4,2020-08-29 21:56:06,preventivo,Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.,168466.96
+722,1,2020-08-23 01:35:16,preventivo,Sed accumsan felis.,285303.44
+723,3,2021-06-05 11:47:39,preventivo,Donec ut mauris eget massa tempor convallis.,240828.65
+724,4,2020-11-14 00:48:32,correctivo,Sed accumsan felis.,115437.58
+725,3,2021-09-23 04:06:24,preventivo,Etiam faucibus cursus urna. Ut tellus.,315040.08
+726,4,2024-07-16 23:57:30,correctivo,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",47594.46
+727,5,2023-03-21 01:13:17,preventivo,Ut tellus. Nulla ut erat id mauris vulputate elementum.,186786.9
+728,10,2023-05-07 16:30:22,preventivo,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",165955.61
+729,2,2021-03-18 04:52:15,correctivo,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",311292.65
+730,8,2020-04-05 05:26:28,correctivo,In hac habitasse platea dictumst. Etiam faucibus cursus urna.,25252.2
+731,3,2024-07-31 19:15:53,correctivo,Nam tristique tortor eu pede.,12617.66
+732,1,2021-05-24 13:57:19,correctivo,Curabitur gravida nisi at nibh.,172910.36
+733,5,2023-04-05 06:43:31,preventivo,Phasellus in felis.,255844.85
+734,10,2023-12-15 03:10:43,correctivo,Suspendisse ornare consequat lectus.,161493.43
+735,1,2020-01-12 22:38:26,correctivo,Curabitur at ipsum ac tellus semper interdum.,329172.43
+736,4,2022-08-25 17:18:50,preventivo,Curabitur in libero ut massa volutpat convallis.,219176.67
+737,7,2023-08-25 09:04:29,correctivo,"Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",186526.94
+738,3,2020-05-10 15:23:46,preventivo,Nunc purus. Phasellus in felis.,143362.43
+739,3,2022-11-05 00:18:25,correctivo,Donec dapibus. Duis at velit eu est congue elementum.,177361.22
+740,4,2020-12-07 13:10:15,preventivo,"Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",108280.95
+741,1,2024-08-17 02:52:30,preventivo,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",248806.46
+742,2,2023-09-14 19:01:44,correctivo,Nulla ut erat id mauris vulputate elementum.,238384.34
+743,3,2021-12-16 02:08:08,preventivo,Phasellus sit amet erat. Nulla tempus.,88903.29
+744,9,2020-04-18 02:19:39,correctivo,Proin interdum mauris non ligula pellentesque ultrices.,87723.43
+745,10,2020-03-15 19:32:13,preventivo,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.,199401.22
+746,10,2023-12-25 02:07:13,correctivo,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",30574.64
+747,6,2021-02-03 12:38:38,correctivo,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.",140000.3
+748,10,2020-06-23 11:26:36,correctivo,Sed ante. Vivamus tortor.,236112.37
+749,1,2024-01-21 14:57:34,preventivo,Sed sagittis.,211598.96
+750,10,2024-05-31 23:23:26,preventivo,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",23844.5
+751,5,2022-12-21 17:50:32,preventivo,In hac habitasse platea dictumst.,21527.35
+752,4,2022-04-01 02:32:59,correctivo,Suspendisse accumsan tortor quis turpis.,29657.18
+753,4,2023-02-27 17:58:41,correctivo,Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,178903.62
+754,8,2022-07-04 09:20:34,preventivo,"In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",205245.65
+755,2,2024-10-17 06:23:48,preventivo,Maecenas tincidunt lacus at velit.,53971.35
+756,6,2020-04-28 20:30:19,preventivo,Nullam varius. Nulla facilisi.,139006.77
+757,6,2020-08-30 06:12:15,preventivo,Nam nulla.,126631.25
+758,6,2021-06-14 22:29:45,correctivo,Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,87495.01
+759,10,2024-10-22 07:43:35,preventivo,Suspendisse potenti.,204024.52
+760,6,2024-10-26 20:19:03,preventivo,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",282307.02
+761,2,2024-12-14 16:14:36,correctivo,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.,191098.71
+762,7,2024-07-31 05:36:38,correctivo,Nulla nisl.,299322.86
+763,1,2022-04-17 14:38:56,preventivo,Morbi porttitor lorem id ligula.,77529.17
+764,5,2022-01-30 12:41:25,preventivo,Sed ante. Vivamus tortor.,271255.88
+765,3,2021-08-27 10:23:49,correctivo,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",59310.4
+766,3,2022-02-28 21:59:25,correctivo,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",122304.03
+767,6,2021-11-27 01:34:47,correctivo,Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.,60281.22
+768,8,2023-09-19 14:38:04,correctivo,Cras non velit nec nisi vulputate nonummy.,10653.65
+769,7,2021-05-24 11:15:30,correctivo,Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.,323043.34
+770,6,2022-01-24 01:07:35,preventivo,Fusce posuere felis sed lacus.,221831.7
+771,7,2023-01-30 11:13:40,preventivo,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",113929.37
+772,6,2020-03-24 18:10:59,preventivo,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.,133060.5
+773,10,2023-09-30 12:23:47,correctivo,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",168907.75
+774,9,2024-10-23 20:26:20,correctivo,"Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",92261.77
+775,5,2024-05-04 05:40:16,preventivo,Duis aliquam convallis nunc.,292486.78
+776,3,2024-10-27 18:56:47,correctivo,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",178282.97
+777,10,2024-03-30 08:12:51,correctivo,In congue.,195215.68
+778,10,2021-07-16 23:57:27,correctivo,Morbi vel lectus in quam fringilla rhoncus.,51396.03
+779,1,2024-04-18 19:40:40,correctivo,"Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",217998.91
+780,5,2021-10-22 14:22:58,correctivo,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",159219.69
+781,9,2021-02-06 04:38:55,correctivo,Nulla ac enim.,228352.01
+782,2,2024-12-08 10:29:23,correctivo,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.",36209.75
+783,9,2021-07-22 06:48:06,preventivo,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",330807.48
+784,2,2024-02-26 03:14:26,correctivo,Aenean sit amet justo. Morbi ut odio.,12316.49
+785,7,2023-04-05 08:54:55,preventivo,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.,170178.05
+786,2,2022-01-31 22:56:08,correctivo,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",237918.09
+787,1,2022-08-16 20:13:50,correctivo,Aenean fermentum. Donec ut mauris eget massa tempor convallis.,233016.51
+788,10,2021-06-06 18:04:46,correctivo,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",213281.07
+789,2,2020-03-24 19:58:20,correctivo,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",316074.68
+790,8,2024-08-02 04:26:52,correctivo,"Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",235875.66
+791,7,2020-03-24 18:04:25,preventivo,Pellentesque eget nunc.,154558.88
+792,1,2021-07-13 06:17:59,preventivo,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",139202.6
+793,6,2020-07-18 23:57:26,correctivo,Proin interdum mauris non ligula pellentesque ultrices.,236227.87
+794,6,2023-06-29 14:25:42,correctivo,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",189413.15
+795,7,2022-05-24 12:20:44,preventivo,Aliquam erat volutpat. In congue.,116258.01
+796,1,2024-06-01 18:48:49,correctivo,Etiam vel augue. Vestibulum rutrum rutrum neque.,204306.77
+797,4,2020-06-04 23:19:56,preventivo,Ut tellus. Nulla ut erat id mauris vulputate elementum.,108657.97
+798,2,2022-07-23 03:25:05,preventivo,Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.,121194.82
+799,10,2021-01-23 02:08:39,preventivo,Maecenas ut massa quis augue luctus tincidunt.,165391.17
+800,5,2021-01-23 05:56:06,correctivo,Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.,105232.82
+801,10,2021-05-25 23:42:26,correctivo,Proin at turpis a pede posuere nonummy.,185067.62
+802,5,2022-11-15 16:10:08,correctivo,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",294719.93
+803,5,2020-03-09 05:57:29,preventivo,Sed vel enim sit amet nunc viverra dapibus.,69544.36
+804,6,2024-07-30 21:24:34,preventivo,Ut at dolor quis odio consequat varius. Integer ac leo.,211040.46
+805,10,2024-07-27 11:26:01,preventivo,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",70192.99
+806,3,2021-12-17 02:17:29,preventivo,In sagittis dui vel nisl.,314239.87
+807,4,2023-03-02 05:36:19,correctivo,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",276978.83
+808,4,2024-03-04 12:50:27,correctivo,Suspendisse potenti.,181117.71
+809,9,2024-05-24 11:58:25,correctivo,Nunc purus. Phasellus in felis.,29432.83
+810,4,2021-10-21 22:32:29,correctivo,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",178111.31
+811,2,2024-10-07 06:32:19,preventivo,Nullam molestie nibh in lectus.,22877.29
+812,10,2023-10-12 09:07:25,correctivo,Suspendisse accumsan tortor quis turpis.,319702.64
+813,8,2021-04-06 06:49:04,preventivo,Integer ac leo. Pellentesque ultrices mattis odio.,133714.66
+814,2,2020-02-12 14:23:35,correctivo,Aliquam sit amet diam in magna bibendum imperdiet.,243693.95
+815,4,2024-08-23 15:50:25,correctivo,Morbi non lectus.,65067.1
+816,5,2021-09-05 07:01:05,correctivo,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",66584.44
+817,1,2021-06-25 09:42:19,correctivo,Proin risus.,309787.18
+818,4,2021-07-20 22:32:04,correctivo,Donec dapibus. Duis at velit eu est congue elementum.,273620.32
+819,6,2020-04-28 02:37:53,correctivo,"Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",67793.06
+820,5,2022-03-29 21:03:15,preventivo,Morbi vel lectus in quam fringilla rhoncus.,151765.57
+821,6,2020-04-06 02:20:33,correctivo,Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.,180441.98
+822,3,2021-06-21 23:16:47,preventivo,Donec semper sapien a libero. Nam dui.,316395.09
+823,8,2021-11-15 22:22:07,preventivo,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.",246372.13
+824,1,2024-02-09 12:43:17,preventivo,Etiam pretium iaculis justo. In hac habitasse platea dictumst.,208910.68
+825,2,2023-02-16 16:01:17,correctivo,Nullam molestie nibh in lectus.,37071.4
+826,8,2024-07-24 06:23:56,correctivo,Etiam justo.,341350.4
+827,10,2020-08-28 00:08:08,correctivo,Pellentesque ultrices mattis odio. Donec vitae nisi.,210684.32
+828,4,2020-08-30 13:52:16,correctivo,In hac habitasse platea dictumst.,179115.76
+829,9,2021-05-02 19:47:34,correctivo,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",28318.3
+830,1,2020-12-14 01:01:35,preventivo,"Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",53124.87
+831,10,2022-05-02 04:09:15,correctivo,In blandit ultrices enim.,160108.65
+832,8,2024-03-29 09:54:26,correctivo,Maecenas tincidunt lacus at velit.,80262.7
+833,6,2023-04-19 14:23:24,correctivo,Mauris lacinia sapien quis libero.,125595.07
+834,6,2022-10-10 16:00:06,correctivo,Duis at velit eu est congue elementum.,201684.34
+835,10,2023-10-16 07:22:05,correctivo,"Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",105338.74
+836,3,2023-04-08 06:07:19,correctivo,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",280930.77
+837,3,2022-08-02 03:26:52,correctivo,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.",199501.1
+838,9,2024-01-27 05:41:43,correctivo,"Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",320055.98
+839,10,2023-07-11 01:22:45,preventivo,Quisque porta volutpat erat.,236199.04
+840,1,2024-05-20 08:06:27,correctivo,Pellentesque at nulla. Suspendisse potenti.,89947.35
+841,7,2023-10-18 22:45:35,preventivo,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.",178078.12
+842,9,2023-11-25 10:35:25,preventivo,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",195663.54
+843,8,2024-11-03 11:47:17,correctivo,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.",342180.16
+844,7,2024-05-24 02:32:47,correctivo,Phasellus sit amet erat. Nulla tempus.,203103.21
+845,2,2022-07-29 02:56:10,correctivo,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.",80235.21
+846,6,2024-09-20 19:05:49,correctivo,Nunc nisl.,168856.9
+847,2,2024-05-08 21:52:40,correctivo,"Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",212570.29
+848,3,2020-11-18 06:57:06,preventivo,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.",305477.65
+849,9,2021-06-27 06:27:07,preventivo,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.,81989.72
+850,3,2022-06-22 11:37:57,correctivo,"Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",219906.52
+851,4,2023-07-31 23:10:02,correctivo,Morbi vel lectus in quam fringilla rhoncus.,73763.07
+852,5,2022-09-01 22:36:42,preventivo,Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.,346867.94
+853,5,2020-06-27 13:15:05,correctivo,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",96147.83
+854,6,2020-10-14 05:14:46,preventivo,Fusce consequat. Nulla nisl.,105658.1
+855,1,2021-06-29 17:20:32,preventivo,Donec posuere metus vitae ipsum. Aliquam non mauris.,228522.01
+856,3,2021-01-09 15:59:58,correctivo,Suspendisse potenti.,97558.63
+857,3,2024-12-10 06:18:17,preventivo,Pellentesque at nulla. Suspendisse potenti.,190183.92
+858,8,2021-09-27 15:19:54,preventivo,In eleifend quam a odio.,194145.39
+859,1,2024-06-12 08:04:10,correctivo,Aenean auctor gravida sem.,279817.57
+860,5,2021-05-21 13:20:11,preventivo,Vestibulum ac est lacinia nisi venenatis tristique.,36002.0
+861,5,2020-12-05 17:48:27,correctivo,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",196164.38
+862,9,2024-06-25 16:37:02,correctivo,Curabitur in libero ut massa volutpat convallis.,260390.36
+863,10,2022-07-19 08:32:02,correctivo,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.",321443.69
+864,3,2022-11-09 02:09:50,preventivo,Sed ante.,281384.76
+865,1,2021-01-07 00:47:04,preventivo,Integer a nibh. In quis justo.,155485.31
+866,5,2023-04-15 20:50:54,preventivo,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",64754.55
+867,6,2022-03-12 01:59:42,preventivo,Aliquam sit amet diam in magna bibendum imperdiet.,172511.35
+868,10,2021-11-01 18:30:50,correctivo,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",130184.47
+869,3,2021-10-26 12:17:13,correctivo,Nullam molestie nibh in lectus.,246195.45
+870,6,2022-10-28 17:57:07,preventivo,Phasellus sit amet erat.,11584.22
+871,6,2020-06-20 07:56:13,preventivo,Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.,303961.46
+872,3,2020-11-30 16:50:52,correctivo,Donec ut mauris eget massa tempor convallis.,154004.84
+873,4,2023-07-10 11:22:47,preventivo,In hac habitasse platea dictumst. Etiam faucibus cursus urna.,28849.62
+874,5,2021-02-16 02:40:50,correctivo,"Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",206957.8
+875,10,2021-10-09 11:53:57,preventivo,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",24000.15
+876,2,2020-12-27 11:04:50,correctivo,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",228888.12
+877,5,2020-12-03 12:17:23,correctivo,"Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",330254.28
+878,7,2022-11-23 13:02:59,correctivo,Quisque ut erat.,150438.28
+879,3,2020-10-15 15:25:52,correctivo,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum.",19923.18
+880,5,2020-03-25 06:38:29,preventivo,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,279068.02
+881,1,2022-07-29 13:17:42,correctivo,Donec dapibus.,162489.56
+882,3,2024-12-29 22:19:38,correctivo,"Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",321853.2
+883,1,2022-02-03 11:58:27,correctivo,Aenean lectus. Pellentesque eget nunc.,199690.77
+884,6,2024-01-30 23:45:08,preventivo,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.,114579.54
+885,8,2024-04-01 21:20:21,correctivo,Aliquam quis turpis eget elit sodales scelerisque.,291320.38
+886,2,2022-03-10 02:07:44,preventivo,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.,224100.19
+887,2,2023-05-03 06:19:10,preventivo,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",129655.25
+888,9,2024-10-05 22:50:00,preventivo,Aenean sit amet justo.,337586.84
+889,7,2021-07-04 23:42:31,correctivo,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",287206.55
+890,10,2021-09-02 02:52:17,preventivo,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.",327031.92
+891,3,2024-09-27 17:04:23,preventivo,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",142836.52
+892,9,2020-07-18 19:11:14,preventivo,In hac habitasse platea dictumst.,138023.12
+893,7,2023-01-18 20:26:36,correctivo,Donec semper sapien a libero. Nam dui.,194517.96
+894,5,2024-02-29 00:11:33,preventivo,Sed sagittis.,314471.9
+895,4,2024-01-01 11:21:37,correctivo,Cras in purus eu magna vulputate luctus.,259319.42
+896,7,2024-05-06 14:47:43,correctivo,Aliquam non mauris.,103540.51
+897,7,2024-05-22 09:11:22,preventivo,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",204547.72
+898,3,2024-08-02 04:03:35,correctivo,Curabitur at ipsum ac tellus semper interdum.,189086.64
+899,4,2023-03-23 20:28:05,correctivo,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",347802.93
+900,7,2020-01-23 16:00:26,preventivo,In sagittis dui vel nisl. Duis ac nibh.,104784.6
+901,9,2023-07-17 20:41:38,preventivo,Integer ac leo. Pellentesque ultrices mattis odio.,147621.11
+902,4,2020-11-03 09:39:17,correctivo,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.,248913.42
+903,9,2021-05-03 02:31:55,correctivo,Donec semper sapien a libero.,96394.19
+904,8,2024-08-24 13:25:03,preventivo,Aenean fermentum. Donec ut mauris eget massa tempor convallis.,131304.65
+905,6,2021-12-13 18:54:54,correctivo,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",293026.5
+906,3,2020-08-07 23:54:32,correctivo,"Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",346208.41
+907,9,2020-03-17 09:00:07,correctivo,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",224982.6
+908,9,2021-08-16 09:50:30,correctivo,Maecenas tincidunt lacus at velit.,144432.01
+909,9,2021-04-14 16:26:24,preventivo,Nulla tellus.,26031.42
+910,4,2022-08-02 22:43:09,correctivo,"In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",252375.8
+911,1,2022-08-31 23:05:46,correctivo,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",171129.74
+912,8,2022-04-30 00:26:31,correctivo,"Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",339165.96
+913,5,2021-08-23 21:02:46,correctivo,In eleifend quam a odio. In hac habitasse platea dictumst.,111974.81
+914,4,2023-06-25 21:38:10,preventivo,Nunc nisl.,194100.76
+915,4,2024-09-29 16:03:31,preventivo,"Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",226241.9
+916,3,2024-02-14 13:43:47,preventivo,Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,288275.04
+917,9,2020-08-08 13:24:19,correctivo,In blandit ultrices enim.,271127.14
+918,1,2024-10-11 14:16:28,correctivo,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.,88101.21
+919,8,2023-02-10 13:43:53,correctivo,Phasellus in felis.,83234.2
+920,8,2022-04-18 14:30:43,correctivo,Suspendisse accumsan tortor quis turpis. Sed ante.,81062.29
+921,4,2022-07-05 13:07:43,correctivo,Suspendisse potenti. Nullam porttitor lacus at turpis.,153244.21
+922,8,2023-12-27 17:18:37,correctivo,Praesent lectus.,118073.44
+923,10,2020-06-17 00:57:43,preventivo,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",214242.26
+924,9,2020-05-06 20:38:25,correctivo,Fusce consequat.,243581.91
+925,9,2024-08-26 05:28:58,correctivo,Morbi non lectus.,86773.13
+926,2,2021-10-02 11:03:08,preventivo,"Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",80219.5
+927,5,2024-02-04 20:18:22,correctivo,Nullam molestie nibh in lectus. Pellentesque at nulla.,335067.85
+928,8,2022-04-18 15:37:18,preventivo,Nulla ac enim.,160353.37
+929,1,2022-07-27 15:39:34,correctivo,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",159186.03
+930,7,2023-02-18 23:02:56,preventivo,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc.",184442.54
+931,5,2024-07-19 17:58:57,preventivo,"Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",112287.93
+932,1,2024-12-24 21:46:33,correctivo,Fusce consequat. Nulla nisl.,148409.7
+933,7,2024-04-20 01:51:12,preventivo,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.",28423.82
+934,6,2021-05-12 23:47:59,preventivo,Morbi quis tortor id nulla ultrices aliquet.,81581.85
+935,7,2023-10-23 17:49:21,correctivo,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",184937.43
+936,5,2023-04-26 16:36:31,correctivo,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",277555.06
+937,5,2023-06-20 01:12:59,correctivo,"Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",295035.88
+938,7,2022-12-20 12:05:34,correctivo,Suspendisse potenti. Nullam porttitor lacus at turpis.,73867.82
+939,6,2023-05-07 10:29:28,preventivo,Curabitur at ipsum ac tellus semper interdum.,30414.25
+940,2,2024-09-10 21:41:03,preventivo,In hac habitasse platea dictumst.,145452.2
+941,5,2023-01-17 14:06:42,correctivo,Duis mattis egestas metus. Aenean fermentum.,135575.24
+942,1,2022-01-20 02:16:17,preventivo,Vestibulum ac est lacinia nisi venenatis tristique.,207044.81
+943,8,2020-01-17 00:31:13,correctivo,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",254462.8
+944,3,2023-09-21 05:50:06,preventivo,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.,73203.49
+945,4,2023-02-02 02:27:35,correctivo,Mauris sit amet eros.,95147.17
+946,8,2024-05-16 11:14:55,correctivo,Fusce consequat.,328812.53
+947,7,2020-07-27 16:12:30,correctivo,Fusce posuere felis sed lacus.,25900.71
+948,2,2022-02-06 04:30:08,preventivo,Suspendisse potenti. In eleifend quam a odio.,81255.93
+949,7,2021-05-12 17:25:41,preventivo,Nunc rhoncus dui vel sem.,188264.1
+950,5,2022-09-21 20:48:25,correctivo,In hac habitasse platea dictumst.,129111.63
+951,2,2024-10-20 18:33:20,correctivo,Nulla tempus.,135709.63
+952,4,2023-09-15 15:09:54,preventivo,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",196324.73
+953,8,2021-01-19 04:23:03,preventivo,Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum.,18061.35
+954,8,2024-02-10 16:43:27,preventivo,Cras non velit nec nisi vulputate nonummy.,176883.49
+955,5,2020-04-08 13:57:15,correctivo,Suspendisse potenti. Nullam porttitor lacus at turpis.,94827.88
+956,7,2023-03-17 17:09:49,correctivo,Quisque porta volutpat erat.,209547.95
+957,3,2020-03-22 15:38:25,preventivo,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",121859.65
+958,7,2022-12-28 15:30:18,correctivo,Donec ut dolor.,147230.44
+959,6,2022-07-02 13:31:56,preventivo,Nunc purus. Phasellus in felis.,206402.76
+960,5,2023-07-20 06:59:43,correctivo,Phasellus sit amet erat.,188245.65
+961,8,2022-07-22 01:50:41,preventivo,Ut at dolor quis odio consequat varius.,81551.09
+962,8,2023-12-13 05:36:47,correctivo,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",189577.6
+963,10,2024-08-02 21:43:24,correctivo,Sed ante.,90101.9
+964,7,2021-10-26 04:20:47,correctivo,Nullam molestie nibh in lectus. Pellentesque at nulla.,310128.61
+965,7,2024-01-23 21:01:26,correctivo,Phasellus in felis.,323763.57
+966,10,2023-01-14 06:48:59,preventivo,"Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",327572.44
+967,1,2021-08-16 13:04:09,correctivo,Fusce consequat.,203954.92
+968,5,2020-03-16 03:17:13,correctivo,Mauris lacinia sapien quis libero.,104935.33
+969,9,2024-03-29 21:51:07,preventivo,Nulla tellus.,64072.48
+970,2,2024-01-04 07:41:55,preventivo,Nullam molestie nibh in lectus. Pellentesque at nulla.,27792.02
+971,2,2024-04-10 14:10:23,preventivo,Morbi quis tortor id nulla ultrices aliquet.,28259.27
+972,5,2023-04-15 04:58:04,preventivo,Integer ac leo. Pellentesque ultrices mattis odio.,320806.17
+973,4,2024-03-22 18:22:31,correctivo,Morbi porttitor lorem id ligula.,344479.83
+974,7,2020-09-23 06:14:21,correctivo,In hac habitasse platea dictumst.,36086.35
+975,4,2022-04-14 06:11:59,preventivo,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",17148.75
+976,5,2021-06-30 02:31:06,preventivo,Integer ac neque. Duis bibendum.,105304.21
+977,8,2021-10-02 07:31:27,correctivo,Donec posuere metus vitae ipsum. Aliquam non mauris.,273774.87
+978,2,2020-05-17 06:28:15,preventivo,"Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",52463.89
+979,5,2020-09-24 10:15:57,preventivo,In congue. Etiam justo.,136082.37
+980,6,2021-11-24 02:56:38,correctivo,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",229428.49
+981,4,2020-12-17 12:48:31,preventivo,"In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",16892.93
+982,6,2021-12-03 02:35:02,preventivo,Integer tincidunt ante vel ipsum.,110823.04
+983,1,2022-07-23 05:22:32,preventivo,Phasellus in felis.,169838.94
+984,3,2020-08-12 21:24:09,correctivo,Duis mattis egestas metus. Aenean fermentum.,20282.32
+985,4,2023-07-22 05:59:34,preventivo,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",138063.78
+986,10,2024-02-11 08:34:56,preventivo,Vivamus vestibulum sagittis sapien.,263617.46
+987,4,2020-02-23 23:37:41,correctivo,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",302354.32
+988,5,2020-10-25 14:26:43,correctivo,Integer ac leo.,262440.74
+989,10,2024-07-05 09:15:43,correctivo,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus.",267467.29
+990,4,2021-02-07 22:35:19,preventivo,Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,128684.78
+991,5,2021-02-10 16:56:56,correctivo,Nulla tellus.,41381.48
+992,2,2020-09-19 20:05:40,correctivo,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",43851.99
+993,6,2022-05-20 06:04:25,preventivo,Praesent id massa id nisl venenatis lacinia.,79351.95
+994,2,2024-10-13 01:48:41,correctivo,Quisque id justo sit amet sapien dignissim vestibulum.,309042.02
+995,2,2024-10-06 04:30:07,correctivo,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",44706.65
+996,5,2020-11-06 03:45:13,correctivo,"Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",60369.1
+997,5,2024-08-28 21:29:07,preventivo,Suspendisse accumsan tortor quis turpis.,132491.41
+998,8,2021-03-08 10:01:16,preventivo,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.,288247.97
+999,9,2024-04-09 05:12:07,correctivo,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",294438.02
+1000,7,2024-11-16 23:46:58,correctivo,Nullam porttitor lacus at turpis.,193901.7

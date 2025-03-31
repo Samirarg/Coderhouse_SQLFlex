@@ -1,0 +1,1001 @@
+id_pedido,fecha_pedido,id_cliente,descripcion_pedido,peso,volumen,estado_pedido
+1,2020-04-24 08:48:18,136,Nulla tellus. In sagittis dui vel nisl.,75,1.2,pendiente
+2,2021-02-13 22:54:42,17,Quisque porta volutpat erat.,120,6.0,entregado
+3,2021-10-14 22:38:30,117,Pellentesque at nulla.,75,4.8,en transito
+4,2020-04-04 03:24:43,60,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.,90,4.8,entregado
+5,2020-02-17 15:08:50,62,Sed sagittis.,120,8.0,cancelado
+6,2023-12-17 13:20:06,93,Proin at turpis a pede posuere nonummy. Integer non velit.,75,4.0,pendiente
+7,2022-10-23 20:37:53,108,Fusce posuere felis sed lacus.,45,2.5,pendiente
+8,2021-08-13 01:00:16,134,"Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",45,6.0,cancelado
+9,2023-05-30 06:34:00,98,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",45,3.1,cancelado
+10,2024-05-01 17:00:25,114,Quisque id justo sit amet sapien dignissim vestibulum.,110,4.0,pendiente
+11,2022-12-07 23:09:24,144,In hac habitasse platea dictumst.,75,4.8,en transito
+12,2020-04-04 11:25:29,141,"Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",135,6.0,entregado
+13,2021-09-19 16:14:14,86,"Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",45,9.1,pendiente
+14,2024-05-17 11:34:38,93,"Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",135,8.0,entregado
+15,2020-08-15 23:14:07,147,Pellentesque at nulla.,120,7.2,cancelado
+16,2022-10-02 10:23:50,25,Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.,135,6.0,en transito
+17,2020-07-01 08:12:22,21,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.,45,1.2,pendiente
+18,2021-02-08 04:41:35,150,Nam tristique tortor eu pede.,120,5.5,cancelado
+19,2020-12-27 05:24:21,116,Pellentesque ultrices mattis odio.,110,2.5,en transito
+20,2021-10-23 23:20:56,26,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",135,4.0,cancelado
+21,2024-07-17 00:05:58,42,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",45,5.5,cancelado
+22,2022-06-01 08:17:41,85,Sed ante. Vivamus tortor.,110,5.5,entregado
+23,2020-12-12 01:36:18,84,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",110,5.5,pendiente
+24,2023-06-09 05:12:31,140,Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.,45,5.5,cancelado
+25,2021-01-20 15:39:09,148,In hac habitasse platea dictumst.,15,5.5,en transito
+26,2023-10-28 13:34:59,43,Duis at velit eu est congue elementum. In hac habitasse platea dictumst.,120,4.0,cancelado
+27,2023-10-17 18:55:14,86,Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,110,6.0,pendiente
+28,2021-05-30 18:28:59,137,Morbi vel lectus in quam fringilla rhoncus.,45,3.1,entregado
+29,2021-12-11 23:23:03,109,Curabitur convallis.,110,5.5,pendiente
+30,2022-11-20 18:16:56,58,Maecenas rhoncus aliquam lacus.,110,9.1,pendiente
+31,2024-02-16 19:30:50,82,In eleifend quam a odio. In hac habitasse platea dictumst.,110,1.2,cancelado
+32,2023-01-08 05:57:09,55,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",60,6.0,cancelado
+33,2022-03-31 11:00:55,98,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",30,8.0,en transito
+34,2023-08-05 09:02:26,103,Vivamus vestibulum sagittis sapien.,60,3.1,cancelado
+35,2020-07-23 17:38:52,29,Nulla ut erat id mauris vulputate elementum.,30,4.0,pendiente
+36,2020-06-11 17:42:53,27,Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet.,75,3.1,pendiente
+37,2023-01-05 00:51:57,20,Cras non velit nec nisi vulputate nonummy.,15,3.1,entregado
+38,2023-07-28 15:08:10,24,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",75,4.0,pendiente
+39,2020-05-22 11:16:19,137,Aenean auctor gravida sem.,90,1.2,pendiente
+40,2024-04-25 20:38:41,49,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.",150,9.1,cancelado
+41,2024-10-24 03:07:29,4,Duis mattis egestas metus.,135,5.5,entregado
+42,2020-12-02 13:54:03,35,Duis at velit eu est congue elementum.,30,5.5,pendiente
+43,2023-03-12 03:16:49,79,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",30,9.1,pendiente
+44,2023-11-15 13:05:17,59,Morbi quis tortor id nulla ultrices aliquet.,30,2.5,cancelado
+45,2022-01-12 06:54:40,130,Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.,60,6.0,en transito
+46,2024-10-25 10:09:07,68,Ut tellus. Nulla ut erat id mauris vulputate elementum.,75,8.0,cancelado
+47,2021-03-24 11:44:33,86,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",45,3.1,en transito
+48,2021-04-14 15:14:40,34,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",90,3.1,en transito
+49,2023-09-18 23:14:58,30,Nulla facilisi.,60,4.0,entregado
+50,2024-05-20 05:41:41,45,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",90,6.0,entregado
+51,2020-05-15 20:19:04,11,"Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",90,8.0,pendiente
+52,2023-11-13 07:23:46,27,In hac habitasse platea dictumst. Etiam faucibus cursus urna.,45,1.2,pendiente
+53,2023-07-27 01:39:06,117,Proin risus. Praesent lectus.,15,4.0,entregado
+54,2024-03-14 06:58:03,72,Sed sagittis.,135,2.5,entregado
+55,2020-09-13 16:02:48,16,Vivamus vel nulla eget eros elementum pellentesque.,15,4.8,en transito
+56,2022-02-26 05:49:56,105,"Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",60,4.8,entregado
+57,2024-09-17 08:05:52,83,Donec ut dolor.,45,9.1,cancelado
+58,2020-04-11 11:18:21,59,Nulla ut erat id mauris vulputate elementum. Nullam varius.,90,2.5,en transito
+59,2021-01-09 16:30:21,136,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.,15,3.1,entregado
+60,2022-12-05 02:07:06,98,Sed ante.,150,6.0,pendiente
+61,2024-01-23 05:32:58,49,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",90,7.2,pendiente
+62,2023-11-07 21:44:47,112,Praesent blandit.,45,4.0,en transito
+63,2023-06-16 07:25:40,33,Quisque id justo sit amet sapien dignissim vestibulum.,15,9.1,cancelado
+64,2021-09-02 05:05:52,4,In quis justo. Maecenas rhoncus aliquam lacus.,45,1.2,cancelado
+65,2023-10-05 12:52:40,92,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",135,5.5,pendiente
+66,2024-03-12 02:31:26,133,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",90,9.1,entregado
+67,2022-05-07 16:45:16,107,"Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",75,3.1,cancelado
+68,2021-03-15 00:08:55,58,Aliquam non mauris.,75,7.2,cancelado
+69,2020-11-13 19:09:18,135,In sagittis dui vel nisl.,135,7.2,cancelado
+70,2022-10-25 19:42:14,118,In sagittis dui vel nisl. Duis ac nibh.,110,6.0,pendiente
+71,2021-11-23 18:47:02,139,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",60,5.5,entregado
+72,2021-11-24 17:36:35,71,Proin risus.,15,8.0,en transito
+73,2021-02-12 06:47:41,120,Duis at velit eu est congue elementum. In hac habitasse platea dictumst.,120,6.0,cancelado
+74,2020-03-29 04:09:15,14,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",135,7.2,cancelado
+75,2022-11-28 17:31:19,11,Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.,110,8.0,entregado
+76,2024-11-02 20:44:19,9,Donec semper sapien a libero.,90,2.5,en transito
+77,2022-05-29 11:53:21,79,Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.,135,3.1,entregado
+78,2022-12-18 10:00:52,49,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",110,7.2,entregado
+79,2020-07-16 09:30:01,42,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.",45,5.5,entregado
+80,2020-11-10 04:25:09,98,Maecenas tincidunt lacus at velit.,60,3.1,cancelado
+81,2020-03-03 11:54:54,23,Sed ante. Vivamus tortor.,45,4.8,en transito
+82,2022-03-22 20:34:21,141,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",110,4.8,pendiente
+83,2021-08-31 18:51:36,116,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",110,1.2,en transito
+84,2021-05-16 05:19:01,53,Sed vel enim sit amet nunc viverra dapibus.,135,6.0,entregado
+85,2021-05-23 06:01:03,100,Sed sagittis.,45,9.1,cancelado
+86,2023-12-07 07:35:13,133,Suspendisse potenti.,90,5.5,pendiente
+87,2020-05-12 05:18:35,47,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",150,8.0,cancelado
+88,2021-06-28 08:40:45,114,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.,110,9.1,cancelado
+89,2021-12-22 07:46:39,33,Duis mattis egestas metus.,135,4.8,pendiente
+90,2021-12-26 16:13:03,48,Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.,30,2.5,cancelado
+91,2024-10-02 21:22:09,19,Duis mattis egestas metus.,150,4.8,cancelado
+92,2022-01-02 16:18:12,141,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",30,8.0,pendiente
+93,2021-09-15 14:40:16,29,Praesent blandit.,150,3.1,entregado
+94,2022-10-11 00:03:52,25,Proin interdum mauris non ligula pellentesque ultrices.,150,3.1,cancelado
+95,2022-05-10 07:04:47,80,Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,135,9.1,cancelado
+96,2021-09-11 10:29:16,116,Aliquam sit amet diam in magna bibendum imperdiet.,30,4.8,pendiente
+97,2021-02-14 23:56:19,123,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",110,4.8,entregado
+98,2022-05-07 02:50:53,91,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",90,8.0,cancelado
+99,2024-01-24 20:21:05,90,Phasellus in felis.,30,4.8,entregado
+100,2021-02-14 21:48:07,52,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",15,7.2,pendiente
+101,2023-05-12 14:01:06,123,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",45,7.2,cancelado
+102,2021-05-02 10:45:38,75,Nullam porttitor lacus at turpis.,120,7.2,en transito
+103,2024-08-04 18:29:57,117,Integer a nibh.,150,3.1,cancelado
+104,2022-04-16 07:22:15,136,Aenean lectus.,110,4.8,cancelado
+105,2023-04-22 07:13:12,3,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.,15,8.0,cancelado
+106,2021-09-14 13:40:15,138,Aliquam erat volutpat.,110,6.0,cancelado
+107,2023-05-22 12:35:59,62,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",110,6.0,pendiente
+108,2021-07-07 12:29:23,37,Quisque porta volutpat erat.,120,3.1,entregado
+109,2023-12-21 16:24:33,61,Quisque ut erat.,135,7.2,entregado
+110,2021-04-21 04:44:12,134,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",150,7.2,pendiente
+111,2022-01-06 11:21:49,23,Nunc nisl.,60,4.8,en transito
+112,2020-12-05 05:01:26,28,Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum.,15,7.2,entregado
+113,2020-02-18 03:44:28,66,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.,135,3.1,cancelado
+114,2023-02-11 14:15:14,44,Morbi vel lectus in quam fringilla rhoncus.,60,2.5,entregado
+115,2022-11-22 14:00:35,62,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",45,2.5,en transito
+116,2024-11-03 02:06:53,53,Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.,15,6.0,en transito
+117,2024-11-17 03:01:47,56,Sed accumsan felis. Ut at dolor quis odio consequat varius.,15,2.5,pendiente
+118,2022-09-22 07:19:58,69,Proin eu mi.,45,3.1,pendiente
+119,2024-07-06 12:03:19,147,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",135,3.1,cancelado
+120,2022-04-17 21:57:55,106,Nulla ac enim.,135,9.1,cancelado
+121,2024-07-13 11:23:24,91,Nulla tellus. In sagittis dui vel nisl.,75,8.0,pendiente
+122,2020-12-10 22:14:41,99,Etiam justo. Etiam pretium iaculis justo.,120,4.0,en transito
+123,2023-11-25 11:35:46,44,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.,15,1.2,entregado
+124,2024-12-20 15:50:05,77,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",150,4.0,pendiente
+125,2023-05-02 20:12:54,107,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",30,7.2,pendiente
+126,2020-06-19 03:12:20,32,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.,45,5.5,pendiente
+127,2020-12-12 00:13:50,61,Praesent blandit lacinia erat.,120,8.0,en transito
+128,2024-08-19 16:52:08,67,Suspendisse potenti.,135,5.5,pendiente
+129,2022-04-08 02:02:10,132,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",75,4.8,en transito
+130,2023-07-26 17:19:43,108,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",135,8.0,entregado
+131,2023-11-25 20:50:25,115,Suspendisse ornare consequat lectus.,110,9.1,entregado
+132,2024-09-28 00:09:26,28,"In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",150,7.2,cancelado
+133,2020-11-01 03:57:24,82,Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.,120,1.2,pendiente
+134,2020-08-23 00:52:02,65,Suspendisse potenti.,150,1.2,cancelado
+135,2022-10-06 02:53:55,107,Proin at turpis a pede posuere nonummy. Integer non velit.,60,5.5,entregado
+136,2021-07-02 20:39:52,51,Nullam varius. Nulla facilisi.,135,4.0,pendiente
+137,2020-12-19 06:02:31,93,Nunc nisl.,135,3.1,en transito
+138,2020-01-03 13:52:09,17,Phasellus sit amet erat.,75,7.2,en transito
+139,2022-09-23 12:09:23,75,Duis bibendum.,30,3.1,en transito
+140,2024-04-08 02:08:19,87,Suspendisse accumsan tortor quis turpis. Sed ante.,30,4.8,cancelado
+141,2023-09-22 09:57:52,96,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",110,9.1,cancelado
+142,2023-03-21 23:41:41,34,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,15,7.2,cancelado
+143,2022-08-28 04:24:32,36,"Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",110,5.5,pendiente
+144,2024-10-09 02:12:29,73,Vivamus tortor. Duis mattis egestas metus.,75,5.5,pendiente
+145,2024-03-02 12:19:43,80,Duis at velit eu est congue elementum. In hac habitasse platea dictumst.,135,2.5,en transito
+146,2023-09-09 07:49:13,120,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.,45,2.5,pendiente
+147,2020-08-18 20:16:29,40,"Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",30,3.1,en transito
+148,2021-06-17 10:02:42,107,Proin eu mi.,30,8.0,pendiente
+149,2024-06-18 21:48:19,87,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",15,8.0,en transito
+150,2024-05-02 16:03:22,83,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",60,6.0,entregado
+151,2021-06-09 01:51:21,69,Vivamus tortor. Duis mattis egestas metus.,150,6.0,entregado
+152,2023-03-26 05:07:59,106,Duis mattis egestas metus. Aenean fermentum.,75,6.0,cancelado
+153,2024-02-06 12:50:26,77,Nulla tellus. In sagittis dui vel nisl.,120,8.0,cancelado
+154,2024-02-07 16:20:48,52,Proin at turpis a pede posuere nonummy. Integer non velit.,110,3.1,entregado
+155,2023-07-14 10:00:59,86,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.",45,3.1,entregado
+156,2021-07-11 21:14:40,37,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",150,9.1,pendiente
+157,2024-01-18 10:03:40,137,Suspendisse potenti.,30,5.5,pendiente
+158,2024-05-06 18:41:34,34,Donec posuere metus vitae ipsum.,110,3.1,cancelado
+159,2021-07-24 10:33:53,75,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",150,4.8,entregado
+160,2022-09-24 09:09:00,32,Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.,135,4.8,en transito
+161,2023-03-30 19:51:14,82,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",150,7.2,cancelado
+162,2024-03-16 03:16:16,84,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",120,7.2,entregado
+163,2024-10-13 15:59:37,63,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.",90,4.0,entregado
+164,2024-08-31 06:57:58,139,Nullam porttitor lacus at turpis.,60,4.0,en transito
+165,2022-09-14 14:34:23,66,Suspendisse potenti.,75,4.8,entregado
+166,2022-08-22 22:49:08,88,Nulla ac enim.,15,7.2,pendiente
+167,2023-05-20 02:41:57,53,Duis aliquam convallis nunc.,30,5.5,entregado
+168,2023-04-04 13:31:36,60,Nunc rhoncus dui vel sem. Sed sagittis.,90,5.5,cancelado
+169,2020-03-08 23:13:41,43,Fusce consequat. Nulla nisl.,60,3.1,cancelado
+170,2023-03-23 13:39:58,20,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",120,2.5,pendiente
+171,2021-04-01 21:23:31,65,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.",75,8.0,cancelado
+172,2024-12-01 07:28:27,72,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",30,7.2,cancelado
+173,2022-09-23 01:29:05,31,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,135,5.5,en transito
+174,2020-07-21 21:12:04,131,Vestibulum sed magna at nunc commodo placerat. Praesent blandit.,75,2.5,pendiente
+175,2020-07-15 08:05:48,40,Morbi a ipsum.,75,4.0,entregado
+176,2023-12-03 09:28:16,62,"In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",60,6.0,pendiente
+177,2024-11-11 17:36:00,33,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",90,5.5,en transito
+178,2020-09-19 21:15:57,79,Fusce posuere felis sed lacus.,150,8.0,cancelado
+179,2022-04-10 11:28:48,135,Vivamus tortor.,30,9.1,en transito
+180,2020-07-27 22:41:48,95,"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",120,9.1,entregado
+181,2020-05-28 00:46:01,101,Aliquam quis turpis eget elit sodales scelerisque.,135,3.1,pendiente
+182,2020-01-19 10:41:06,133,Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,30,4.0,cancelado
+183,2020-09-19 06:07:42,121,Integer ac leo. Pellentesque ultrices mattis odio.,60,4.8,en transito
+184,2022-07-21 05:59:41,139,Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.,60,4.0,cancelado
+185,2022-06-29 22:48:54,86,Fusce consequat.,15,6.0,cancelado
+186,2024-08-05 05:58:58,70,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",150,1.2,pendiente
+187,2024-01-15 09:05:13,89,Nulla tellus.,120,8.0,cancelado
+188,2022-03-16 19:55:56,85,Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,15,5.5,en transito
+189,2021-06-29 17:10:34,122,"Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",90,5.5,en transito
+190,2022-02-27 17:10:22,110,Phasellus sit amet erat.,150,6.0,pendiente
+191,2024-01-02 07:32:08,37,Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,120,5.5,entregado
+192,2020-11-06 05:13:15,79,Nulla mollis molestie lorem.,135,1.2,en transito
+193,2021-11-29 12:03:29,34,Integer tincidunt ante vel ipsum.,45,1.2,entregado
+194,2024-04-04 16:57:35,123,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",135,4.8,en transito
+195,2021-02-26 09:59:49,119,Pellentesque ultrices mattis odio.,120,4.0,en transito
+196,2021-10-15 18:30:21,139,Nulla tempus.,15,4.0,entregado
+197,2023-09-24 15:13:57,92,Vivamus in felis eu sapien cursus vestibulum.,120,9.1,en transito
+198,2020-03-02 22:23:11,91,Morbi non quam nec dui luctus rutrum. Nulla tellus.,60,7.2,pendiente
+199,2020-04-29 17:28:29,49,Mauris sit amet eros.,30,8.0,cancelado
+200,2021-11-03 08:10:27,76,Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.,15,5.5,entregado
+201,2022-05-02 01:03:01,2,Fusce consequat. Nulla nisl.,110,3.1,entregado
+202,2021-04-21 21:51:22,37,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.,30,1.2,cancelado
+203,2020-01-29 19:49:12,138,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,120,9.1,entregado
+204,2020-08-08 12:15:19,98,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.",45,9.1,entregado
+205,2023-08-02 12:20:20,81,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",110,1.2,entregado
+206,2020-06-29 22:40:38,24,Suspendisse potenti. In eleifend quam a odio.,90,8.0,cancelado
+207,2023-04-10 08:33:19,8,Cras in purus eu magna vulputate luctus.,120,6.0,pendiente
+208,2020-03-22 17:14:58,60,Nunc rhoncus dui vel sem. Sed sagittis.,45,4.8,entregado
+209,2023-07-11 01:01:29,91,Nulla facilisi. Cras non velit nec nisi vulputate nonummy.,135,4.8,cancelado
+210,2023-06-22 23:15:02,108,Etiam pretium iaculis justo. In hac habitasse platea dictumst.,135,9.1,en transito
+211,2023-09-16 18:22:45,48,Proin risus.,150,8.0,en transito
+212,2022-12-28 20:07:09,78,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum.",135,2.5,entregado
+213,2022-01-17 23:58:26,137,Donec vitae nisi.,90,2.5,pendiente
+214,2020-03-20 05:11:39,148,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",150,8.0,pendiente
+215,2020-09-11 08:42:30,3,"In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",90,1.2,en transito
+216,2020-08-19 08:02:57,104,Nulla ut erat id mauris vulputate elementum.,110,7.2,pendiente
+217,2022-01-16 22:12:08,24,Sed accumsan felis.,60,3.1,entregado
+218,2021-06-14 16:26:17,121,Proin at turpis a pede posuere nonummy. Integer non velit.,135,8.0,en transito
+219,2020-10-05 17:34:23,110,Morbi non lectus.,135,4.8,entregado
+220,2020-05-29 19:28:17,115,Vestibulum sed magna at nunc commodo placerat. Praesent blandit.,120,7.2,cancelado
+221,2023-06-10 00:19:29,56,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.",90,3.1,en transito
+222,2020-06-26 11:29:21,19,Duis ac nibh.,30,9.1,entregado
+223,2021-04-14 09:41:07,7,Pellentesque eget nunc.,150,9.1,pendiente
+224,2024-08-27 21:27:52,106,Nam dui.,45,2.5,en transito
+225,2022-02-17 16:56:32,25,Proin risus. Praesent lectus.,15,7.2,en transito
+226,2021-02-26 02:33:42,108,In hac habitasse platea dictumst.,135,3.1,entregado
+227,2023-05-26 07:52:55,72,Morbi a ipsum. Integer a nibh.,110,7.2,pendiente
+228,2020-07-02 22:13:18,106,Nulla tempus.,150,5.5,en transito
+229,2020-06-03 06:51:40,64,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",110,8.0,cancelado
+230,2021-01-19 01:18:45,40,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",30,7.2,en transito
+231,2022-11-26 07:00:06,103,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.",45,2.5,cancelado
+232,2024-08-04 08:23:44,41,Duis mattis egestas metus.,75,3.1,pendiente
+233,2020-09-18 22:26:33,122,Morbi non quam nec dui luctus rutrum.,15,3.1,pendiente
+234,2022-07-01 04:44:11,120,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",90,7.2,en transito
+235,2022-08-01 14:07:22,65,Curabitur gravida nisi at nibh.,75,4.0,en transito
+236,2023-06-06 07:50:35,144,Nullam porttitor lacus at turpis.,150,4.0,pendiente
+237,2024-10-28 20:41:32,8,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",90,8.0,cancelado
+238,2021-11-23 18:00:51,1,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",60,4.0,pendiente
+239,2020-11-15 13:04:36,7,Morbi a ipsum.,45,8.0,cancelado
+240,2021-12-08 00:52:01,37,"Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",15,7.2,pendiente
+241,2021-11-24 08:44:00,47,Nulla nisl.,30,5.5,en transito
+242,2022-09-27 19:26:38,148,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",120,9.1,pendiente
+243,2022-07-04 10:55:41,27,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.,150,1.2,entregado
+244,2022-03-16 23:38:04,128,Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend.,30,5.5,cancelado
+245,2023-07-10 20:02:29,94,Pellentesque at nulla.,120,7.2,en transito
+246,2023-12-28 10:04:02,74,Ut at dolor quis odio consequat varius.,135,9.1,en transito
+247,2024-11-03 05:24:57,64,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.,15,2.5,cancelado
+248,2022-03-01 10:35:24,103,Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.,45,3.1,entregado
+249,2024-10-25 10:16:09,32,"In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",30,3.1,cancelado
+250,2022-05-12 19:53:23,147,In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.,75,9.1,entregado
+251,2020-10-02 23:20:20,29,Morbi ut odio.,120,8.0,entregado
+252,2021-12-18 15:08:11,150,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",90,7.2,cancelado
+253,2020-08-07 02:36:24,42,Etiam vel augue. Vestibulum rutrum rutrum neque.,15,7.2,en transito
+254,2024-05-21 11:48:45,67,Etiam justo.,45,5.5,pendiente
+255,2022-02-12 06:55:00,130,Proin risus. Praesent lectus.,120,6.0,cancelado
+256,2022-02-26 00:17:42,146,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",30,4.8,pendiente
+257,2022-01-20 14:57:44,50,Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,45,1.2,entregado
+258,2024-07-23 09:04:23,14,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",135,8.0,pendiente
+259,2020-03-14 11:08:05,39,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",110,3.1,en transito
+260,2024-11-26 02:08:36,71,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",60,2.5,entregado
+261,2023-02-27 17:09:10,94,Integer non velit.,150,2.5,en transito
+262,2024-05-20 22:41:29,119,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.",15,8.0,en transito
+263,2024-03-23 05:22:28,9,"Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",110,8.0,cancelado
+264,2024-05-09 23:34:38,71,Donec semper sapien a libero. Nam dui.,45,2.5,entregado
+265,2022-06-04 17:08:42,91,Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.,30,4.8,cancelado
+266,2021-11-27 11:31:12,65,Suspendisse potenti.,75,5.5,cancelado
+267,2020-03-02 09:36:09,21,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.,45,1.2,en transito
+268,2020-09-07 15:33:58,48,Suspendisse accumsan tortor quis turpis.,30,8.0,cancelado
+269,2023-12-28 19:55:06,91,Nulla nisl. Nunc nisl.,75,4.8,pendiente
+270,2023-08-14 15:34:39,134,Sed accumsan felis.,135,2.5,entregado
+271,2022-12-24 11:22:33,20,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.,150,9.1,pendiente
+272,2021-07-21 17:11:18,90,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.",45,1.2,pendiente
+273,2020-09-20 18:53:35,104,Nullam molestie nibh in lectus.,45,9.1,cancelado
+274,2021-01-30 09:31:43,111,Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.,15,7.2,entregado
+275,2023-01-18 01:47:44,129,Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,135,3.1,en transito
+276,2024-05-10 01:24:37,41,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.,15,7.2,entregado
+277,2020-03-27 16:09:22,78,"Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",110,4.8,entregado
+278,2021-06-23 04:34:55,93,Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.,110,3.1,en transito
+279,2022-02-14 11:01:23,25,Sed accumsan felis. Ut at dolor quis odio consequat varius.,150,5.5,entregado
+280,2022-12-19 23:02:47,28,In hac habitasse platea dictumst.,120,1.2,cancelado
+281,2022-10-01 02:45:43,84,Praesent blandit lacinia erat.,120,2.5,pendiente
+282,2024-12-04 16:15:34,43,Phasellus sit amet erat.,60,8.0,pendiente
+283,2023-10-25 10:50:50,96,Duis mattis egestas metus.,110,8.0,entregado
+284,2024-10-09 06:04:25,68,Aliquam non mauris. Morbi non lectus.,45,9.1,pendiente
+285,2020-11-21 13:23:10,92,Proin risus. Praesent lectus.,60,3.1,en transito
+286,2023-05-05 23:54:07,44,Nunc purus. Phasellus in felis.,150,1.2,cancelado
+287,2021-07-31 11:19:02,145,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.,45,1.2,en transito
+288,2022-07-02 21:22:47,8,Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.,150,2.5,en transito
+289,2024-10-05 20:56:41,124,Aenean sit amet justo. Morbi ut odio.,15,3.1,cancelado
+290,2022-04-28 23:24:02,2,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus.",45,4.8,cancelado
+291,2020-01-14 00:14:59,16,Aenean sit amet justo. Morbi ut odio.,75,8.0,entregado
+292,2022-02-20 21:02:26,150,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",75,9.1,entregado
+293,2020-08-29 16:14:10,53,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",90,9.1,en transito
+294,2022-05-23 07:55:55,20,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.",90,6.0,pendiente
+295,2024-08-12 12:12:43,12,Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,110,6.0,cancelado
+296,2023-02-01 01:56:39,121,Donec posuere metus vitae ipsum.,135,6.0,pendiente
+297,2024-04-01 14:28:51,80,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",135,4.8,cancelado
+298,2020-02-24 05:02:43,68,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.",120,5.5,cancelado
+299,2020-09-28 10:25:18,15,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.",45,7.2,entregado
+300,2023-10-03 23:30:48,51,Curabitur gravida nisi at nibh.,75,6.0,entregado
+301,2022-09-04 12:02:29,135,Aliquam non mauris. Morbi non lectus.,120,1.2,entregado
+302,2021-07-10 13:07:59,42,Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.,120,4.8,pendiente
+303,2022-07-17 04:42:38,12,In hac habitasse platea dictumst.,45,6.0,cancelado
+304,2024-12-14 06:26:49,85,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",120,8.0,en transito
+305,2023-06-01 05:16:05,8,Cras in purus eu magna vulputate luctus.,135,5.5,pendiente
+306,2022-08-16 20:41:44,88,Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,15,4.0,pendiente
+307,2022-06-27 18:06:58,137,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",60,6.0,cancelado
+308,2022-01-09 18:00:17,2,Proin at turpis a pede posuere nonummy.,75,7.2,entregado
+309,2021-04-06 13:20:39,132,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",90,2.5,en transito
+310,2022-12-05 01:27:42,141,Aenean fermentum.,15,5.5,pendiente
+311,2020-03-21 02:36:08,110,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",120,5.5,pendiente
+312,2023-02-27 23:30:52,82,Sed ante. Vivamus tortor.,120,4.8,cancelado
+313,2022-06-13 15:09:34,86,Praesent lectus.,75,8.0,en transito
+314,2023-11-13 20:54:15,143,Cras pellentesque volutpat dui.,75,8.0,pendiente
+315,2020-08-21 04:50:27,6,Cras pellentesque volutpat dui.,60,2.5,cancelado
+316,2023-02-12 09:03:21,116,Sed accumsan felis.,90,5.5,en transito
+317,2020-02-28 10:55:13,49,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",75,8.0,en transito
+318,2020-03-01 04:57:59,90,"Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",110,4.0,pendiente
+319,2023-08-31 02:19:53,12,In quis justo.,45,5.5,en transito
+320,2024-09-29 14:04:51,25,Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.,75,6.0,pendiente
+321,2021-04-14 18:32:46,85,Duis mattis egestas metus. Aenean fermentum.,30,9.1,en transito
+322,2021-07-02 22:22:26,95,Mauris lacinia sapien quis libero.,120,1.2,en transito
+323,2022-08-01 04:42:51,79,Duis bibendum.,110,3.1,entregado
+324,2024-06-21 12:29:20,60,In sagittis dui vel nisl.,135,4.0,cancelado
+325,2024-10-28 00:31:29,23,In hac habitasse platea dictumst. Etiam faucibus cursus urna.,120,2.5,pendiente
+326,2020-09-07 05:36:22,67,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",135,5.5,entregado
+327,2021-12-07 19:01:48,104,Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.,90,9.1,entregado
+328,2022-03-12 12:35:34,86,Praesent blandit.,60,4.8,pendiente
+329,2023-03-19 01:43:10,112,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",120,9.1,cancelado
+330,2022-01-08 21:29:48,43,Praesent lectus.,15,2.5,pendiente
+331,2020-09-21 17:27:21,6,"Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",150,4.8,entregado
+332,2022-01-16 17:28:49,80,In quis justo. Maecenas rhoncus aliquam lacus.,150,2.5,en transito
+333,2024-11-19 23:24:09,30,Quisque ut erat.,110,9.1,pendiente
+334,2020-10-11 07:34:31,104,Nunc purus.,150,4.0,entregado
+335,2021-07-13 01:11:14,79,Aliquam non mauris. Morbi non lectus.,120,8.0,entregado
+336,2024-01-29 01:53:20,142,Aenean sit amet justo. Morbi ut odio.,135,7.2,pendiente
+337,2020-04-08 09:21:49,145,Sed ante.,60,8.0,en transito
+338,2020-05-04 00:12:19,107,Nulla facilisi. Cras non velit nec nisi vulputate nonummy.,135,7.2,pendiente
+339,2023-10-22 07:20:27,49,Proin at turpis a pede posuere nonummy. Integer non velit.,75,5.5,entregado
+340,2021-09-06 22:24:54,68,"Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",15,3.1,entregado
+341,2021-02-07 19:09:42,6,Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.,90,4.8,entregado
+342,2021-07-31 01:05:55,59,Nunc rhoncus dui vel sem. Sed sagittis.,60,4.8,entregado
+343,2022-01-05 11:25:53,135,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.,30,1.2,entregado
+344,2022-04-20 13:10:19,146,Nulla mollis molestie lorem. Quisque ut erat.,30,4.0,en transito
+345,2021-03-24 11:30:40,19,Quisque porta volutpat erat.,150,7.2,cancelado
+346,2023-11-24 21:18:22,40,Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.,150,8.0,entregado
+347,2024-02-16 13:41:45,39,"Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",75,4.8,cancelado
+348,2020-05-11 06:32:32,117,Sed ante. Vivamus tortor.,90,3.1,cancelado
+349,2023-10-11 22:45:21,111,Nulla ut erat id mauris vulputate elementum.,45,5.5,pendiente
+350,2023-05-14 04:03:51,97,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",75,6.0,entregado
+351,2023-04-19 23:14:16,143,"Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",120,9.1,pendiente
+352,2021-05-21 11:16:52,33,Aliquam erat volutpat. In congue.,30,7.2,entregado
+353,2022-06-14 12:41:05,2,Morbi non lectus.,45,9.1,cancelado
+354,2023-06-25 04:35:27,145,Curabitur gravida nisi at nibh.,15,6.0,en transito
+355,2022-09-22 18:32:20,77,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",120,5.5,cancelado
+356,2021-10-16 19:43:01,102,"Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",150,4.8,entregado
+357,2022-05-09 22:56:20,113,Nam tristique tortor eu pede.,110,9.1,cancelado
+358,2024-05-27 01:42:55,111,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",45,8.0,cancelado
+359,2023-01-26 21:02:59,138,Etiam vel augue. Vestibulum rutrum rutrum neque.,75,5.5,entregado
+360,2021-07-27 22:28:05,87,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus.",60,9.1,cancelado
+361,2024-03-31 09:19:19,22,Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,45,8.0,pendiente
+362,2023-07-16 14:28:31,21,"Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",110,8.0,cancelado
+363,2023-07-07 08:31:43,3,In congue.,45,1.2,entregado
+364,2023-07-31 02:16:14,117,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.,45,1.2,en transito
+365,2021-03-11 02:34:56,8,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.,30,8.0,cancelado
+366,2024-02-15 04:48:45,119,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",150,7.2,en transito
+367,2024-11-15 22:49:43,45,Nunc purus.,75,3.1,cancelado
+368,2023-01-18 03:09:21,60,Donec posuere metus vitae ipsum. Aliquam non mauris.,135,8.0,en transito
+369,2024-12-01 14:07:56,20,Donec quis orci eget orci vehicula condimentum.,45,9.1,pendiente
+370,2020-04-11 11:14:24,144,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",60,3.1,pendiente
+371,2021-12-06 01:46:15,1,Vivamus vel nulla eget eros elementum pellentesque.,150,2.5,pendiente
+372,2021-11-17 23:22:56,144,Nulla tellus. In sagittis dui vel nisl.,45,9.1,entregado
+373,2021-02-09 08:24:12,81,Praesent blandit.,75,8.0,en transito
+374,2024-06-12 17:02:10,56,Praesent lectus.,45,9.1,en transito
+375,2023-11-12 02:55:05,138,Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,15,9.1,pendiente
+376,2022-05-29 21:47:05,75,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",30,1.2,entregado
+377,2020-03-21 16:42:02,73,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.,90,6.0,entregado
+378,2021-11-05 11:31:52,10,Nulla facilisi. Cras non velit nec nisi vulputate nonummy.,30,8.0,en transito
+379,2021-11-09 19:55:34,104,Integer tincidunt ante vel ipsum.,75,3.1,en transito
+380,2023-08-08 19:59:24,103,In blandit ultrices enim.,90,2.5,cancelado
+381,2024-12-23 03:02:00,58,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",75,7.2,entregado
+382,2022-08-13 14:41:36,115,Nulla facilisi. Cras non velit nec nisi vulputate nonummy.,15,8.0,pendiente
+383,2023-03-29 19:26:53,94,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",75,2.5,entregado
+384,2021-06-06 06:06:55,66,Aenean lectus. Pellentesque eget nunc.,45,6.0,entregado
+385,2021-03-24 05:02:34,53,Nulla ut erat id mauris vulputate elementum. Nullam varius.,90,3.1,pendiente
+386,2020-07-17 22:34:29,16,Curabitur in libero ut massa volutpat convallis.,75,9.1,cancelado
+387,2021-08-20 08:02:25,51,Integer ac leo.,120,2.5,en transito
+388,2021-10-12 15:18:38,79,Proin interdum mauris non ligula pellentesque ultrices.,150,5.5,en transito
+389,2021-01-16 00:39:57,17,Vivamus vestibulum sagittis sapien.,30,1.2,pendiente
+390,2022-04-01 09:01:43,107,Nunc nisl.,30,8.0,entregado
+391,2022-12-30 21:13:41,84,Suspendisse potenti. In eleifend quam a odio.,45,4.8,pendiente
+392,2023-01-01 15:05:53,128,Donec ut mauris eget massa tempor convallis.,90,1.2,en transito
+393,2023-04-12 12:54:15,32,Sed ante.,135,7.2,en transito
+394,2023-08-15 04:49:34,75,Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,30,5.5,entregado
+395,2022-10-01 02:44:25,141,In sagittis dui vel nisl. Duis ac nibh.,60,5.5,en transito
+396,2021-05-15 07:32:59,78,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",30,8.0,en transito
+397,2022-10-24 13:13:54,66,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",110,4.8,cancelado
+398,2022-08-31 07:54:59,123,Sed ante. Vivamus tortor.,30,9.1,en transito
+399,2020-05-18 02:00:20,52,Pellentesque ultrices mattis odio.,90,2.5,pendiente
+400,2021-03-03 05:44:04,78,Curabitur convallis.,75,4.0,pendiente
+401,2023-07-23 04:23:49,19,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.,60,5.5,entregado
+402,2024-03-13 02:39:52,148,Nunc purus. Phasellus in felis.,120,1.2,entregado
+403,2021-08-12 10:38:32,117,Curabitur convallis.,90,7.2,entregado
+404,2022-05-20 20:23:31,100,Duis ac nibh.,90,9.1,pendiente
+405,2022-09-27 04:18:49,82,Maecenas pulvinar lobortis est.,120,5.5,cancelado
+406,2024-12-12 20:07:16,101,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",120,7.2,en transito
+407,2020-07-20 04:22:24,63,Aenean sit amet justo.,90,4.8,en transito
+408,2023-07-17 07:26:03,40,Nunc rhoncus dui vel sem.,120,7.2,pendiente
+409,2023-02-20 16:22:13,139,Fusce consequat. Nulla nisl.,60,4.8,cancelado
+410,2021-01-27 06:00:10,129,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",135,2.5,entregado
+411,2020-09-18 07:14:50,105,"Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",150,6.0,pendiente
+412,2020-10-20 02:09:26,37,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",110,7.2,pendiente
+413,2023-02-05 02:59:22,76,Nunc rhoncus dui vel sem. Sed sagittis.,110,9.1,pendiente
+414,2024-07-18 06:18:12,137,Nulla tempus.,135,3.1,cancelado
+415,2020-02-24 12:11:27,42,Praesent lectus.,110,4.8,pendiente
+416,2022-08-30 19:41:42,132,Aliquam sit amet diam in magna bibendum imperdiet.,60,9.1,entregado
+417,2021-02-16 07:16:56,85,"Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",75,4.0,entregado
+418,2021-08-25 12:44:30,110,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",135,7.2,cancelado
+419,2021-09-12 07:34:37,124,Aenean fermentum.,15,4.0,entregado
+420,2024-08-06 01:40:46,75,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",90,2.5,entregado
+421,2021-01-18 21:26:16,67,Aenean lectus.,15,1.2,entregado
+422,2024-03-10 23:43:32,105,Aliquam erat volutpat.,45,4.8,cancelado
+423,2023-03-29 17:49:08,76,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",135,5.5,entregado
+424,2021-04-01 09:58:26,44,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",90,4.8,en transito
+425,2022-04-06 10:25:01,128,Morbi non quam nec dui luctus rutrum.,60,4.0,pendiente
+426,2022-05-23 04:19:40,16,Suspendisse accumsan tortor quis turpis. Sed ante.,135,5.5,en transito
+427,2024-04-19 21:56:33,103,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula.",45,8.0,pendiente
+428,2023-06-04 20:21:19,5,Ut at dolor quis odio consequat varius. Integer ac leo.,15,3.1,pendiente
+429,2022-02-23 01:00:03,104,Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.,60,5.5,pendiente
+430,2023-08-01 21:51:51,71,"Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",15,4.0,cancelado
+431,2023-10-20 20:10:23,120,Integer ac neque. Duis bibendum.,90,5.5,entregado
+432,2023-09-29 14:55:22,52,Nulla facilisi. Cras non velit nec nisi vulputate nonummy.,150,7.2,entregado
+433,2023-05-17 12:22:52,8,Etiam vel augue. Vestibulum rutrum rutrum neque.,90,1.2,cancelado
+434,2023-04-04 13:52:28,107,Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,150,5.5,cancelado
+435,2020-08-12 07:48:50,111,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",60,4.0,cancelado
+436,2023-08-06 14:36:00,46,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.",75,1.2,pendiente
+437,2023-12-27 13:34:31,34,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",15,7.2,pendiente
+438,2021-11-08 12:48:55,4,Vivamus tortor.,150,6.0,pendiente
+439,2020-05-21 18:15:21,49,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,150,6.0,pendiente
+440,2020-07-26 01:12:12,150,Morbi non lectus.,120,8.0,pendiente
+441,2023-05-25 22:00:42,117,In sagittis dui vel nisl. Duis ac nibh.,75,4.8,pendiente
+442,2023-07-10 10:24:47,144,"In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc.",150,2.5,en transito
+443,2024-03-19 01:05:24,13,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",15,4.8,pendiente
+444,2022-11-12 14:07:28,53,Duis ac nibh.,120,4.8,entregado
+445,2022-10-19 09:56:35,67,Morbi non quam nec dui luctus rutrum. Nulla tellus.,30,5.5,en transito
+446,2021-10-17 08:52:13,110,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",120,2.5,pendiente
+447,2023-10-04 12:36:03,57,Aenean lectus.,60,3.1,pendiente
+448,2022-10-17 12:01:34,66,In hac habitasse platea dictumst.,120,1.2,entregado
+449,2023-05-10 21:56:44,25,Maecenas pulvinar lobortis est.,110,6.0,pendiente
+450,2024-03-18 07:28:34,95,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.,45,3.1,en transito
+451,2023-02-07 00:31:40,24,Maecenas tincidunt lacus at velit.,90,1.2,entregado
+452,2020-12-19 07:56:00,94,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,75,6.0,entregado
+453,2023-02-08 04:45:40,1,Nulla facilisi. Cras non velit nec nisi vulputate nonummy.,120,7.2,entregado
+454,2023-06-23 03:16:27,40,Aenean lectus.,150,4.0,pendiente
+455,2024-01-09 06:28:55,3,Morbi vel lectus in quam fringilla rhoncus.,45,7.2,en transito
+456,2022-08-10 12:59:30,140,Maecenas pulvinar lobortis est. Phasellus sit amet erat.,15,4.8,entregado
+457,2021-05-27 18:27:20,5,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",120,7.2,pendiente
+458,2024-12-09 09:50:39,53,Duis consequat dui nec nisi volutpat eleifend.,60,6.0,en transito
+459,2021-11-27 20:08:59,15,Sed accumsan felis.,110,3.1,en transito
+460,2022-11-17 20:40:54,40,Etiam justo.,120,7.2,pendiente
+461,2020-04-19 18:24:55,3,Quisque id justo sit amet sapien dignissim vestibulum.,45,4.8,en transito
+462,2020-06-25 03:17:56,52,Praesent blandit.,90,9.1,en transito
+463,2023-11-17 16:56:52,65,Sed sagittis.,135,2.5,pendiente
+464,2023-03-12 16:35:44,6,Phasellus sit amet erat. Nulla tempus.,60,4.0,en transito
+465,2021-03-20 16:39:31,112,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.,110,9.1,en transito
+466,2020-04-26 18:20:33,61,"Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",150,9.1,cancelado
+467,2020-06-22 11:49:18,128,Ut tellus.,120,1.2,entregado
+468,2022-01-07 09:55:20,96,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",15,3.1,pendiente
+469,2023-08-24 03:31:21,78,"Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",90,3.1,pendiente
+470,2020-05-21 19:37:15,125,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.,120,9.1,cancelado
+471,2022-02-02 14:59:46,125,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",45,5.5,pendiente
+472,2020-06-29 18:47:16,135,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.,30,4.0,en transito
+473,2023-10-18 08:24:53,38,Donec vitae nisi.,75,3.1,pendiente
+474,2022-04-21 02:48:59,91,Suspendisse ornare consequat lectus.,60,2.5,en transito
+475,2022-02-05 06:53:45,32,Duis ac nibh.,15,2.5,en transito
+476,2022-03-07 06:29:30,33,Phasellus sit amet erat.,30,3.1,cancelado
+477,2020-12-22 00:36:31,39,Morbi a ipsum. Integer a nibh.,120,5.5,entregado
+478,2020-02-04 20:11:35,108,In congue.,110,4.8,cancelado
+479,2022-12-09 19:02:40,48,Curabitur gravida nisi at nibh.,120,4.0,en transito
+480,2022-08-19 10:22:47,90,In congue. Etiam justo.,45,1.2,cancelado
+481,2024-01-21 19:04:46,129,Duis bibendum.,60,3.1,entregado
+482,2024-02-21 13:44:11,144,Morbi non quam nec dui luctus rutrum. Nulla tellus.,45,5.5,en transito
+483,2022-02-03 18:06:45,58,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.",75,2.5,entregado
+484,2023-12-22 18:46:56,13,Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.,90,1.2,entregado
+485,2020-02-11 13:28:04,86,Sed ante. Vivamus tortor.,30,9.1,entregado
+486,2022-11-12 14:49:35,35,Nam dui.,135,9.1,cancelado
+487,2023-11-14 05:41:56,8,Maecenas pulvinar lobortis est. Phasellus sit amet erat.,60,9.1,pendiente
+488,2023-12-31 20:58:44,111,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.",110,3.1,en transito
+489,2023-08-23 23:47:37,67,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",135,8.0,cancelado
+490,2023-03-14 15:21:30,145,Nulla mollis molestie lorem. Quisque ut erat.,15,4.8,en transito
+491,2020-08-03 18:39:35,143,Duis mattis egestas metus. Aenean fermentum.,150,2.5,entregado
+492,2023-11-05 03:43:40,141,Integer ac neque.,120,7.2,entregado
+493,2022-12-26 12:17:26,56,Aenean fermentum.,120,6.0,en transito
+494,2021-02-10 04:03:30,40,Pellentesque viverra pede ac diam.,45,8.0,cancelado
+495,2020-07-08 20:59:06,121,Pellentesque ultrices mattis odio.,45,8.0,en transito
+496,2020-08-18 21:24:03,87,Suspendisse accumsan tortor quis turpis.,120,8.0,cancelado
+497,2024-01-12 16:38:55,6,"Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",30,7.2,en transito
+498,2022-03-27 08:58:57,88,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.,150,8.0,en transito
+499,2021-05-02 09:43:05,64,In quis justo.,75,6.0,pendiente
+500,2021-11-25 04:02:12,37,Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.,90,3.1,pendiente
+501,2021-02-28 19:48:01,112,Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.,15,4.0,entregado
+502,2021-08-31 10:54:05,89,Nulla ac enim.,45,7.2,pendiente
+503,2024-03-16 22:05:31,121,Vestibulum rutrum rutrum neque.,120,4.0,en transito
+504,2024-01-01 03:44:14,81,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",110,4.0,entregado
+505,2021-07-01 12:47:26,134,Etiam pretium iaculis justo.,120,5.5,entregado
+506,2024-04-03 16:18:05,128,Aenean auctor gravida sem.,75,4.0,cancelado
+507,2021-05-12 06:21:05,6,Donec posuere metus vitae ipsum.,135,5.5,en transito
+508,2022-12-31 23:07:23,74,Aliquam non mauris. Morbi non lectus.,90,3.1,en transito
+509,2021-05-15 17:33:31,145,Donec semper sapien a libero. Nam dui.,90,9.1,cancelado
+510,2022-08-01 21:07:38,38,Duis consequat dui nec nisi volutpat eleifend.,30,5.5,cancelado
+511,2024-01-04 11:49:45,50,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",45,4.8,pendiente
+512,2023-08-27 22:01:41,117,Proin at turpis a pede posuere nonummy.,75,1.2,pendiente
+513,2020-08-25 20:35:57,51,In sagittis dui vel nisl. Duis ac nibh.,75,4.0,pendiente
+514,2022-05-31 04:59:15,68,Integer a nibh. In quis justo.,45,4.8,pendiente
+515,2020-08-20 03:14:52,106,"In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",30,6.0,entregado
+516,2023-07-22 18:32:23,90,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",150,3.1,pendiente
+517,2024-04-28 10:02:26,150,Nullam varius. Nulla facilisi.,150,8.0,entregado
+518,2021-07-08 12:12:11,132,Nulla tellus. In sagittis dui vel nisl.,135,1.2,en transito
+519,2020-11-14 02:10:38,98,Donec semper sapien a libero. Nam dui.,60,2.5,pendiente
+520,2020-06-27 07:44:09,73,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.",135,8.0,pendiente
+521,2023-07-17 11:40:08,142,Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.,120,4.8,cancelado
+522,2021-03-05 15:10:46,127,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",75,5.5,pendiente
+523,2020-09-02 17:52:11,73,Aliquam non mauris.,15,2.5,cancelado
+524,2024-04-28 09:58:15,137,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",150,3.1,entregado
+525,2022-06-02 03:27:04,80,Nullam varius. Nulla facilisi.,60,5.5,pendiente
+526,2022-09-21 08:33:37,3,Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,120,1.2,cancelado
+527,2024-04-18 18:44:57,94,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",90,1.2,entregado
+528,2024-07-10 01:19:16,12,Ut tellus.,90,4.8,pendiente
+529,2022-01-12 20:12:15,132,Vestibulum ac est lacinia nisi venenatis tristique.,90,1.2,pendiente
+530,2022-07-09 03:28:55,122,"Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",15,2.5,en transito
+531,2022-07-14 02:33:40,88,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",150,3.1,entregado
+532,2022-09-01 10:43:33,13,Nunc nisl.,110,9.1,pendiente
+533,2021-06-21 15:37:54,54,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus.",60,2.5,cancelado
+534,2024-05-21 03:29:49,103,Etiam justo.,90,8.0,entregado
+535,2020-03-14 21:14:44,91,Vestibulum rutrum rutrum neque.,30,8.0,pendiente
+536,2024-12-16 13:50:50,99,Etiam vel augue.,75,7.2,en transito
+537,2021-12-19 18:07:22,71,Curabitur in libero ut massa volutpat convallis.,15,1.2,pendiente
+538,2022-12-20 12:29:13,14,"Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",60,7.2,entregado
+539,2020-07-10 10:32:44,34,Ut at dolor quis odio consequat varius. Integer ac leo.,75,9.1,entregado
+540,2020-04-13 15:58:24,87,Morbi non lectus.,60,6.0,entregado
+541,2021-11-18 10:48:34,84,"Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",120,3.1,entregado
+542,2021-06-12 21:29:50,115,Vestibulum ac est lacinia nisi venenatis tristique.,30,5.5,pendiente
+543,2022-04-29 13:08:00,11,Phasellus id sapien in sapien iaculis congue.,15,2.5,cancelado
+544,2022-03-11 07:31:09,23,Ut at dolor quis odio consequat varius.,15,7.2,en transito
+545,2021-03-01 20:54:05,29,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",150,2.5,cancelado
+546,2024-08-04 17:26:16,2,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",90,5.5,en transito
+547,2024-11-30 02:28:40,123,Nunc purus.,120,8.0,entregado
+548,2024-11-29 05:34:10,6,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.,90,4.0,cancelado
+549,2023-05-04 04:51:22,110,Pellentesque ultrices mattis odio.,120,4.8,en transito
+550,2023-02-24 15:37:46,71,Sed ante. Vivamus tortor.,75,8.0,en transito
+551,2020-01-23 14:37:40,135,Morbi non quam nec dui luctus rutrum.,90,4.0,cancelado
+552,2021-11-08 13:21:03,144,Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet.,60,5.5,pendiente
+553,2021-06-14 15:38:51,117,Suspendisse potenti.,150,6.0,entregado
+554,2024-03-04 12:15:52,13,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.,30,9.1,cancelado
+555,2023-06-10 09:42:05,95,"Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",75,2.5,pendiente
+556,2022-05-29 01:00:16,16,Praesent blandit. Nam nulla.,90,3.1,en transito
+557,2024-03-27 20:19:01,60,"Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",45,1.2,en transito
+558,2023-12-17 01:25:06,139,Curabitur in libero ut massa volutpat convallis.,150,6.0,en transito
+559,2021-06-22 14:03:07,40,Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.,75,5.5,cancelado
+560,2024-09-22 05:31:58,16,Etiam vel augue.,75,4.8,entregado
+561,2023-04-13 18:04:32,60,Mauris lacinia sapien quis libero.,30,8.0,cancelado
+562,2021-03-09 15:04:39,142,Mauris ullamcorper purus sit amet nulla.,120,3.1,entregado
+563,2022-03-15 00:05:51,115,Nunc nisl.,135,4.8,en transito
+564,2022-03-21 22:54:32,120,"Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",110,2.5,cancelado
+565,2020-11-28 00:27:05,117,Proin at turpis a pede posuere nonummy.,120,7.2,pendiente
+566,2020-08-28 21:09:17,122,Duis mattis egestas metus. Aenean fermentum.,135,5.5,en transito
+567,2022-04-28 16:44:04,29,Praesent id massa id nisl venenatis lacinia.,45,6.0,pendiente
+568,2022-03-20 13:26:16,139,Duis mattis egestas metus.,45,1.2,en transito
+569,2021-05-05 10:05:31,142,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus.",90,4.0,en transito
+570,2024-02-25 08:04:37,99,Nulla nisl.,30,6.0,pendiente
+571,2021-05-22 23:33:29,10,Duis bibendum. Morbi non quam nec dui luctus rutrum.,110,2.5,en transito
+572,2024-01-23 03:31:01,38,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.",150,8.0,entregado
+573,2022-04-27 10:26:04,11,Sed ante. Vivamus tortor.,15,4.8,entregado
+574,2023-12-16 13:04:59,5,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.",135,2.5,pendiente
+575,2021-08-26 21:14:27,92,Suspendisse accumsan tortor quis turpis.,30,2.5,entregado
+576,2021-01-17 23:52:11,111,Curabitur in libero ut massa volutpat convallis.,90,1.2,entregado
+577,2023-08-12 04:04:44,133,"Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",110,3.1,en transito
+578,2020-05-30 12:18:14,125,Sed accumsan felis. Ut at dolor quis odio consequat varius.,30,8.0,entregado
+579,2023-10-11 10:14:03,60,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",110,3.1,cancelado
+580,2020-02-17 06:40:38,137,Aenean lectus.,120,7.2,en transito
+581,2022-11-21 12:06:30,84,"Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",45,8.0,pendiente
+582,2021-04-22 17:50:57,137,Nulla tempus.,60,7.2,cancelado
+583,2021-10-11 06:19:06,100,"Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",30,1.2,entregado
+584,2023-08-25 05:30:27,110,Morbi vel lectus in quam fringilla rhoncus.,135,4.8,en transito
+585,2022-08-29 12:09:22,85,Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.,90,2.5,entregado
+586,2020-03-13 15:05:07,64,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",60,2.5,pendiente
+587,2021-01-23 18:15:59,88,Nullam varius.,135,9.1,pendiente
+588,2024-12-07 14:14:21,45,Vivamus in felis eu sapien cursus vestibulum.,135,3.1,en transito
+589,2022-04-12 21:04:36,118,Suspendisse potenti. Cras in purus eu magna vulputate luctus.,45,1.2,en transito
+590,2020-05-07 08:24:29,27,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,30,2.5,cancelado
+591,2022-08-10 02:14:54,98,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.,135,2.5,pendiente
+592,2023-07-07 10:35:10,142,In hac habitasse platea dictumst.,110,9.1,cancelado
+593,2023-10-25 09:33:12,144,"Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",15,6.0,en transito
+594,2021-07-24 13:42:58,25,Nullam varius. Nulla facilisi.,15,8.0,cancelado
+595,2021-04-20 04:07:42,4,Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,110,4.8,entregado
+596,2024-02-18 12:12:41,45,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",120,6.0,en transito
+597,2021-03-12 10:25:34,22,Nunc nisl.,75,6.0,en transito
+598,2020-06-09 05:08:35,121,Suspendisse potenti.,110,6.0,en transito
+599,2023-05-21 05:15:35,65,Donec quis orci eget orci vehicula condimentum.,90,4.8,entregado
+600,2020-08-22 05:16:47,5,Aliquam erat volutpat.,150,1.2,cancelado
+601,2024-02-25 22:24:43,116,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",135,4.8,entregado
+602,2020-03-08 09:51:17,14,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",75,5.5,entregado
+603,2021-11-12 02:59:46,96,Aenean fermentum.,135,9.1,cancelado
+604,2020-07-29 07:04:23,41,Nullam molestie nibh in lectus. Pellentesque at nulla.,45,2.5,pendiente
+605,2023-06-27 04:32:54,68,Integer tincidunt ante vel ipsum.,120,3.1,entregado
+606,2021-12-03 16:10:46,31,Maecenas ut massa quis augue luctus tincidunt.,60,4.8,entregado
+607,2021-12-09 15:41:01,93,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",45,8.0,cancelado
+608,2020-03-25 08:22:24,54,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",120,4.8,cancelado
+609,2020-08-30 11:45:29,12,Curabitur at ipsum ac tellus semper interdum.,120,1.2,en transito
+610,2021-05-15 23:57:33,141,Ut at dolor quis odio consequat varius.,15,3.1,pendiente
+611,2023-05-11 04:10:28,103,Phasellus in felis.,110,8.0,cancelado
+612,2024-11-11 10:22:17,119,In hac habitasse platea dictumst.,150,4.8,cancelado
+613,2021-04-24 19:59:57,133,Nullam molestie nibh in lectus.,150,3.1,cancelado
+614,2021-05-02 21:26:00,31,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.,75,4.8,pendiente
+615,2022-03-24 07:24:23,97,Nulla ut erat id mauris vulputate elementum.,135,5.5,pendiente
+616,2023-05-17 05:09:01,121,Morbi a ipsum.,150,6.0,entregado
+617,2022-05-14 06:40:25,18,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",30,6.0,entregado
+618,2023-03-25 08:39:18,112,In quis justo.,15,8.0,pendiente
+619,2021-09-04 06:48:15,122,Ut at dolor quis odio consequat varius. Integer ac leo.,90,3.1,en transito
+620,2021-08-04 15:40:11,40,Cras non velit nec nisi vulputate nonummy.,90,6.0,en transito
+621,2022-01-24 00:46:21,14,Aenean lectus. Pellentesque eget nunc.,90,6.0,cancelado
+622,2021-01-11 23:44:59,97,Aliquam erat volutpat.,75,7.2,en transito
+623,2021-06-26 03:40:50,117,Praesent blandit.,30,4.0,entregado
+624,2021-09-06 13:49:12,85,Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,150,1.2,pendiente
+625,2023-10-27 18:22:19,48,Nunc nisl.,135,4.0,entregado
+626,2023-07-23 04:40:48,48,Vivamus in felis eu sapien cursus vestibulum.,110,4.8,en transito
+627,2021-03-25 12:01:49,86,Phasellus sit amet erat.,150,1.2,en transito
+628,2023-11-23 10:06:55,28,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",60,2.5,en transito
+629,2023-10-29 13:05:25,110,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.,60,6.0,en transito
+630,2024-04-01 21:11:52,41,Nullam varius. Nulla facilisi.,15,2.5,entregado
+631,2021-04-26 22:03:49,20,Aliquam erat volutpat.,30,8.0,en transito
+632,2021-06-07 13:00:00,59,Nulla tellus. In sagittis dui vel nisl.,135,2.5,pendiente
+633,2021-12-16 20:59:45,134,Etiam vel augue. Vestibulum rutrum rutrum neque.,45,3.1,entregado
+634,2021-10-01 23:44:12,106,Integer ac neque. Duis bibendum.,60,7.2,cancelado
+635,2022-08-21 21:37:20,115,Nulla ac enim.,90,9.1,pendiente
+636,2024-12-18 23:44:28,59,Integer ac neque.,60,2.5,pendiente
+637,2023-08-17 00:52:58,25,Donec semper sapien a libero.,120,1.2,cancelado
+638,2022-06-20 03:01:26,24,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",150,7.2,pendiente
+639,2022-11-10 14:08:24,28,Maecenas ut massa quis augue luctus tincidunt.,120,3.1,en transito
+640,2021-05-07 06:43:01,146,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",150,4.8,entregado
+641,2022-08-04 12:44:49,40,Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.,30,9.1,cancelado
+642,2022-06-04 09:49:48,31,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",15,3.1,entregado
+643,2023-11-17 12:40:43,96,Quisque porta volutpat erat.,30,1.2,en transito
+644,2022-06-23 23:20:14,92,Nulla facilisi.,45,2.5,en transito
+645,2020-04-12 22:21:48,68,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",15,5.5,pendiente
+646,2023-11-27 11:26:00,93,In congue.,75,9.1,en transito
+647,2022-04-21 12:30:42,131,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",120,6.0,cancelado
+648,2021-03-27 01:52:58,33,In hac habitasse platea dictumst.,60,2.5,pendiente
+649,2020-05-11 19:45:02,20,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum.",30,9.1,en transito
+650,2023-10-12 04:55:27,142,Duis mattis egestas metus. Aenean fermentum.,30,4.0,pendiente
+651,2020-04-02 06:53:51,11,Donec quis orci eget orci vehicula condimentum.,75,7.2,en transito
+652,2023-03-04 11:18:03,77,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",135,6.0,cancelado
+653,2020-10-28 17:50:29,31,Nulla suscipit ligula in lacus.,15,5.5,pendiente
+654,2021-09-26 23:52:06,105,Etiam vel augue. Vestibulum rutrum rutrum neque.,45,2.5,entregado
+655,2021-04-06 10:06:46,83,Aliquam non mauris. Morbi non lectus.,110,2.5,entregado
+656,2022-05-16 16:08:31,79,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,90,5.5,entregado
+657,2020-02-19 06:25:00,26,Aenean sit amet justo. Morbi ut odio.,90,3.1,en transito
+658,2023-05-13 22:20:37,40,"Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",150,1.2,en transito
+659,2021-10-30 14:41:34,51,Sed ante.,60,4.0,cancelado
+660,2024-11-19 07:43:40,10,"Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",60,6.0,cancelado
+661,2023-05-12 01:06:44,142,Donec vitae nisi.,30,1.2,pendiente
+662,2020-07-17 02:04:47,2,Mauris ullamcorper purus sit amet nulla.,15,7.2,cancelado
+663,2020-07-03 10:58:48,29,Etiam justo. Etiam pretium iaculis justo.,45,9.1,pendiente
+664,2020-07-20 22:19:45,20,"Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",30,1.2,cancelado
+665,2022-05-07 08:50:25,131,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",60,5.5,pendiente
+666,2023-11-09 07:58:18,16,Duis ac nibh.,15,1.2,cancelado
+667,2022-03-02 04:12:19,150,Donec posuere metus vitae ipsum.,60,4.8,cancelado
+668,2020-06-15 11:02:38,5,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",150,1.2,pendiente
+669,2024-04-24 22:08:49,70,Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.,75,1.2,cancelado
+670,2021-06-01 03:10:00,34,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",75,3.1,cancelado
+671,2022-03-02 17:55:21,48,Nulla ut erat id mauris vulputate elementum.,15,6.0,cancelado
+672,2022-06-18 10:53:06,52,In hac habitasse platea dictumst.,150,1.2,pendiente
+673,2021-08-29 12:30:00,9,Morbi ut odio.,15,9.1,pendiente
+674,2022-02-07 14:50:25,19,Nulla facilisi. Cras non velit nec nisi vulputate nonummy.,135,4.8,cancelado
+675,2024-05-04 14:45:33,42,Aenean lectus. Pellentesque eget nunc.,45,2.5,cancelado
+676,2024-06-30 21:23:16,85,"Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",150,1.2,en transito
+677,2024-02-04 14:40:16,62,Integer ac neque.,15,4.0,en transito
+678,2023-09-01 00:33:59,90,Aliquam non mauris.,30,1.2,cancelado
+679,2023-01-29 06:53:54,13,Curabitur in libero ut massa volutpat convallis.,45,5.5,entregado
+680,2023-12-28 21:51:17,82,Suspendisse potenti.,110,2.5,en transito
+681,2024-08-02 22:08:33,129,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",90,7.2,en transito
+682,2020-02-08 08:02:07,103,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",135,8.0,pendiente
+683,2020-02-06 05:10:00,94,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",150,1.2,entregado
+684,2020-03-25 11:10:01,25,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum.",150,2.5,pendiente
+685,2020-07-01 05:27:56,126,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.",120,4.0,pendiente
+686,2022-01-02 18:39:52,29,Nulla facilisi. Cras non velit nec nisi vulputate nonummy.,120,9.1,entregado
+687,2022-12-05 10:31:07,12,Vivamus vel nulla eget eros elementum pellentesque.,30,6.0,cancelado
+688,2020-05-20 21:26:16,131,Suspendisse potenti.,15,8.0,pendiente
+689,2022-02-05 09:14:47,47,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",45,5.5,cancelado
+690,2021-06-04 14:27:36,98,Pellentesque ultrices mattis odio. Donec vitae nisi.,90,6.0,pendiente
+691,2023-07-26 05:27:48,22,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",150,9.1,pendiente
+692,2024-07-16 04:16:49,5,In congue. Etiam justo.,90,8.0,en transito
+693,2022-02-21 12:52:17,146,Donec semper sapien a libero.,45,4.8,pendiente
+694,2020-08-06 08:05:38,47,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",135,8.0,entregado
+695,2020-11-10 01:01:16,8,Suspendisse potenti. In eleifend quam a odio.,30,5.5,cancelado
+696,2021-02-13 08:30:13,131,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",90,3.1,pendiente
+697,2021-10-11 11:08:21,78,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",110,3.1,cancelado
+698,2024-08-30 03:21:54,82,In hac habitasse platea dictumst.,135,5.5,pendiente
+699,2022-09-30 09:50:08,110,"In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",15,9.1,entregado
+700,2020-04-12 12:53:38,21,"Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",30,5.5,en transito
+701,2021-12-29 19:09:29,124,Nulla tellus.,110,9.1,entregado
+702,2020-06-15 05:51:52,77,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus.",150,3.1,pendiente
+703,2023-07-22 17:44:22,72,Vivamus in felis eu sapien cursus vestibulum.,110,2.5,cancelado
+704,2021-11-07 09:53:01,81,Integer ac leo.,45,4.8,entregado
+705,2022-08-31 21:24:07,110,Suspendisse potenti.,60,5.5,cancelado
+706,2023-06-15 17:56:33,55,Morbi ut odio.,120,9.1,cancelado
+707,2022-04-03 05:29:57,57,In quis justo.,15,6.0,entregado
+708,2021-05-18 04:44:42,24,Quisque ut erat.,90,3.1,entregado
+709,2024-09-05 15:38:24,1,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",110,4.0,entregado
+710,2020-08-24 18:15:52,64,Duis mattis egestas metus.,90,7.2,cancelado
+711,2021-10-24 18:43:51,75,Aenean auctor gravida sem.,150,7.2,pendiente
+712,2024-09-22 20:48:02,78,Etiam vel augue. Vestibulum rutrum rutrum neque.,75,1.2,pendiente
+713,2023-04-24 00:23:47,30,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus.",150,9.1,pendiente
+714,2021-11-01 18:18:59,50,In eleifend quam a odio.,60,8.0,pendiente
+715,2024-11-24 09:13:00,72,Integer ac leo.,45,4.0,pendiente
+716,2022-12-25 13:41:55,27,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.,15,6.0,cancelado
+717,2022-08-25 09:39:56,60,Nulla tellus. In sagittis dui vel nisl.,135,1.2,en transito
+718,2024-09-02 02:53:27,45,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",30,7.2,pendiente
+719,2023-07-27 14:21:46,102,In sagittis dui vel nisl. Duis ac nibh.,60,2.5,entregado
+720,2023-06-15 22:45:08,119,"Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",135,9.1,entregado
+721,2023-03-28 15:30:09,49,Etiam vel augue.,45,2.5,en transito
+722,2023-06-27 00:36:19,116,Phasellus sit amet erat. Nulla tempus.,30,2.5,en transito
+723,2020-03-02 21:12:08,8,Integer non velit.,60,3.1,entregado
+724,2023-05-26 19:07:25,61,"Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",90,4.8,cancelado
+725,2020-05-26 00:04:40,111,"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",110,7.2,pendiente
+726,2021-03-11 03:53:36,30,Proin at turpis a pede posuere nonummy. Integer non velit.,110,9.1,entregado
+727,2024-03-04 12:39:06,143,Ut at dolor quis odio consequat varius.,90,1.2,entregado
+728,2023-10-15 10:06:52,51,In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.,15,8.0,entregado
+729,2023-11-22 20:13:56,84,Etiam justo. Etiam pretium iaculis justo.,90,9.1,pendiente
+730,2024-02-07 15:05:31,110,Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.,60,1.2,en transito
+731,2020-08-12 23:41:52,12,Curabitur in libero ut massa volutpat convallis.,60,8.0,entregado
+732,2021-01-04 21:56:30,115,Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.,120,7.2,entregado
+733,2020-06-18 18:44:42,57,Phasellus sit amet erat.,150,7.2,en transito
+734,2021-10-11 02:53:03,124,Sed accumsan felis. Ut at dolor quis odio consequat varius.,90,8.0,entregado
+735,2023-10-25 19:45:37,111,Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.,60,9.1,cancelado
+736,2024-07-27 16:31:53,22,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",60,9.1,en transito
+737,2020-07-28 23:44:29,7,Proin eu mi. Nulla ac enim.,90,1.2,cancelado
+738,2024-02-20 21:02:34,86,Nulla tempus.,60,8.0,en transito
+739,2020-04-25 06:51:24,100,"Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",60,4.8,entregado
+740,2024-02-26 22:39:49,20,"Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",120,6.0,pendiente
+741,2024-05-10 12:38:01,6,In blandit ultrices enim.,15,7.2,pendiente
+742,2024-05-27 23:20:56,74,Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.,30,4.0,entregado
+743,2022-02-07 11:31:39,83,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.,30,3.1,entregado
+744,2020-10-10 06:23:20,137,Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,75,7.2,en transito
+745,2024-10-23 10:28:14,85,Nulla mollis molestie lorem. Quisque ut erat.,90,3.1,pendiente
+746,2021-07-02 15:00:28,45,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.,30,3.1,pendiente
+747,2024-04-14 18:08:40,19,"Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",15,4.0,pendiente
+748,2024-04-03 18:38:42,95,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.",110,1.2,cancelado
+749,2021-01-16 23:08:02,20,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",45,4.0,pendiente
+750,2023-01-25 02:36:01,11,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",30,7.2,pendiente
+751,2021-09-20 06:47:41,59,Proin interdum mauris non ligula pellentesque ultrices.,150,1.2,entregado
+752,2020-11-16 13:05:53,25,Vivamus vel nulla eget eros elementum pellentesque.,90,8.0,entregado
+753,2022-02-09 09:46:14,47,Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,150,8.0,entregado
+754,2023-10-06 12:33:51,146,Suspendisse potenti. Cras in purus eu magna vulputate luctus.,30,4.0,entregado
+755,2023-08-10 09:46:59,143,Duis consequat dui nec nisi volutpat eleifend.,135,4.0,cancelado
+756,2023-08-24 17:31:39,128,Nulla facilisi.,120,7.2,entregado
+757,2021-03-08 02:36:39,150,"Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",15,3.1,entregado
+758,2021-09-29 23:06:12,30,"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",90,6.0,cancelado
+759,2021-10-28 17:53:34,77,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.,135,7.2,entregado
+760,2021-03-31 21:17:20,130,Vivamus vestibulum sagittis sapien.,30,4.8,pendiente
+761,2022-10-03 09:06:47,18,Praesent blandit lacinia erat.,135,2.5,pendiente
+762,2023-04-22 05:43:22,24,Nulla tellus. In sagittis dui vel nisl.,110,5.5,entregado
+763,2020-01-14 02:42:24,136,Cras non velit nec nisi vulputate nonummy.,30,4.0,entregado
+764,2020-07-26 01:25:49,83,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",120,7.2,pendiente
+765,2022-09-16 13:24:28,111,Etiam vel augue.,120,8.0,pendiente
+766,2021-06-16 21:25:22,79,In quis justo. Maecenas rhoncus aliquam lacus.,90,1.2,en transito
+767,2022-04-03 23:28:02,31,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.,120,4.0,en transito
+768,2020-01-27 20:08:17,92,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",45,5.5,pendiente
+769,2022-10-05 23:30:44,7,Ut at dolor quis odio consequat varius. Integer ac leo.,135,3.1,entregado
+770,2021-04-12 19:26:58,57,Suspendisse potenti.,135,8.0,entregado
+771,2023-09-22 01:40:12,22,"Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.",60,8.0,entregado
+772,2020-09-22 06:48:52,42,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.",15,1.2,cancelado
+773,2021-01-23 20:35:48,82,Nullam varius. Nulla facilisi.,30,2.5,en transito
+774,2024-05-15 13:19:53,9,"Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",150,1.2,cancelado
+775,2022-07-01 09:37:17,143,Nulla tellus.,60,4.8,en transito
+776,2023-09-23 19:53:19,132,Aenean lectus.,150,9.1,en transito
+777,2020-09-08 19:57:40,127,Donec vitae nisi.,15,8.0,entregado
+778,2022-11-08 21:15:03,117,Nam tristique tortor eu pede.,75,9.1,pendiente
+779,2020-08-11 02:35:37,75,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",135,8.0,pendiente
+780,2024-09-20 05:01:28,122,Ut tellus.,135,8.0,pendiente
+781,2021-01-16 13:31:58,49,Etiam vel augue. Vestibulum rutrum rutrum neque.,120,6.0,pendiente
+782,2020-01-26 11:43:37,89,"Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.",45,4.0,entregado
+783,2023-05-09 16:22:06,147,Ut tellus.,75,7.2,pendiente
+784,2020-06-29 01:26:04,83,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,45,4.0,entregado
+785,2024-01-02 00:11:56,82,Donec ut dolor.,60,3.1,cancelado
+786,2024-03-15 16:20:55,81,In hac habitasse platea dictumst.,120,8.0,en transito
+787,2021-03-16 22:34:56,114,Praesent blandit lacinia erat.,30,3.1,pendiente
+788,2023-04-23 00:57:57,38,Quisque porta volutpat erat.,90,1.2,en transito
+789,2021-02-28 04:25:43,56,Donec dapibus.,75,1.2,cancelado
+790,2024-02-12 00:15:41,12,"Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",75,7.2,en transito
+791,2022-08-10 08:11:02,76,Quisque id justo sit amet sapien dignissim vestibulum.,45,4.0,pendiente
+792,2023-11-02 21:35:17,94,Nunc purus.,45,8.0,pendiente
+793,2020-08-18 06:13:16,23,Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.,90,9.1,pendiente
+794,2024-02-28 16:43:34,16,Aliquam sit amet diam in magna bibendum imperdiet.,110,6.0,cancelado
+795,2021-11-19 02:25:12,88,Pellentesque ultrices mattis odio.,75,2.5,pendiente
+796,2023-01-29 08:21:20,92,"Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",150,2.5,cancelado
+797,2022-07-26 21:30:54,94,Donec vitae nisi.,110,1.2,en transito
+798,2024-08-05 13:09:10,121,Nullam sit amet turpis elementum ligula vehicula consequat.,45,6.0,pendiente
+799,2024-12-07 02:19:24,105,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",135,1.2,pendiente
+800,2023-09-04 19:04:09,2,Suspendisse potenti.,45,8.0,cancelado
+801,2020-01-01 07:36:12,107,In hac habitasse platea dictumst.,15,2.5,cancelado
+802,2022-12-09 00:09:02,68,Proin at turpis a pede posuere nonummy. Integer non velit.,30,8.0,en transito
+803,2021-04-04 06:49:09,93,Donec dapibus. Duis at velit eu est congue elementum.,110,5.5,pendiente
+804,2024-04-16 03:42:08,96,Cras pellentesque volutpat dui.,30,2.5,cancelado
+805,2021-08-03 23:03:09,71,Nam dui.,45,5.5,pendiente
+806,2024-07-10 11:08:55,44,"Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",135,2.5,cancelado
+807,2021-05-05 12:50:19,70,Quisque id justo sit amet sapien dignissim vestibulum.,30,5.5,pendiente
+808,2020-03-07 08:04:20,124,Donec posuere metus vitae ipsum. Aliquam non mauris.,15,7.2,entregado
+809,2022-02-08 19:45:13,128,Cras non velit nec nisi vulputate nonummy.,135,9.1,entregado
+810,2022-05-31 00:14:47,135,Curabitur at ipsum ac tellus semper interdum.,60,3.1,cancelado
+811,2020-07-31 11:37:56,147,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",120,8.0,entregado
+812,2023-05-21 05:44:22,81,Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.,135,5.5,cancelado
+813,2020-08-20 08:47:01,41,Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,120,1.2,pendiente
+814,2021-02-18 19:01:40,3,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",15,9.1,entregado
+815,2024-03-30 08:36:11,65,Aenean lectus.,15,9.1,entregado
+816,2021-04-26 08:23:22,45,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",150,8.0,pendiente
+817,2022-09-23 14:39:32,130,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",30,3.1,cancelado
+818,2020-09-16 14:48:34,139,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",60,2.5,entregado
+819,2023-09-06 20:29:00,15,"Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",135,5.5,en transito
+820,2024-09-17 03:16:23,137,Duis mattis egestas metus.,135,4.8,en transito
+821,2024-04-15 10:29:33,67,Suspendisse accumsan tortor quis turpis. Sed ante.,30,4.8,entregado
+822,2024-05-10 04:54:32,116,Donec semper sapien a libero. Nam dui.,60,1.2,entregado
+823,2022-06-17 18:44:34,143,"Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",120,7.2,en transito
+824,2021-10-06 06:07:26,98,Etiam vel augue.,60,9.1,entregado
+825,2023-11-08 22:12:04,133,In hac habitasse platea dictumst.,110,4.8,entregado
+826,2024-08-26 16:10:17,132,Donec posuere metus vitae ipsum.,30,4.8,pendiente
+827,2022-07-31 05:23:56,71,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,15,3.1,en transito
+828,2020-10-26 22:55:19,127,Nulla mollis molestie lorem.,110,4.0,pendiente
+829,2024-09-19 16:41:34,129,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",135,2.5,en transito
+830,2021-07-31 07:46:38,126,Proin at turpis a pede posuere nonummy. Integer non velit.,150,4.0,en transito
+831,2024-11-26 05:26:41,43,Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.,150,3.1,entregado
+832,2021-04-04 12:30:52,132,Suspendisse potenti. Cras in purus eu magna vulputate luctus.,75,5.5,en transito
+833,2023-05-19 00:27:46,57,"Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",110,5.5,pendiente
+834,2022-02-28 10:12:54,139,"Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",90,3.1,pendiente
+835,2020-02-11 08:38:43,69,Nunc nisl.,110,4.8,pendiente
+836,2024-08-01 15:28:31,127,Nulla tempus.,90,1.2,entregado
+837,2022-03-02 03:19:12,90,Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.,135,5.5,entregado
+838,2023-10-06 08:26:40,49,Etiam faucibus cursus urna. Ut tellus.,15,4.8,pendiente
+839,2024-02-16 20:06:46,52,Donec ut mauris eget massa tempor convallis.,150,4.0,pendiente
+840,2020-04-20 01:53:03,19,Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat.,30,2.5,en transito
+841,2022-03-20 23:27:03,1,Suspendisse accumsan tortor quis turpis. Sed ante.,45,9.1,cancelado
+842,2020-05-21 09:58:43,83,Praesent lectus.,15,5.5,entregado
+843,2021-10-08 14:36:48,94,Etiam vel augue.,150,7.2,entregado
+844,2023-05-30 17:22:48,119,"In est risus, auctor sed, tristique in, tempus sit amet, sem.",110,6.0,entregado
+845,2022-09-24 06:44:24,74,Maecenas tincidunt lacus at velit.,135,7.2,en transito
+846,2024-01-02 16:47:06,56,In hac habitasse platea dictumst. Etiam faucibus cursus urna.,60,3.1,cancelado
+847,2022-07-02 02:09:39,106,"Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",75,4.0,entregado
+848,2024-12-08 20:20:50,84,In sagittis dui vel nisl. Duis ac nibh.,60,4.8,en transito
+849,2022-03-26 09:27:49,101,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",135,7.2,entregado
+850,2023-05-15 18:27:44,116,Curabitur at ipsum ac tellus semper interdum.,30,3.1,pendiente
+851,2020-03-23 15:16:16,91,Aenean fermentum.,15,6.0,pendiente
+852,2020-06-05 09:16:00,30,Proin interdum mauris non ligula pellentesque ultrices.,135,2.5,en transito
+853,2023-12-13 19:57:38,119,Proin interdum mauris non ligula pellentesque ultrices.,110,9.1,cancelado
+854,2020-08-04 02:17:04,131,Donec semper sapien a libero.,135,1.2,cancelado
+855,2021-12-16 14:59:02,62,Suspendisse potenti. Cras in purus eu magna vulputate luctus.,75,9.1,cancelado
+856,2022-02-09 09:14:15,121,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",15,4.8,cancelado
+857,2023-07-13 08:02:15,3,Donec quis orci eget orci vehicula condimentum.,90,6.0,pendiente
+858,2020-08-19 16:42:35,141,Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.,90,1.2,pendiente
+859,2022-04-25 16:33:32,17,Suspendisse potenti. Cras in purus eu magna vulputate luctus.,75,3.1,entregado
+860,2024-11-01 07:44:18,149,Pellentesque viverra pede ac diam.,120,5.5,pendiente
+861,2021-10-20 16:39:26,42,Praesent id massa id nisl venenatis lacinia.,75,2.5,pendiente
+862,2022-03-27 08:29:59,104,Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.,135,3.1,entregado
+863,2022-11-07 20:50:44,145,Integer ac neque. Duis bibendum.,30,4.0,cancelado
+864,2022-01-29 16:43:00,72,Etiam vel augue. Vestibulum rutrum rutrum neque.,45,5.5,entregado
+865,2020-03-21 20:23:26,34,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",15,3.1,en transito
+866,2020-11-05 14:35:48,27,Vivamus vel nulla eget eros elementum pellentesque.,15,3.1,en transito
+867,2020-01-07 07:09:55,25,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",45,8.0,en transito
+868,2022-03-11 00:06:13,88,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",45,5.5,pendiente
+869,2023-01-06 13:17:01,69,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",90,4.8,cancelado
+870,2022-05-23 08:22:28,91,"Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",120,8.0,entregado
+871,2023-06-20 03:50:54,51,Etiam pretium iaculis justo.,75,4.0,cancelado
+872,2024-07-10 07:20:11,121,Sed accumsan felis. Ut at dolor quis odio consequat varius.,45,2.5,entregado
+873,2021-06-12 05:10:26,88,Quisque ut erat.,45,8.0,entregado
+874,2024-04-19 00:04:04,31,In congue. Etiam justo.,135,2.5,cancelado
+875,2021-03-04 12:39:01,3,"Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",135,3.1,entregado
+876,2023-07-04 01:39:38,63,Suspendisse potenti. Cras in purus eu magna vulputate luctus.,45,3.1,en transito
+877,2023-06-16 00:56:03,28,Fusce consequat.,120,6.0,pendiente
+878,2023-09-17 13:12:40,2,Ut at dolor quis odio consequat varius.,15,9.1,pendiente
+879,2023-06-09 13:50:49,136,Fusce posuere felis sed lacus.,110,3.1,entregado
+880,2020-07-30 06:44:27,112,Nulla ut erat id mauris vulputate elementum. Nullam varius.,110,4.8,pendiente
+881,2022-02-02 04:58:38,40,Nulla tempus.,30,7.2,pendiente
+882,2022-09-19 06:09:29,67,Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.,30,9.1,en transito
+883,2021-03-12 00:59:11,41,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",30,8.0,en transito
+884,2021-08-12 18:49:06,8,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",90,7.2,entregado
+885,2021-12-24 07:10:35,41,Nulla ut erat id mauris vulputate elementum.,120,8.0,entregado
+886,2023-11-03 11:54:05,141,Pellentesque ultrices mattis odio.,110,3.1,entregado
+887,2020-07-07 03:14:27,27,Aliquam erat volutpat.,90,7.2,en transito
+888,2023-12-20 06:56:54,144,Ut at dolor quis odio consequat varius.,75,1.2,entregado
+889,2021-05-13 07:44:07,21,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.",45,8.0,cancelado
+890,2022-05-15 08:26:01,121,Proin eu mi. Nulla ac enim.,15,7.2,cancelado
+891,2021-11-22 12:51:24,29,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",30,1.2,pendiente
+892,2021-06-26 06:45:13,150,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",30,9.1,pendiente
+893,2024-06-03 03:29:10,132,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.,135,1.2,cancelado
+894,2020-11-22 13:04:39,43,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.",45,4.0,pendiente
+895,2023-01-07 10:28:31,125,Vivamus tortor. Duis mattis egestas metus.,15,9.1,en transito
+896,2023-06-20 13:16:27,13,Morbi non quam nec dui luctus rutrum. Nulla tellus.,30,8.0,entregado
+897,2023-09-27 19:38:38,127,Duis at velit eu est congue elementum.,45,8.0,cancelado
+898,2022-09-29 17:38:55,115,Integer ac leo. Pellentesque ultrices mattis odio.,15,1.2,entregado
+899,2023-12-03 11:13:57,134,Pellentesque at nulla.,135,4.0,pendiente
+900,2020-03-08 23:52:17,91,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.,60,6.0,entregado
+901,2020-10-10 00:43:38,78,Etiam vel augue.,15,8.0,en transito
+902,2021-05-18 23:39:12,45,In eleifend quam a odio.,150,9.1,en transito
+903,2021-06-06 04:55:00,46,Fusce posuere felis sed lacus.,110,4.8,entregado
+904,2021-07-12 07:57:57,104,Donec semper sapien a libero.,30,7.2,pendiente
+905,2022-07-05 07:23:21,112,Nulla tellus. In sagittis dui vel nisl.,110,2.5,entregado
+906,2023-12-06 21:21:18,140,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.,15,8.0,pendiente
+907,2024-12-07 04:41:05,45,Praesent lectus.,60,2.5,pendiente
+908,2022-01-12 23:59:03,146,Nulla mollis molestie lorem. Quisque ut erat.,135,3.1,en transito
+909,2023-10-10 10:52:12,55,Suspendisse potenti.,15,3.1,pendiente
+910,2020-12-28 21:27:04,24,Integer a nibh. In quis justo.,15,8.0,pendiente
+911,2024-03-22 23:08:34,40,Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.,90,4.8,cancelado
+912,2022-11-02 11:22:09,44,Etiam justo. Etiam pretium iaculis justo.,45,2.5,pendiente
+913,2022-06-07 10:39:21,57,Nullam varius.,60,4.8,entregado
+914,2021-06-16 15:50:51,148,Ut tellus.,75,8.0,cancelado
+915,2022-11-19 11:02:22,36,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",15,7.2,entregado
+916,2024-05-23 14:36:39,53,Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.,30,7.2,pendiente
+917,2020-01-27 20:35:15,10,Donec semper sapien a libero. Nam dui.,30,4.0,en transito
+918,2023-04-19 00:34:08,8,Aliquam erat volutpat.,135,4.0,en transito
+919,2020-09-19 15:16:57,74,Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.,110,8.0,entregado
+920,2021-10-04 03:35:05,110,Integer ac neque.,45,4.0,en transito
+921,2022-01-06 00:53:30,131,Etiam justo. Etiam pretium iaculis justo.,90,7.2,entregado
+922,2024-10-23 10:15:37,7,Vivamus vestibulum sagittis sapien.,75,7.2,entregado
+923,2024-09-29 04:03:28,104,Integer ac neque.,90,7.2,entregado
+924,2023-12-31 03:02:05,144,Nam nulla.,120,1.2,entregado
+925,2020-08-04 17:12:46,82,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",90,2.5,entregado
+926,2022-08-01 16:18:55,63,Sed accumsan felis.,110,6.0,entregado
+927,2024-12-09 02:04:37,38,Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.,110,4.0,entregado
+928,2023-03-08 05:40:05,49,In sagittis dui vel nisl.,45,4.0,entregado
+929,2023-08-16 07:11:57,137,Integer a nibh.,135,5.5,entregado
+930,2024-04-24 05:45:37,95,"Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",30,6.0,cancelado
+931,2023-02-11 04:37:46,68,"Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.",30,4.8,cancelado
+932,2023-03-03 12:19:58,34,Cras in purus eu magna vulputate luctus.,75,1.2,en transito
+933,2023-04-30 23:26:19,114,Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.,60,6.0,entregado
+934,2022-02-22 23:47:02,60,Etiam pretium iaculis justo. In hac habitasse platea dictumst.,110,6.0,cancelado
+935,2023-04-14 01:16:38,100,Duis bibendum.,120,3.1,pendiente
+936,2022-02-12 16:49:09,130,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.",75,4.8,cancelado
+937,2022-10-28 23:44:05,31,In hac habitasse platea dictumst.,60,6.0,cancelado
+938,2021-06-14 00:21:45,13,Mauris ullamcorper purus sit amet nulla.,60,4.0,en transito
+939,2021-02-27 16:59:37,100,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus.",135,5.5,en transito
+940,2020-02-01 01:11:45,84,Donec vitae nisi.,45,3.1,entregado
+941,2021-07-17 05:02:16,97,"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",150,1.2,en transito
+942,2022-09-12 05:34:07,125,Integer ac leo.,120,4.0,pendiente
+943,2022-11-11 14:32:12,109,Curabitur at ipsum ac tellus semper interdum.,120,2.5,cancelado
+944,2021-09-11 10:30:39,34,"Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.",135,4.0,pendiente
+945,2024-06-15 16:38:26,46,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.,110,8.0,entregado
+946,2021-11-15 10:18:44,78,Aenean auctor gravida sem.,135,4.0,en transito
+947,2023-10-26 12:26:45,108,Aenean auctor gravida sem.,90,9.1,pendiente
+948,2024-04-25 11:28:59,95,In hac habitasse platea dictumst.,120,3.1,pendiente
+949,2020-11-04 18:23:28,99,"Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",150,8.0,pendiente
+950,2024-12-06 04:47:23,50,Etiam vel augue. Vestibulum rutrum rutrum neque.,75,3.1,entregado
+951,2020-08-22 21:19:21,69,Vivamus in felis eu sapien cursus vestibulum.,110,9.1,entregado
+952,2022-01-26 05:43:26,128,Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.,90,5.5,pendiente
+953,2020-02-26 22:53:27,88,Duis mattis egestas metus.,30,1.2,cancelado
+954,2020-01-13 19:39:14,146,Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.,15,5.5,pendiente
+955,2024-08-18 10:40:25,94,"Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",110,4.8,pendiente
+956,2024-02-15 18:29:28,142,Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend.,45,1.2,cancelado
+957,2024-02-11 06:18:14,83,"In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",135,4.0,pendiente
+958,2021-06-25 19:25:27,129,"Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",45,6.0,entregado
+959,2022-01-23 13:26:56,112,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.,110,4.8,cancelado
+960,2022-01-10 09:51:52,2,Pellentesque ultrices mattis odio.,90,8.0,entregado
+961,2022-04-14 21:57:38,83,Morbi vel lectus in quam fringilla rhoncus.,30,1.2,en transito
+962,2023-03-25 10:20:15,27,Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend.,90,5.5,entregado
+963,2022-06-21 22:24:33,12,Vestibulum rutrum rutrum neque.,45,2.5,entregado
+964,2023-12-04 16:29:49,22,"Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",45,5.5,pendiente
+965,2024-09-19 20:34:42,126,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.,45,1.2,entregado
+966,2021-11-11 20:21:24,115,Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.,30,8.0,entregado
+967,2020-08-14 17:37:20,98,Morbi non quam nec dui luctus rutrum.,120,6.0,en transito
+968,2021-06-06 08:00:50,87,Etiam pretium iaculis justo. In hac habitasse platea dictumst.,45,4.0,en transito
+969,2022-08-13 12:16:13,121,Praesent blandit. Nam nulla.,45,9.1,pendiente
+970,2023-01-30 04:15:01,52,Nulla suscipit ligula in lacus.,150,2.5,pendiente
+971,2022-03-18 18:19:05,147,"Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",30,1.2,entregado
+972,2022-01-18 14:55:21,66,Aenean sit amet justo. Morbi ut odio.,90,1.2,entregado
+973,2024-08-03 15:55:36,74,Duis mattis egestas metus.,15,6.0,en transito
+974,2024-07-03 17:41:19,6,Donec quis orci eget orci vehicula condimentum.,90,5.5,entregado
+975,2023-06-01 12:39:50,137,In sagittis dui vel nisl.,75,7.2,cancelado
+976,2020-06-18 08:32:09,75,Nam dui.,15,8.0,pendiente
+977,2022-09-13 09:55:27,16,Duis bibendum.,30,9.1,en transito
+978,2020-04-14 07:39:40,101,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.",90,8.0,pendiente
+979,2020-11-27 05:16:18,59,"In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.",135,7.2,cancelado
+980,2023-12-28 19:19:56,42,Nulla nisl. Nunc nisl.,45,9.1,pendiente
+981,2023-03-26 21:52:15,82,Nam tristique tortor eu pede.,15,6.0,pendiente
+982,2022-04-04 03:40:11,102,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.,60,6.0,entregado
+983,2022-03-27 09:58:12,6,In hac habitasse platea dictumst.,60,3.1,pendiente
+984,2022-12-27 05:27:25,73,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.,75,4.0,pendiente
+985,2021-06-24 22:56:39,99,Sed accumsan felis. Ut at dolor quis odio consequat varius.,135,2.5,pendiente
+986,2022-02-05 10:57:57,98,Integer tincidunt ante vel ipsum.,150,2.5,cancelado
+987,2022-06-20 17:50:46,62,Donec posuere metus vitae ipsum.,45,6.0,cancelado
+988,2024-10-18 05:31:30,128,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.,120,9.1,pendiente
+989,2024-12-19 10:42:21,104,Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.,45,4.0,en transito
+990,2020-09-15 09:11:30,136,"Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",135,9.1,cancelado
+991,2021-08-19 18:31:24,67,"Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",15,5.5,entregado
+992,2023-03-09 03:18:16,114,Proin risus.,45,3.1,entregado
+993,2023-12-26 00:07:58,58,"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",110,4.0,pendiente
+994,2021-10-07 02:54:13,127,Phasellus in felis. Donec semper sapien a libero.,110,1.2,en transito
+995,2022-05-06 19:48:56,108,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",120,2.5,pendiente
+996,2023-10-08 22:36:44,148,Phasellus sit amet erat. Nulla tempus.,30,2.5,cancelado
+997,2023-07-08 18:13:56,106,In sagittis dui vel nisl. Duis ac nibh.,45,3.1,entregado
+998,2020-05-28 04:16:20,114,Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.,135,1.2,en transito
+999,2024-01-27 01:14:34,52,"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",90,3.1,en transito
+1000,2024-08-10 17:15:27,150,Nulla ac enim.,45,5.5,pendiente

@@ -1,0 +1,1001 @@
+id_viaje,fecha_viaje,id_pedido,id_vehiculo,id_chofer,origen,destino,estado_viaje
+1,2023-05-02 03:03:58,367,4,15,San Juan,San Juan,pendiente
+2,2021-01-01 03:55:11,877,7,5,Tucuman,La Plata,en transito
+3,2020-11-01 06:15:38,468,2,7,Cordoba,San Luis,en transito
+4,2023-06-02 10:13:16,843,6,10,Tucuman,Tucuman,en transito
+5,2023-08-22 22:23:15,240,6,15,Cordoba,San Juan,pendiente
+6,2024-08-03 01:53:23,132,3,8,Cordoba,Tucuman,completado
+7,2020-10-19 04:08:05,83,8,15,Tucuman,La Plata,cancelado
+8,2024-08-08 19:25:15,571,6,2,San Juan,Salta,cancelado
+9,2021-06-25 14:42:44,134,3,3,Buenos Aires,Tucuman,completado
+10,2023-01-29 23:54:50,346,9,9,Salta,Salta,completado
+11,2021-04-16 16:21:40,359,6,6,San Luis,Cordoba,cancelado
+12,2023-04-28 19:13:09,220,4,10,San Luis,Neuquen,en transito
+13,2022-07-25 18:14:54,359,2,10,Mendoza,La Plata,completado
+14,2024-05-08 12:12:44,212,10,5,Tucuman,Cordoba,completado
+15,2024-01-17 23:15:43,406,7,10,Mar del Plata,Salta,cancelado
+16,2022-05-04 14:44:04,8,5,8,Mar del Plata,San Luis,cancelado
+17,2023-10-06 06:16:08,990,4,6,La Plata,Salta,pendiente
+18,2023-10-28 13:28:56,66,4,9,Mar del Plata,Salta,pendiente
+19,2024-11-28 03:22:35,267,7,14,Cordoba,Salta,en transito
+20,2021-10-22 14:17:37,330,7,11,La Plata,San Juan,cancelado
+21,2022-07-27 20:18:08,555,3,12,La Plata,Neuquen,cancelado
+22,2021-09-03 11:03:55,24,6,1,Buenos Aires,Tucuman,en transito
+23,2021-03-10 10:57:11,785,10,9,San Luis,La Plata,pendiente
+24,2020-05-06 16:04:19,693,2,7,La Plata,Cordoba,completado
+25,2021-09-09 04:13:41,342,3,11,San Luis,Rosario,en transito
+26,2024-09-25 10:47:52,711,10,3,Cordoba,Rosario,pendiente
+27,2024-04-30 21:09:01,777,7,13,Mar del Plata,Mar del Plata,en transito
+28,2020-08-30 21:37:55,265,2,12,Buenos Aires,Salta,pendiente
+29,2020-12-14 04:38:07,369,6,6,San Luis,Rosario,completado
+30,2024-10-22 20:27:08,798,1,9,Mendoza,Neuquen,cancelado
+31,2022-09-01 09:19:04,758,3,4,San Luis,Rosario,cancelado
+32,2021-09-09 14:26:26,327,9,13,San Luis,Tucuman,cancelado
+33,2023-08-11 07:14:10,67,10,3,Cordoba,Rosario,completado
+34,2020-08-19 07:16:03,970,5,7,San Luis,La Plata,pendiente
+35,2020-02-26 11:11:25,761,4,15,San Luis,Neuquen,completado
+36,2020-03-01 03:03:33,770,6,8,Mendoza,Mendoza,pendiente
+37,2022-02-25 07:29:06,139,7,5,La Plata,Salta,cancelado
+38,2023-08-25 21:32:45,307,9,3,San Luis,Tucuman,cancelado
+39,2024-03-07 10:22:47,945,7,2,San Luis,Rosario,cancelado
+40,2024-11-11 20:15:05,411,3,7,Cordoba,La Plata,cancelado
+41,2020-09-06 15:11:54,125,1,5,Buenos Aires,Salta,cancelado
+42,2024-03-04 08:25:02,894,8,14,Rosario,Salta,cancelado
+43,2020-11-30 05:03:21,77,2,8,Tucuman,Mendoza,completado
+44,2020-01-11 03:54:44,312,2,3,Mar del Plata,La Plata,en transito
+45,2024-07-07 14:40:52,232,7,10,Salta,San Juan,completado
+46,2024-10-12 06:16:09,764,4,11,Mendoza,Rosario,cancelado
+47,2021-07-29 07:30:30,16,4,10,Cordoba,Tucuman,en transito
+48,2023-04-17 10:37:18,85,5,3,Cordoba,San Juan,en transito
+49,2022-07-09 23:09:17,577,5,2,Buenos Aires,Mar del Plata,pendiente
+50,2020-11-01 13:42:22,927,7,4,San Luis,Salta,completado
+51,2023-09-06 05:33:19,587,5,9,Mar del Plata,Tucuman,cancelado
+52,2023-06-12 17:18:51,315,8,4,Tucuman,San Juan,en transito
+53,2023-07-26 02:40:13,753,9,3,La Plata,Mendoza,cancelado
+54,2023-11-06 10:25:48,424,3,2,Cordoba,Rosario,pendiente
+55,2023-04-28 05:36:08,239,7,9,Salta,Rosario,cancelado
+56,2020-05-09 01:43:16,341,1,11,Tucuman,Mar del Plata,cancelado
+57,2024-11-08 14:15:01,339,7,8,Cordoba,Mendoza,completado
+58,2022-10-12 11:24:06,361,6,5,Buenos Aires,Mar del Plata,pendiente
+59,2022-10-13 12:32:22,934,10,11,La Plata,Neuquen,completado
+60,2023-10-23 17:12:45,861,7,12,Salta,Rosario,cancelado
+61,2021-01-19 12:09:27,807,6,9,Cordoba,Rosario,cancelado
+62,2020-10-31 20:41:15,515,1,14,San Luis,Cordoba,pendiente
+63,2024-05-13 07:43:16,643,1,3,Rosario,Mar del Plata,cancelado
+64,2022-09-18 07:37:53,103,9,8,San Juan,Rosario,completado
+65,2022-03-16 08:49:29,185,1,8,San Juan,Cordoba,cancelado
+66,2020-06-18 23:19:14,206,3,8,San Juan,Neuquen,en transito
+67,2020-02-08 11:31:51,936,4,8,Salta,Rosario,pendiente
+68,2020-10-01 12:35:20,318,8,12,Mar del Plata,Tucuman,en transito
+69,2022-02-05 16:19:21,610,9,5,Buenos Aires,Mendoza,completado
+70,2021-08-21 19:19:22,640,2,1,San Juan,Rosario,en transito
+71,2022-06-06 21:12:53,702,9,6,San Luis,Rosario,cancelado
+72,2022-05-18 10:57:32,667,7,3,San Luis,Mendoza,completado
+73,2022-07-07 06:04:03,876,4,12,Cordoba,Mendoza,cancelado
+74,2021-01-31 10:00:42,488,5,15,Rosario,Neuquen,en transito
+75,2021-03-25 05:47:04,324,1,3,Mar del Plata,San Luis,cancelado
+76,2021-07-17 01:51:30,757,4,7,Mendoza,Tucuman,pendiente
+77,2022-01-04 01:55:51,25,1,5,Buenos Aires,Mar del Plata,cancelado
+78,2022-09-29 21:18:16,303,9,3,Mendoza,San Juan,pendiente
+79,2022-10-08 07:56:03,47,1,9,Cordoba,Mar del Plata,completado
+80,2021-05-12 19:52:34,237,4,1,Cordoba,Salta,en transito
+81,2021-02-13 08:26:44,459,9,4,Buenos Aires,San Luis,completado
+82,2024-04-08 07:17:17,39,5,11,Mendoza,Rosario,pendiente
+83,2024-05-23 22:01:09,327,1,15,La Plata,Cordoba,completado
+84,2022-12-04 00:29:32,427,9,7,La Plata,Neuquen,pendiente
+85,2020-06-22 18:10:43,894,10,9,Rosario,Neuquen,cancelado
+86,2024-10-10 06:32:42,368,2,4,San Luis,Tucuman,en transito
+87,2022-03-09 20:52:42,544,1,1,San Juan,La Plata,pendiente
+88,2023-04-27 14:31:47,633,5,12,San Luis,San Luis,pendiente
+89,2020-12-15 01:20:02,365,9,2,Cordoba,La Plata,completado
+90,2020-03-20 22:17:16,829,5,8,La Plata,Mar del Plata,en transito
+91,2020-12-31 05:20:06,149,5,1,Mar del Plata,Tucuman,cancelado
+92,2022-08-05 19:02:53,927,9,2,Buenos Aires,Neuquen,completado
+93,2020-07-13 12:14:35,999,10,6,San Juan,Salta,completado
+94,2024-07-16 15:04:42,445,5,4,Rosario,Neuquen,completado
+95,2024-06-06 09:47:32,483,3,14,Buenos Aires,Mendoza,completado
+96,2023-01-02 22:21:31,643,9,13,San Luis,Cordoba,completado
+97,2023-12-15 17:07:37,842,7,5,Cordoba,Tucuman,en transito
+98,2020-10-03 06:29:33,684,10,9,Buenos Aires,Rosario,pendiente
+99,2021-09-19 15:54:10,866,6,3,San Luis,Neuquen,cancelado
+100,2021-04-15 11:46:12,895,10,6,Tucuman,Rosario,en transito
+101,2022-10-11 06:48:06,200,10,7,Rosario,Neuquen,cancelado
+102,2024-11-15 21:58:58,735,6,1,Cordoba,Tucuman,cancelado
+103,2023-10-06 01:28:42,155,5,11,Mar del Plata,Neuquen,pendiente
+104,2023-11-16 03:35:45,134,3,13,Salta,Mendoza,pendiente
+105,2024-05-20 14:05:00,641,3,7,Mar del Plata,Rosario,pendiente
+106,2022-09-11 15:50:23,409,6,5,Salta,Cordoba,cancelado
+107,2022-04-12 07:32:38,825,4,14,Tucuman,San Juan,cancelado
+108,2022-11-01 17:20:51,524,4,3,Rosario,La Plata,cancelado
+109,2021-11-05 11:03:53,13,2,3,Mendoza,Neuquen,pendiente
+110,2021-01-04 20:00:47,513,10,14,Rosario,San Luis,en transito
+111,2023-09-05 23:41:32,751,7,5,Buenos Aires,Mar del Plata,en transito
+112,2022-01-08 16:13:34,748,1,1,San Luis,Tucuman,cancelado
+113,2022-11-09 22:47:11,579,4,8,Rosario,Neuquen,pendiente
+114,2020-04-25 04:13:43,696,1,6,Cordoba,Mar del Plata,cancelado
+115,2024-10-01 03:18:29,828,4,6,Rosario,Cordoba,en transito
+116,2021-11-11 01:54:35,435,2,11,San Luis,San Juan,pendiente
+117,2022-01-16 01:38:03,778,3,11,San Luis,San Juan,en transito
+118,2022-12-24 13:21:38,881,8,12,Mar del Plata,San Juan,cancelado
+119,2022-08-24 09:07:51,835,9,4,Buenos Aires,Salta,pendiente
+120,2024-10-12 18:57:22,45,6,14,Buenos Aires,Mar del Plata,cancelado
+121,2023-04-29 06:23:24,505,7,11,San Luis,La Plata,en transito
+122,2021-10-13 03:25:21,329,3,2,Tucuman,La Plata,cancelado
+123,2023-12-10 12:11:32,649,4,2,Mar del Plata,Salta,en transito
+124,2021-07-23 11:30:25,103,10,14,La Plata,Mendoza,cancelado
+125,2023-08-18 21:27:19,593,3,15,Salta,Salta,en transito
+126,2021-02-03 03:32:55,522,5,2,Salta,La Plata,cancelado
+127,2020-04-17 14:24:31,141,6,15,Rosario,Tucuman,pendiente
+128,2023-11-03 19:46:41,605,5,10,Buenos Aires,Salta,pendiente
+129,2021-08-13 17:50:58,888,4,1,Salta,Rosario,cancelado
+130,2024-07-18 15:26:22,134,4,7,Mendoza,Cordoba,cancelado
+131,2023-09-05 20:52:48,13,3,13,Mendoza,Salta,cancelado
+132,2024-04-06 19:21:17,516,4,6,Cordoba,Mar del Plata,completado
+133,2022-04-10 05:40:53,828,10,13,Cordoba,San Juan,pendiente
+134,2023-03-13 22:32:41,725,9,12,La Plata,Neuquen,cancelado
+135,2023-02-23 05:50:43,163,5,1,Tucuman,La Plata,en transito
+136,2021-10-05 04:00:12,858,9,7,San Luis,Neuquen,cancelado
+137,2022-06-02 11:06:25,16,5,4,San Juan,Salta,completado
+138,2022-05-17 20:04:57,438,3,2,Cordoba,Mendoza,en transito
+139,2023-04-02 22:26:43,179,5,6,San Juan,Mar del Plata,pendiente
+140,2020-09-11 22:18:53,234,6,7,Mar del Plata,Cordoba,en transito
+141,2020-05-13 05:52:32,627,3,6,San Juan,San Luis,en transito
+142,2021-03-23 04:50:11,945,2,5,San Luis,Neuquen,pendiente
+143,2022-12-11 03:38:04,445,3,4,San Juan,San Juan,cancelado
+144,2022-07-26 09:31:53,424,6,5,Rosario,Mar del Plata,completado
+145,2020-04-16 15:56:50,32,6,12,Salta,Salta,pendiente
+146,2022-05-09 17:22:08,614,1,3,Salta,La Plata,cancelado
+147,2024-06-22 10:41:01,68,7,4,Buenos Aires,Mar del Plata,pendiente
+148,2024-11-23 00:33:14,34,5,7,San Luis,Mar del Plata,cancelado
+149,2022-02-17 03:38:45,900,6,3,La Plata,Mar del Plata,cancelado
+150,2022-11-30 18:54:43,133,1,4,Mar del Plata,Neuquen,completado
+151,2024-02-24 04:08:17,924,4,5,Mendoza,Rosario,pendiente
+152,2022-02-13 01:36:43,604,5,5,San Luis,San Juan,cancelado
+153,2022-10-21 01:10:48,943,4,3,San Luis,Salta,completado
+154,2023-01-10 10:50:33,321,1,14,Salta,Salta,cancelado
+155,2023-03-23 02:13:32,842,6,14,Mendoza,San Juan,cancelado
+156,2021-05-03 19:34:41,22,10,6,Salta,San Juan,en transito
+157,2023-11-04 02:01:36,380,3,7,La Plata,Tucuman,completado
+158,2022-12-22 19:14:27,432,9,14,La Plata,Salta,cancelado
+159,2023-06-22 14:16:55,288,1,4,Mar del Plata,Cordoba,en transito
+160,2022-06-07 12:19:48,693,9,3,Cordoba,Mendoza,en transito
+161,2024-01-20 03:45:05,499,8,6,San Juan,Salta,completado
+162,2020-03-03 13:41:32,936,10,6,Mendoza,Mendoza,en transito
+163,2021-05-30 20:43:51,928,2,1,Mar del Plata,La Plata,completado
+164,2022-11-24 01:20:03,368,8,4,Rosario,Mar del Plata,pendiente
+165,2024-06-30 18:49:25,872,2,4,Salta,Mendoza,completado
+166,2022-04-04 08:35:42,794,8,1,Cordoba,Tucuman,completado
+167,2020-02-22 10:30:37,640,6,14,Rosario,Salta,pendiente
+168,2023-03-20 08:46:08,133,5,4,San Luis,San Juan,completado
+169,2021-03-26 18:47:21,678,9,4,Cordoba,Mendoza,pendiente
+170,2022-05-13 17:31:00,601,1,8,Mendoza,Mendoza,completado
+171,2021-03-05 12:35:14,446,3,6,Tucuman,Cordoba,cancelado
+172,2020-01-16 21:53:51,918,3,11,San Juan,San Luis,en transito
+173,2020-09-22 15:05:43,234,10,6,Cordoba,Rosario,completado
+174,2022-06-17 20:19:16,738,10,5,San Juan,Neuquen,en transito
+175,2021-10-02 23:11:25,537,1,14,Cordoba,Mar del Plata,en transito
+176,2020-01-10 14:28:01,469,1,13,Rosario,San Luis,pendiente
+177,2021-03-03 07:03:57,838,6,1,La Plata,Tucuman,pendiente
+178,2023-05-23 07:58:03,671,1,8,Buenos Aires,Cordoba,cancelado
+179,2021-10-29 05:22:20,121,8,7,Mar del Plata,San Juan,completado
+180,2023-03-21 09:44:52,153,3,1,San Juan,Mar del Plata,completado
+181,2022-07-08 08:21:51,459,8,9,Mendoza,Mar del Plata,completado
+182,2021-01-10 20:17:53,398,10,9,Tucuman,Tucuman,en transito
+183,2021-10-07 08:02:51,121,2,6,Mar del Plata,San Juan,completado
+184,2021-04-17 04:54:55,512,10,6,Rosario,Neuquen,cancelado
+185,2022-09-16 00:31:23,755,6,10,La Plata,San Luis,en transito
+186,2020-10-18 15:57:14,445,8,15,Cordoba,Mar del Plata,pendiente
+187,2023-09-18 03:50:56,620,2,13,Buenos Aires,Mar del Plata,en transito
+188,2022-03-11 23:18:11,415,5,1,Mar del Plata,La Plata,cancelado
+189,2024-01-21 02:43:42,33,6,6,Mar del Plata,Rosario,completado
+190,2024-08-26 19:45:47,173,10,9,Tucuman,Neuquen,en transito
+191,2022-09-03 15:05:18,732,1,7,Salta,Tucuman,en transito
+192,2023-10-28 22:37:10,438,8,7,Mar del Plata,San Luis,pendiente
+193,2021-01-24 20:49:52,803,3,6,Mar del Plata,Rosario,cancelado
+194,2023-06-07 01:16:52,894,6,11,Mendoza,Rosario,cancelado
+195,2024-11-02 16:29:52,740,6,2,Mar del Plata,Rosario,cancelado
+196,2020-03-22 08:34:36,17,4,8,Cordoba,Mar del Plata,en transito
+197,2024-06-15 16:24:26,301,8,15,San Luis,Neuquen,completado
+198,2021-12-31 03:20:36,942,4,2,Mendoza,San Juan,en transito
+199,2023-05-24 23:17:21,185,7,8,Mendoza,Mendoza,pendiente
+200,2024-03-13 20:55:59,39,9,6,La Plata,Tucuman,pendiente
+201,2020-08-12 08:07:10,197,2,5,Buenos Aires,Mar del Plata,pendiente
+202,2020-10-12 04:31:51,794,9,2,Tucuman,San Luis,cancelado
+203,2020-01-31 08:03:51,633,5,3,Salta,Rosario,en transito
+204,2022-05-24 00:44:40,508,4,10,La Plata,Mar del Plata,completado
+205,2021-01-17 11:00:31,721,3,5,Mendoza,San Luis,en transito
+206,2021-02-24 16:28:56,257,6,9,Mendoza,Mar del Plata,cancelado
+207,2023-10-21 05:40:50,576,7,4,Cordoba,San Luis,en transito
+208,2022-04-30 02:58:21,782,8,1,San Luis,La Plata,pendiente
+209,2021-12-17 23:03:48,455,2,15,Mendoza,San Juan,en transito
+210,2022-12-27 12:40:42,363,2,7,Salta,Salta,cancelado
+211,2024-02-23 15:39:52,551,3,11,Buenos Aires,Neuquen,cancelado
+212,2021-08-26 15:56:40,990,9,14,San Juan,Mendoza,cancelado
+213,2020-04-08 00:56:29,675,8,1,San Juan,La Plata,cancelado
+214,2020-10-01 23:47:59,941,2,2,La Plata,Cordoba,completado
+215,2024-12-19 22:56:12,240,6,7,La Plata,San Juan,cancelado
+216,2023-05-16 16:23:53,448,9,7,Tucuman,Neuquen,en transito
+217,2022-06-06 04:20:21,779,3,5,Cordoba,San Juan,pendiente
+218,2020-03-17 14:06:23,317,7,12,San Juan,Cordoba,en transito
+219,2023-01-23 23:06:56,152,3,11,La Plata,Mar del Plata,pendiente
+220,2020-04-26 11:48:18,681,5,10,La Plata,Mar del Plata,cancelado
+221,2020-09-16 09:01:08,639,3,2,Buenos Aires,Mendoza,cancelado
+222,2022-05-19 06:42:07,118,9,5,Rosario,Tucuman,en transito
+223,2021-03-26 13:55:32,97,6,1,Rosario,San Luis,completado
+224,2024-04-23 15:22:06,638,8,3,Tucuman,La Plata,pendiente
+225,2020-01-27 01:53:58,657,6,3,Salta,San Luis,cancelado
+226,2020-10-08 20:26:24,307,2,15,Cordoba,Mendoza,completado
+227,2024-09-07 14:47:05,334,2,12,Mendoza,Rosario,completado
+228,2023-07-19 00:46:09,738,6,3,Buenos Aires,San Luis,completado
+229,2021-05-10 07:57:36,260,8,7,San Juan,Cordoba,pendiente
+230,2023-06-15 18:32:01,955,8,1,Tucuman,Mar del Plata,cancelado
+231,2024-04-22 08:48:41,750,5,11,Rosario,Salta,cancelado
+232,2021-05-24 07:10:24,282,6,1,Tucuman,Mendoza,pendiente
+233,2022-08-28 05:20:43,54,9,15,Mendoza,San Juan,en transito
+234,2023-07-25 20:53:09,170,7,14,San Luis,Salta,pendiente
+235,2020-10-23 04:06:18,572,8,2,San Juan,Mendoza,completado
+236,2024-01-05 04:47:44,38,6,6,San Juan,Neuquen,cancelado
+237,2024-03-16 09:36:23,318,7,11,Mendoza,Neuquen,en transito
+238,2020-02-24 05:58:20,112,4,14,Mendoza,Cordoba,cancelado
+239,2021-01-13 03:57:18,803,3,11,La Plata,San Luis,completado
+240,2022-08-22 11:28:26,319,3,14,La Plata,Salta,completado
+241,2022-08-19 18:19:53,390,4,11,Mar del Plata,Neuquen,pendiente
+242,2021-12-08 18:24:08,318,9,7,Mendoza,Tucuman,completado
+243,2022-08-08 23:07:29,328,2,1,San Luis,La Plata,en transito
+244,2022-09-26 07:20:11,396,10,2,Mar del Plata,San Luis,pendiente
+245,2021-01-10 11:27:18,582,9,12,Cordoba,Neuquen,en transito
+246,2023-11-01 20:22:24,499,2,6,Cordoba,San Juan,cancelado
+247,2021-02-20 07:33:51,412,7,5,Mendoza,La Plata,pendiente
+248,2023-09-15 05:38:23,173,4,13,Cordoba,Salta,pendiente
+249,2022-12-30 22:08:04,687,10,11,Mar del Plata,San Luis,completado
+250,2023-09-29 04:52:04,919,2,7,San Juan,San Luis,pendiente
+251,2024-12-21 10:02:32,985,6,9,Buenos Aires,Neuquen,pendiente
+252,2022-06-09 22:04:33,816,5,2,San Juan,San Luis,pendiente
+253,2023-07-14 04:43:05,45,6,11,Mar del Plata,La Plata,completado
+254,2020-10-31 07:55:59,62,9,2,Buenos Aires,Rosario,pendiente
+255,2023-10-24 12:35:31,761,9,5,Cordoba,San Juan,cancelado
+256,2021-11-22 20:18:02,965,10,14,Mar del Plata,Cordoba,pendiente
+257,2022-06-16 03:23:12,606,6,3,Buenos Aires,Neuquen,cancelado
+258,2020-10-23 05:22:12,697,5,9,Cordoba,Neuquen,cancelado
+259,2021-02-04 19:36:56,104,3,1,Rosario,San Juan,cancelado
+260,2024-07-19 12:37:25,417,10,3,Mar del Plata,La Plata,cancelado
+261,2020-12-09 00:23:51,389,9,14,San Juan,La Plata,en transito
+262,2024-12-22 19:16:42,493,7,15,Mendoza,Mar del Plata,completado
+263,2023-11-12 12:31:42,955,8,2,Mar del Plata,Mendoza,pendiente
+264,2022-03-17 01:09:27,649,1,9,Cordoba,San Juan,cancelado
+265,2020-04-02 07:22:31,685,10,15,Salta,Tucuman,en transito
+266,2021-05-25 10:12:02,356,8,3,Salta,Salta,en transito
+267,2022-02-23 23:17:19,2,1,15,Salta,Mendoza,cancelado
+268,2021-05-21 12:17:32,284,10,6,San Luis,Salta,en transito
+269,2021-12-19 03:52:25,630,7,14,Rosario,San Luis,pendiente
+270,2024-01-26 21:52:04,696,10,12,San Juan,Mendoza,en transito
+271,2021-07-13 02:30:11,602,9,10,Tucuman,Salta,completado
+272,2024-06-24 22:49:12,975,4,3,Buenos Aires,Rosario,pendiente
+273,2021-10-06 11:18:03,19,8,15,San Juan,Mar del Plata,pendiente
+274,2020-09-26 08:57:14,176,4,9,Mendoza,San Luis,cancelado
+275,2020-03-16 10:15:42,556,8,13,Salta,Cordoba,cancelado
+276,2024-11-18 13:46:38,945,10,11,Mar del Plata,San Luis,cancelado
+277,2024-11-12 14:29:01,108,10,4,San Juan,San Luis,cancelado
+278,2024-03-13 10:35:46,794,1,15,Buenos Aires,La Plata,completado
+279,2024-01-06 10:16:24,801,9,7,Buenos Aires,Rosario,cancelado
+280,2023-06-14 14:43:39,603,10,8,Salta,La Plata,cancelado
+281,2020-07-04 05:46:44,822,4,5,Tucuman,Cordoba,pendiente
+282,2022-03-17 04:10:27,811,7,8,Cordoba,Mendoza,pendiente
+283,2023-10-29 23:27:59,415,8,2,San Juan,San Juan,cancelado
+284,2021-07-04 11:05:03,848,1,2,Rosario,Salta,cancelado
+285,2020-03-04 03:11:09,415,3,6,La Plata,Cordoba,completado
+286,2021-11-03 18:57:06,308,5,1,San Juan,Cordoba,en transito
+287,2024-03-29 10:55:17,851,8,6,La Plata,Mar del Plata,cancelado
+288,2022-04-23 05:18:13,375,8,3,San Luis,Mendoza,cancelado
+289,2021-06-25 17:43:39,596,6,1,Buenos Aires,Tucuman,cancelado
+290,2024-07-10 18:46:25,856,10,3,Buenos Aires,San Luis,cancelado
+291,2024-06-26 14:46:04,787,1,2,Salta,San Juan,completado
+292,2024-10-08 06:00:28,336,8,3,San Juan,Mendoza,en transito
+293,2022-06-06 19:39:26,822,2,15,San Juan,Rosario,cancelado
+294,2022-11-28 10:58:55,273,5,7,San Luis,San Juan,cancelado
+295,2021-05-23 10:57:52,712,7,6,Mendoza,San Luis,en transito
+296,2021-10-07 11:43:58,963,1,7,La Plata,Cordoba,en transito
+297,2021-01-17 11:54:12,739,1,4,Mar del Plata,Salta,pendiente
+298,2023-03-07 06:10:59,40,5,13,Mendoza,Neuquen,completado
+299,2020-12-04 20:44:26,105,5,1,Salta,Neuquen,en transito
+300,2021-11-11 16:32:01,370,9,13,Salta,La Plata,completado
+301,2020-11-19 17:23:26,19,9,7,Tucuman,Tucuman,cancelado
+302,2022-08-05 23:07:10,17,9,15,San Juan,San Luis,completado
+303,2024-03-28 08:02:48,966,8,13,La Plata,San Juan,pendiente
+304,2024-02-25 13:25:51,913,10,6,Buenos Aires,San Luis,pendiente
+305,2023-12-27 00:41:17,629,4,13,La Plata,La Plata,en transito
+306,2024-09-05 00:39:58,164,1,7,San Juan,San Juan,cancelado
+307,2023-12-09 19:21:51,310,10,5,Mar del Plata,Mendoza,completado
+308,2023-05-28 17:02:19,474,5,10,Tucuman,Mendoza,en transito
+309,2021-06-16 12:44:28,451,10,2,Salta,Rosario,pendiente
+310,2022-01-04 12:12:11,502,6,15,Mar del Plata,Mendoza,completado
+311,2021-04-19 23:05:24,142,1,12,Salta,Mar del Plata,cancelado
+312,2024-11-05 13:18:37,217,2,6,Salta,Mar del Plata,cancelado
+313,2022-11-19 05:33:45,803,9,7,Cordoba,Mendoza,completado
+314,2020-04-08 05:59:23,861,9,7,Salta,Cordoba,completado
+315,2021-01-29 21:48:41,369,10,3,San Luis,Cordoba,cancelado
+316,2024-09-13 05:35:53,668,7,1,La Plata,San Luis,pendiente
+317,2022-08-26 07:09:29,332,8,14,Tucuman,La Plata,en transito
+318,2020-11-22 15:35:39,446,2,6,Salta,Rosario,en transito
+319,2023-01-11 21:19:44,151,8,13,Mendoza,Tucuman,pendiente
+320,2023-08-28 17:46:40,996,6,12,Salta,Mar del Plata,completado
+321,2023-03-30 08:31:53,146,9,6,San Luis,Mar del Plata,en transito
+322,2020-04-01 13:52:06,999,2,4,San Luis,Cordoba,pendiente
+323,2023-01-24 02:54:06,384,10,13,Mendoza,Tucuman,cancelado
+324,2023-06-02 05:46:05,301,4,4,Mar del Plata,La Plata,en transito
+325,2024-04-02 01:58:13,628,1,6,Buenos Aires,Rosario,pendiente
+326,2022-04-15 22:57:25,980,2,8,Salta,Tucuman,en transito
+327,2021-03-10 03:26:49,429,1,13,Rosario,San Luis,cancelado
+328,2024-08-07 02:20:20,422,3,9,Salta,San Luis,pendiente
+329,2024-12-06 00:59:52,587,6,5,Rosario,Mar del Plata,pendiente
+330,2023-01-03 06:46:58,829,1,3,San Juan,Mar del Plata,pendiente
+331,2023-12-02 00:31:25,406,7,2,San Luis,Tucuman,en transito
+332,2022-06-06 01:32:05,466,2,4,Mar del Plata,Salta,completado
+333,2020-03-19 19:05:18,49,7,7,Buenos Aires,La Plata,cancelado
+334,2022-02-10 02:17:12,427,3,15,Mendoza,Neuquen,en transito
+335,2023-10-15 18:42:18,5,6,15,San Luis,Mendoza,pendiente
+336,2021-05-21 06:23:19,506,5,13,La Plata,Salta,completado
+337,2023-09-04 23:20:18,377,5,5,Salta,Salta,completado
+338,2020-04-08 16:12:36,306,8,15,Salta,Salta,cancelado
+339,2023-04-08 12:34:22,334,6,9,Mar del Plata,Cordoba,en transito
+340,2020-05-23 03:52:24,661,3,10,Rosario,La Plata,cancelado
+341,2024-11-21 09:02:20,971,10,8,Mar del Plata,La Plata,cancelado
+342,2022-10-18 15:29:33,357,10,6,San Luis,Neuquen,en transito
+343,2022-08-09 20:30:37,192,10,1,Buenos Aires,La Plata,cancelado
+344,2022-09-07 06:47:24,771,8,2,Salta,Cordoba,pendiente
+345,2024-04-28 14:47:33,137,6,9,San Luis,Mendoza,cancelado
+346,2021-09-11 19:49:41,21,4,13,Salta,Mendoza,cancelado
+347,2024-01-27 10:53:30,523,4,3,Rosario,San Juan,cancelado
+348,2022-03-12 11:53:42,844,10,11,Buenos Aires,Cordoba,cancelado
+349,2020-03-29 03:11:16,745,7,7,Mar del Plata,San Luis,en transito
+350,2020-10-11 02:05:54,714,8,11,San Luis,Tucuman,completado
+351,2020-07-16 06:01:13,370,8,11,San Luis,Salta,en transito
+352,2024-09-30 15:28:42,929,5,15,Cordoba,Salta,en transito
+353,2020-08-29 06:22:18,584,5,3,Mar del Plata,San Luis,completado
+354,2024-09-29 04:55:39,716,8,4,Mar del Plata,Neuquen,en transito
+355,2021-08-15 06:12:24,194,5,8,San Juan,Neuquen,cancelado
+356,2021-05-02 18:21:28,233,6,5,Rosario,Salta,cancelado
+357,2024-07-17 09:04:31,60,7,14,Mendoza,San Luis,en transito
+358,2024-04-11 13:14:22,774,4,8,Mar del Plata,Mendoza,en transito
+359,2022-07-16 01:21:11,207,2,6,Rosario,Rosario,cancelado
+360,2021-04-23 13:18:07,937,7,7,Cordoba,Neuquen,completado
+361,2021-01-14 01:19:57,204,1,7,Tucuman,Salta,cancelado
+362,2023-11-18 06:42:28,346,1,12,Cordoba,Neuquen,completado
+363,2022-10-20 22:09:54,637,10,15,Mar del Plata,Rosario,cancelado
+364,2021-10-25 02:21:53,213,1,12,Tucuman,San Juan,completado
+365,2023-02-28 13:51:33,944,8,10,San Juan,San Juan,cancelado
+366,2024-12-17 01:39:36,898,3,7,Cordoba,Mar del Plata,cancelado
+367,2021-08-19 01:56:44,120,10,11,Rosario,La Plata,completado
+368,2020-03-01 08:30:56,686,3,14,Tucuman,Tucuman,pendiente
+369,2024-11-06 11:42:41,771,5,8,Rosario,Salta,cancelado
+370,2024-08-26 02:00:40,572,10,15,San Juan,Mar del Plata,pendiente
+371,2022-05-29 01:46:27,942,8,7,Tucuman,Cordoba,pendiente
+372,2020-12-21 12:52:51,202,8,8,Rosario,La Plata,cancelado
+373,2022-06-03 11:18:08,608,1,3,Cordoba,Neuquen,cancelado
+374,2022-06-04 08:03:16,142,10,3,Mendoza,Cordoba,completado
+375,2020-03-25 16:09:09,827,10,12,San Luis,Mendoza,pendiente
+376,2024-07-20 13:06:06,178,7,12,Mendoza,Tucuman,pendiente
+377,2022-04-05 15:51:25,410,8,13,Mendoza,San Luis,cancelado
+378,2024-02-25 16:09:59,391,9,12,Mendoza,Salta,cancelado
+379,2021-02-19 19:59:56,604,2,14,San Juan,San Juan,completado
+380,2024-12-12 12:04:15,509,9,15,Mendoza,Cordoba,completado
+381,2023-06-26 14:40:24,804,6,13,Rosario,Mendoza,completado
+382,2024-03-21 04:31:11,417,6,6,Mendoza,Tucuman,pendiente
+383,2021-01-05 19:20:56,878,8,4,La Plata,San Luis,completado
+384,2024-04-19 12:23:51,929,6,9,Cordoba,Cordoba,en transito
+385,2023-03-07 17:30:15,981,7,6,La Plata,Rosario,pendiente
+386,2022-01-13 10:06:37,455,8,9,Buenos Aires,San Juan,en transito
+387,2020-03-09 04:19:01,108,5,1,San Juan,Mar del Plata,en transito
+388,2024-09-23 11:20:27,35,4,3,Salta,Salta,pendiente
+389,2023-05-08 11:33:04,837,1,4,Buenos Aires,Neuquen,cancelado
+390,2023-12-12 12:07:18,309,4,3,Cordoba,Tucuman,cancelado
+391,2024-02-09 06:17:02,741,5,13,Mendoza,San Luis,completado
+392,2024-01-27 20:18:05,991,7,15,Cordoba,San Luis,pendiente
+393,2022-02-13 20:26:31,885,9,11,La Plata,Neuquen,en transito
+394,2023-08-12 04:22:03,297,7,3,La Plata,La Plata,pendiente
+395,2020-10-08 11:54:31,406,9,4,Tucuman,Tucuman,pendiente
+396,2021-03-16 19:26:03,984,9,1,Mar del Plata,San Luis,cancelado
+397,2021-06-10 16:01:43,638,2,15,La Plata,San Luis,completado
+398,2023-04-16 11:14:42,307,2,5,Buenos Aires,Mar del Plata,en transito
+399,2024-11-24 11:33:41,680,9,14,Salta,Cordoba,cancelado
+400,2021-02-18 00:42:56,371,5,2,Rosario,Neuquen,completado
+401,2021-06-26 08:41:38,649,2,1,San Luis,Mendoza,pendiente
+402,2023-06-03 18:03:40,976,4,10,San Juan,Mendoza,cancelado
+403,2021-08-08 21:46:36,684,7,1,San Luis,Rosario,en transito
+404,2024-04-06 03:00:41,64,3,14,La Plata,Mendoza,pendiente
+405,2020-05-01 14:30:47,508,2,9,Salta,San Juan,pendiente
+406,2020-06-03 20:04:10,658,8,4,Mar del Plata,Rosario,en transito
+407,2020-12-21 08:47:23,658,3,12,Mendoza,Cordoba,en transito
+408,2024-09-22 00:21:49,773,7,10,Salta,Cordoba,completado
+409,2021-06-23 05:20:36,594,9,3,San Luis,Salta,en transito
+410,2020-02-28 23:23:24,918,3,7,Rosario,San Juan,en transito
+411,2023-01-11 05:39:27,9,9,13,Cordoba,Salta,en transito
+412,2022-05-06 21:31:42,215,6,8,Mar del Plata,Salta,en transito
+413,2021-09-17 20:28:16,813,7,5,Tucuman,Salta,completado
+414,2024-09-28 23:45:50,467,6,2,La Plata,Mendoza,pendiente
+415,2022-12-14 01:34:52,326,10,12,Rosario,Cordoba,pendiente
+416,2020-01-23 08:15:32,117,9,7,Mendoza,La Plata,en transito
+417,2021-06-25 13:06:27,878,5,6,Buenos Aires,San Luis,completado
+418,2021-05-31 04:41:11,67,3,14,Mar del Plata,Mendoza,pendiente
+419,2022-10-10 17:12:27,625,1,12,San Luis,Salta,en transito
+420,2024-07-16 05:13:27,648,4,7,Rosario,La Plata,cancelado
+421,2023-12-27 19:12:37,324,8,12,San Luis,Mendoza,completado
+422,2023-04-06 17:20:03,208,7,13,Rosario,La Plata,cancelado
+423,2024-05-02 18:02:54,744,9,7,Buenos Aires,Cordoba,cancelado
+424,2022-04-27 19:11:18,934,3,5,Buenos Aires,Mendoza,en transito
+425,2020-08-31 21:04:16,609,4,14,La Plata,Tucuman,pendiente
+426,2023-08-21 09:17:47,935,5,4,Buenos Aires,Salta,pendiente
+427,2022-10-29 08:39:37,706,1,12,Salta,La Plata,completado
+428,2024-11-27 02:07:58,537,10,5,La Plata,La Plata,pendiente
+429,2023-03-14 01:03:26,906,3,2,San Luis,Mendoza,en transito
+430,2024-03-17 15:18:40,610,7,7,Salta,San Luis,cancelado
+431,2022-04-19 06:21:12,582,7,6,San Juan,Cordoba,completado
+432,2022-10-14 19:48:41,524,9,13,Rosario,Tucuman,completado
+433,2020-04-28 06:23:38,516,3,10,Cordoba,San Juan,pendiente
+434,2021-12-04 21:03:33,106,8,13,Salta,Rosario,cancelado
+435,2024-01-27 23:47:25,456,4,8,Buenos Aires,Mar del Plata,completado
+436,2024-02-28 00:57:20,18,3,11,Cordoba,La Plata,pendiente
+437,2022-11-24 06:29:13,777,4,5,San Luis,San Luis,en transito
+438,2024-10-07 20:06:43,63,5,12,Rosario,Cordoba,cancelado
+439,2023-07-19 10:58:07,885,8,4,La Plata,Cordoba,pendiente
+440,2020-10-28 16:46:42,923,6,2,Cordoba,Mendoza,pendiente
+441,2020-02-03 07:27:33,284,7,6,La Plata,San Juan,pendiente
+442,2021-06-09 09:53:01,391,3,10,La Plata,Mar del Plata,en transito
+443,2024-03-16 04:59:28,778,8,5,Mendoza,Neuquen,completado
+444,2022-01-04 12:59:09,954,5,2,La Plata,San Luis,cancelado
+445,2021-08-08 15:56:52,995,9,12,Cordoba,Cordoba,cancelado
+446,2022-11-19 10:00:20,726,10,2,Buenos Aires,Mar del Plata,en transito
+447,2020-12-13 05:18:21,501,9,6,Mar del Plata,Salta,pendiente
+448,2022-11-10 22:02:11,27,2,4,Buenos Aires,Mendoza,cancelado
+449,2023-06-10 19:48:01,980,4,2,San Luis,La Plata,cancelado
+450,2020-02-07 01:26:56,648,4,14,Rosario,La Plata,completado
+451,2024-08-16 09:41:45,594,3,11,Mar del Plata,Rosario,en transito
+452,2020-12-03 03:53:50,76,10,11,Mendoza,Cordoba,en transito
+453,2020-09-09 03:56:42,428,10,6,Rosario,La Plata,completado
+454,2024-07-18 02:31:49,651,10,13,Buenos Aires,Rosario,en transito
+455,2021-07-16 21:26:18,68,3,10,Mar del Plata,Mendoza,pendiente
+456,2022-03-02 16:43:00,658,6,11,Mendoza,Rosario,completado
+457,2021-03-07 05:54:28,514,1,2,Tucuman,Neuquen,pendiente
+458,2020-10-31 03:55:19,651,5,13,Mar del Plata,La Plata,cancelado
+459,2020-08-07 17:52:22,398,8,6,La Plata,San Luis,cancelado
+460,2024-03-12 08:55:28,376,6,4,Rosario,San Luis,en transito
+461,2021-11-30 06:32:27,667,7,10,Buenos Aires,San Luis,completado
+462,2020-03-04 23:11:53,631,10,13,La Plata,Tucuman,cancelado
+463,2021-02-18 17:41:35,452,1,14,Mar del Plata,San Juan,en transito
+464,2022-01-20 15:50:59,610,5,6,Buenos Aires,San Luis,en transito
+465,2020-01-01 03:12:27,855,6,11,San Juan,Cordoba,completado
+466,2020-10-23 00:07:59,168,9,12,Mar del Plata,Cordoba,completado
+467,2020-06-23 05:00:19,741,10,7,San Juan,Neuquen,pendiente
+468,2024-02-24 23:30:16,809,8,14,Mar del Plata,Neuquen,cancelado
+469,2020-10-20 09:21:52,855,6,7,Cordoba,La Plata,pendiente
+470,2024-02-08 05:25:20,281,5,13,San Luis,Mar del Plata,pendiente
+471,2020-05-15 05:11:21,226,3,7,Rosario,Cordoba,completado
+472,2022-11-19 00:45:33,591,5,10,Tucuman,Mendoza,completado
+473,2023-06-26 22:17:11,373,8,9,Salta,Cordoba,cancelado
+474,2020-11-06 17:59:46,496,9,2,Cordoba,Mendoza,completado
+475,2023-05-26 14:02:31,773,10,13,San Juan,Rosario,pendiente
+476,2023-12-08 01:49:11,168,3,9,San Luis,San Luis,en transito
+477,2024-11-11 15:35:30,587,1,5,Tucuman,Tucuman,en transito
+478,2020-03-19 10:29:51,971,9,5,San Juan,Salta,pendiente
+479,2022-04-16 01:14:18,459,1,9,San Luis,Rosario,en transito
+480,2020-07-11 08:55:42,673,9,10,Mendoza,Mar del Plata,completado
+481,2021-08-15 04:52:57,949,9,7,Tucuman,La Plata,completado
+482,2023-02-18 15:49:41,242,4,7,Tucuman,Tucuman,pendiente
+483,2023-01-01 06:13:16,736,5,13,San Juan,Tucuman,cancelado
+484,2022-09-27 20:24:31,454,8,11,Cordoba,Cordoba,pendiente
+485,2020-05-04 17:25:57,391,9,15,Buenos Aires,La Plata,en transito
+486,2021-03-10 21:10:15,251,5,14,Cordoba,Rosario,pendiente
+487,2021-03-24 13:51:13,466,2,13,San Luis,Neuquen,completado
+488,2023-03-29 03:04:47,838,3,10,Mendoza,Mar del Plata,en transito
+489,2021-01-21 17:35:31,51,5,13,San Luis,San Luis,en transito
+490,2022-06-11 04:51:39,673,6,11,Rosario,Salta,cancelado
+491,2024-02-07 06:14:19,338,1,11,Rosario,Mar del Plata,pendiente
+492,2022-05-15 18:52:18,81,9,9,Rosario,Neuquen,pendiente
+493,2020-10-04 20:18:35,377,9,14,La Plata,San Juan,en transito
+494,2020-10-31 07:29:03,546,8,9,San Juan,San Luis,pendiente
+495,2024-07-12 20:10:13,264,8,8,Mar del Plata,Rosario,en transito
+496,2023-09-21 01:43:17,609,7,9,Tucuman,Mendoza,pendiente
+497,2022-11-22 07:18:08,587,1,13,Tucuman,Mendoza,pendiente
+498,2024-02-14 13:49:21,460,4,12,Cordoba,San Juan,pendiente
+499,2020-10-16 09:57:34,671,2,7,La Plata,Tucuman,en transito
+500,2021-02-19 14:31:24,62,1,11,Tucuman,Rosario,cancelado
+501,2021-01-17 12:02:38,330,3,13,Mar del Plata,Neuquen,completado
+502,2024-03-21 19:02:46,276,2,1,San Juan,Neuquen,pendiente
+503,2024-08-15 02:02:17,989,5,9,Salta,San Juan,completado
+504,2021-12-07 23:07:54,453,2,1,Salta,San Luis,en transito
+505,2020-08-15 15:10:01,108,5,12,Cordoba,La Plata,en transito
+506,2022-04-24 17:34:40,916,6,2,Tucuman,Tucuman,en transito
+507,2023-10-11 10:13:00,615,9,4,Cordoba,Rosario,completado
+508,2024-11-25 15:22:13,114,1,11,Mar del Plata,Mendoza,cancelado
+509,2024-03-15 08:32:29,792,7,10,La Plata,Salta,completado
+510,2020-12-20 16:38:20,706,3,7,Cordoba,Mar del Plata,pendiente
+511,2024-07-17 10:57:09,156,1,15,San Juan,Cordoba,pendiente
+512,2021-07-06 11:19:21,554,3,12,San Luis,La Plata,cancelado
+513,2021-09-29 22:38:44,159,9,6,Mar del Plata,Mendoza,cancelado
+514,2021-02-03 10:05:54,69,2,10,La Plata,Neuquen,en transito
+515,2020-04-07 12:41:07,969,3,1,Rosario,Cordoba,completado
+516,2024-09-20 07:41:18,574,3,4,Mendoza,La Plata,pendiente
+517,2024-09-12 01:15:39,675,9,6,Cordoba,Neuquen,cancelado
+518,2024-11-24 07:37:57,705,4,14,Mar del Plata,Cordoba,completado
+519,2023-12-03 17:11:05,561,5,14,San Luis,Rosario,cancelado
+520,2024-06-14 12:57:26,949,6,14,Rosario,San Juan,cancelado
+521,2022-03-29 20:21:10,4,4,7,San Juan,Rosario,pendiente
+522,2024-04-10 18:49:32,344,3,3,Rosario,San Luis,cancelado
+523,2021-11-24 21:58:34,789,7,15,Mar del Plata,Tucuman,cancelado
+524,2020-07-11 14:05:42,880,4,3,San Luis,Neuquen,en transito
+525,2022-01-14 12:11:40,332,3,8,Rosario,San Juan,cancelado
+526,2023-03-21 10:08:37,123,6,5,Cordoba,Mendoza,completado
+527,2021-04-01 15:47:02,606,3,5,Rosario,San Luis,en transito
+528,2024-01-11 16:52:47,448,8,3,Mendoza,La Plata,completado
+529,2021-11-21 03:04:38,701,8,10,La Plata,Rosario,pendiente
+530,2024-03-05 09:09:31,54,1,6,Buenos Aires,Mendoza,pendiente
+531,2020-06-11 15:28:15,432,9,14,Rosario,Tucuman,en transito
+532,2024-09-08 06:02:56,82,9,3,Salta,La Plata,cancelado
+533,2020-05-07 02:03:05,108,5,12,Salta,San Luis,completado
+534,2023-10-22 16:52:31,521,1,14,San Juan,La Plata,completado
+535,2023-08-24 13:34:25,715,4,4,San Luis,Rosario,cancelado
+536,2020-07-23 05:26:55,421,3,5,Rosario,La Plata,cancelado
+537,2021-02-26 20:21:03,678,4,4,San Juan,Neuquen,en transito
+538,2020-02-15 17:41:00,701,5,15,Salta,San Luis,pendiente
+539,2022-05-28 22:43:22,464,5,7,Mar del Plata,Salta,completado
+540,2022-12-28 14:47:49,208,5,5,Mar del Plata,Salta,en transito
+541,2024-10-14 09:49:17,870,8,7,San Juan,Mendoza,pendiente
+542,2020-07-13 18:41:18,472,6,1,Tucuman,San Luis,en transito
+543,2020-06-05 12:05:41,223,10,5,Buenos Aires,San Juan,completado
+544,2022-12-06 07:29:22,672,9,14,Salta,Mar del Plata,pendiente
+545,2024-11-06 14:00:42,811,6,12,San Luis,San Luis,en transito
+546,2023-08-06 10:19:58,794,10,10,Mendoza,Rosario,pendiente
+547,2024-12-15 19:08:38,116,5,12,Buenos Aires,Cordoba,en transito
+548,2020-03-17 03:25:46,148,10,5,La Plata,Rosario,completado
+549,2021-06-17 02:34:18,162,7,5,Salta,Salta,cancelado
+550,2020-05-16 17:24:41,62,8,9,Rosario,San Juan,completado
+551,2021-04-20 18:27:52,696,10,15,Cordoba,San Juan,completado
+552,2021-03-29 17:57:09,281,1,1,Cordoba,Mar del Plata,cancelado
+553,2021-09-27 03:38:59,937,6,8,Buenos Aires,Mendoza,en transito
+554,2024-04-21 19:43:20,770,5,14,Rosario,Neuquen,completado
+555,2022-01-27 12:39:50,52,6,4,La Plata,Neuquen,pendiente
+556,2024-10-25 06:36:28,654,1,2,Tucuman,San Luis,en transito
+557,2024-01-12 07:21:52,228,2,13,Mar del Plata,Cordoba,cancelado
+558,2020-01-19 19:13:46,224,4,7,Mendoza,Tucuman,pendiente
+559,2022-04-17 14:36:37,619,6,11,Cordoba,Salta,cancelado
+560,2020-10-02 23:11:25,789,3,1,Mar del Plata,Mendoza,pendiente
+561,2024-01-11 07:19:08,274,5,12,San Juan,San Juan,completado
+562,2024-02-25 18:03:11,95,8,12,Buenos Aires,San Luis,completado
+563,2022-10-24 12:54:26,813,7,1,Tucuman,San Juan,completado
+564,2023-03-20 20:49:28,807,7,8,Salta,Cordoba,cancelado
+565,2021-12-05 08:10:13,157,9,1,Mendoza,Neuquen,pendiente
+566,2022-11-03 02:19:14,865,2,15,Mar del Plata,Rosario,completado
+567,2021-11-20 20:03:13,675,6,7,Cordoba,La Plata,pendiente
+568,2023-05-30 03:57:09,521,9,13,San Juan,Salta,en transito
+569,2023-08-22 04:09:57,350,2,1,Mendoza,Neuquen,en transito
+570,2022-04-11 09:34:36,499,4,13,Salta,Mar del Plata,pendiente
+571,2021-05-12 11:45:40,332,7,8,Mendoza,Mendoza,completado
+572,2022-11-01 08:12:21,589,7,14,Tucuman,Cordoba,en transito
+573,2021-11-05 16:53:29,693,9,3,San Luis,San Luis,pendiente
+574,2020-11-27 09:42:22,179,9,11,San Juan,Mar del Plata,cancelado
+575,2022-07-07 10:49:18,607,9,6,Tucuman,Cordoba,en transito
+576,2021-06-21 13:25:06,277,8,5,San Juan,Mar del Plata,completado
+577,2020-03-29 19:49:36,452,10,11,La Plata,La Plata,completado
+578,2024-12-19 13:08:05,573,4,14,Buenos Aires,San Luis,pendiente
+579,2020-10-09 15:28:53,729,1,15,San Juan,Neuquen,pendiente
+580,2022-10-16 22:29:25,798,6,10,La Plata,Cordoba,pendiente
+581,2020-04-27 13:53:56,246,2,8,Tucuman,San Luis,pendiente
+582,2020-01-07 00:26:45,955,10,13,La Plata,Cordoba,pendiente
+583,2022-08-25 13:11:40,905,9,2,La Plata,San Juan,cancelado
+584,2024-09-28 23:04:58,894,10,13,San Juan,Neuquen,pendiente
+585,2022-01-05 13:16:03,877,6,4,Tucuman,Salta,en transito
+586,2024-01-21 19:59:48,178,7,2,Buenos Aires,Rosario,cancelado
+587,2021-08-16 07:22:54,154,10,7,Mendoza,Mar del Plata,pendiente
+588,2021-08-25 12:09:43,465,10,12,Tucuman,Cordoba,cancelado
+589,2021-09-09 18:07:48,448,10,12,Buenos Aires,Cordoba,pendiente
+590,2024-02-28 00:31:11,917,8,11,Buenos Aires,Mendoza,pendiente
+591,2022-01-10 17:26:22,827,1,11,Cordoba,Mendoza,pendiente
+592,2023-08-15 04:21:22,108,5,2,Mar del Plata,Mendoza,completado
+593,2021-07-13 08:26:43,945,4,10,Cordoba,La Plata,cancelado
+594,2020-04-19 03:09:33,554,7,7,Mendoza,Mar del Plata,cancelado
+595,2022-01-06 15:36:12,146,7,8,Rosario,San Luis,cancelado
+596,2020-04-19 14:33:39,744,8,13,San Luis,Salta,completado
+597,2021-10-04 11:24:48,840,8,15,Tucuman,San Luis,en transito
+598,2023-11-21 22:11:18,432,10,7,Cordoba,San Luis,pendiente
+599,2020-06-07 19:52:48,838,6,12,Buenos Aires,Tucuman,completado
+600,2020-07-28 22:04:58,601,7,5,Cordoba,La Plata,pendiente
+601,2023-09-26 03:14:01,117,8,3,Buenos Aires,Tucuman,pendiente
+602,2024-06-02 21:08:57,552,3,12,La Plata,Cordoba,en transito
+603,2023-05-21 00:55:58,89,8,4,Mendoza,La Plata,completado
+604,2021-12-08 09:41:12,691,10,1,Buenos Aires,Cordoba,en transito
+605,2023-08-25 01:58:35,91,2,3,Rosario,Neuquen,en transito
+606,2022-04-29 06:55:38,677,2,15,Buenos Aires,Tucuman,completado
+607,2022-10-24 19:57:12,543,9,15,Mendoza,San Luis,completado
+608,2020-10-18 17:18:04,115,2,10,La Plata,Cordoba,pendiente
+609,2021-01-07 06:12:15,90,1,4,Salta,Salta,completado
+610,2020-09-30 20:29:04,779,5,9,La Plata,Mendoza,completado
+611,2021-06-04 13:33:14,630,5,13,Buenos Aires,Rosario,cancelado
+612,2022-11-06 12:08:00,355,5,11,Salta,Mar del Plata,cancelado
+613,2022-01-10 18:17:53,226,9,15,Rosario,La Plata,completado
+614,2021-03-30 07:32:07,509,5,15,La Plata,Mar del Plata,en transito
+615,2022-01-09 15:52:21,586,2,12,San Juan,San Luis,en transito
+616,2021-07-04 09:33:57,356,1,15,Rosario,Rosario,pendiente
+617,2022-06-24 18:02:29,495,3,15,Salta,Cordoba,cancelado
+618,2020-03-29 18:18:47,689,1,7,La Plata,Mendoza,pendiente
+619,2023-10-22 06:36:22,807,2,6,Mendoza,San Juan,completado
+620,2024-12-10 05:16:13,30,5,1,Tucuman,Rosario,en transito
+621,2024-08-18 16:30:49,979,9,13,Salta,Neuquen,cancelado
+622,2022-04-17 09:57:10,270,4,7,Cordoba,Neuquen,completado
+623,2021-04-11 21:15:27,540,3,9,Buenos Aires,Salta,pendiente
+624,2022-06-22 11:22:05,877,1,2,La Plata,Mar del Plata,en transito
+625,2021-09-17 22:05:52,590,7,11,Mar del Plata,San Luis,cancelado
+626,2021-11-02 20:57:56,228,8,5,San Luis,San Luis,cancelado
+627,2024-01-14 08:43:45,996,5,9,Mar del Plata,Rosario,pendiente
+628,2022-09-23 08:49:24,493,8,2,Cordoba,Mendoza,completado
+629,2022-07-22 09:46:12,632,3,5,Rosario,Cordoba,en transito
+630,2020-10-20 11:44:49,363,7,8,La Plata,Cordoba,en transito
+631,2024-10-02 11:19:03,780,4,6,San Juan,Salta,completado
+632,2021-01-10 11:08:56,419,8,7,Rosario,San Juan,pendiente
+633,2024-10-07 16:23:54,659,7,15,La Plata,Salta,cancelado
+634,2020-06-20 09:04:56,950,7,5,Mar del Plata,Neuquen,cancelado
+635,2021-11-22 04:32:56,291,1,12,Cordoba,Salta,pendiente
+636,2022-01-07 13:37:01,415,8,8,Cordoba,Mar del Plata,completado
+637,2024-02-14 10:11:13,651,1,9,Mar del Plata,Salta,completado
+638,2020-03-06 22:13:27,809,9,2,Rosario,Mar del Plata,en transito
+639,2023-09-25 19:31:24,988,6,5,San Luis,Salta,cancelado
+640,2021-11-07 03:05:24,752,4,1,Cordoba,Tucuman,pendiente
+641,2023-12-10 15:49:16,405,1,2,Mar del Plata,La Plata,pendiente
+642,2023-06-14 07:57:51,806,6,15,Rosario,La Plata,completado
+643,2020-11-02 15:49:30,967,7,9,Tucuman,Tucuman,completado
+644,2024-05-16 08:43:56,471,9,10,Cordoba,Neuquen,pendiente
+645,2021-03-17 11:18:34,68,6,2,San Luis,Mar del Plata,cancelado
+646,2024-03-05 09:30:29,90,10,6,Tucuman,Cordoba,pendiente
+647,2021-03-15 11:00:44,248,2,7,Rosario,Mar del Plata,cancelado
+648,2022-08-23 13:41:48,150,6,9,Salta,Rosario,en transito
+649,2023-05-31 14:50:22,995,4,9,Mar del Plata,Tucuman,en transito
+650,2023-07-15 15:49:10,508,8,11,Mar del Plata,Cordoba,en transito
+651,2021-09-10 09:41:25,552,3,14,Tucuman,Mar del Plata,en transito
+652,2021-05-20 20:56:00,680,3,4,La Plata,Rosario,en transito
+653,2023-03-14 09:06:00,469,5,14,San Juan,San Luis,completado
+654,2022-03-09 18:37:21,650,10,15,San Juan,San Luis,en transito
+655,2022-08-14 11:49:18,46,3,5,Buenos Aires,San Luis,pendiente
+656,2021-10-19 05:36:12,374,3,3,San Luis,Cordoba,cancelado
+657,2021-06-17 14:14:34,114,1,2,San Juan,San Juan,pendiente
+658,2021-10-07 03:38:48,554,9,15,Rosario,Salta,completado
+659,2023-06-20 23:19:43,531,5,11,Salta,Neuquen,pendiente
+660,2022-06-23 15:07:31,535,9,10,Rosario,Neuquen,en transito
+661,2023-03-15 19:31:00,821,6,15,Salta,La Plata,completado
+662,2023-05-21 16:57:41,622,8,2,San Juan,Rosario,cancelado
+663,2024-09-15 04:18:22,152,4,13,Cordoba,Mar del Plata,en transito
+664,2022-10-13 11:56:54,826,6,4,Mendoza,Mar del Plata,completado
+665,2023-01-10 18:04:29,789,3,6,Salta,San Luis,cancelado
+666,2023-04-29 14:06:56,258,4,10,Mar del Plata,La Plata,completado
+667,2023-05-09 15:46:48,632,3,11,San Luis,Rosario,cancelado
+668,2024-09-30 04:03:12,438,6,11,San Luis,Mar del Plata,completado
+669,2024-07-24 17:35:40,606,5,15,Mendoza,Cordoba,cancelado
+670,2020-01-08 07:09:30,878,6,8,Mendoza,Neuquen,pendiente
+671,2023-07-05 17:05:44,77,3,3,La Plata,San Juan,pendiente
+672,2021-12-18 05:53:08,449,6,13,Mar del Plata,San Juan,completado
+673,2023-08-27 04:53:42,630,6,14,San Luis,Neuquen,en transito
+674,2023-02-11 11:08:14,913,2,9,Cordoba,San Juan,completado
+675,2023-08-19 04:59:22,177,5,13,Mar del Plata,San Luis,cancelado
+676,2021-08-14 19:47:21,588,10,2,Mar del Plata,Cordoba,completado
+677,2023-12-14 00:04:00,825,8,10,Salta,Mar del Plata,pendiente
+678,2022-02-19 20:56:01,760,5,9,La Plata,San Luis,pendiente
+679,2020-04-12 12:39:39,452,4,2,Rosario,San Luis,en transito
+680,2021-07-21 03:33:16,150,1,2,San Luis,Cordoba,pendiente
+681,2020-12-10 05:18:53,202,5,11,Tucuman,Mar del Plata,pendiente
+682,2022-11-13 20:40:46,636,5,2,San Luis,Cordoba,completado
+683,2023-08-06 02:03:56,438,5,6,San Juan,Neuquen,completado
+684,2023-08-08 13:26:20,885,1,3,San Luis,Cordoba,en transito
+685,2024-08-16 13:28:26,644,8,3,La Plata,La Plata,completado
+686,2021-10-06 20:41:27,192,9,2,Rosario,Salta,pendiente
+687,2021-04-22 04:19:14,785,4,1,San Luis,Tucuman,en transito
+688,2020-12-17 02:49:36,215,9,12,Mar del Plata,San Luis,pendiente
+689,2020-10-06 18:22:08,714,6,9,Rosario,Cordoba,en transito
+690,2020-09-24 08:18:19,828,4,12,Mar del Plata,Mendoza,completado
+691,2020-03-10 14:52:47,640,10,5,Buenos Aires,Salta,completado
+692,2020-08-08 17:56:07,139,1,9,Mendoza,Mendoza,cancelado
+693,2022-07-16 04:18:17,342,9,13,Mendoza,San Juan,cancelado
+694,2022-11-19 22:12:03,980,7,11,Mendoza,Cordoba,completado
+695,2021-12-16 13:25:38,712,5,9,La Plata,Mendoza,cancelado
+696,2022-02-10 10:21:02,30,5,7,San Juan,Mendoza,en transito
+697,2024-05-14 14:03:13,599,4,5,Mar del Plata,San Luis,cancelado
+698,2020-01-06 22:40:22,898,2,12,San Juan,Cordoba,cancelado
+699,2021-01-02 05:15:22,740,2,4,Salta,La Plata,pendiente
+700,2020-07-18 10:02:50,100,8,12,Rosario,Tucuman,en transito
+701,2020-03-08 04:20:05,808,8,12,Buenos Aires,Mar del Plata,en transito
+702,2023-12-31 22:00:55,593,4,12,San Luis,Salta,completado
+703,2022-01-17 22:42:59,128,6,2,Cordoba,Mar del Plata,completado
+704,2023-10-13 14:25:46,75,1,12,Rosario,Mendoza,en transito
+705,2021-07-31 11:38:44,794,5,5,Mar del Plata,Tucuman,cancelado
+706,2024-08-23 22:51:21,262,9,7,Rosario,Cordoba,cancelado
+707,2020-02-19 18:30:01,89,8,12,Buenos Aires,San Luis,en transito
+708,2022-12-02 00:35:42,510,4,9,Mendoza,Mar del Plata,en transito
+709,2020-10-10 20:41:12,579,3,14,Tucuman,Tucuman,pendiente
+710,2022-11-28 07:05:07,373,9,6,San Juan,Tucuman,pendiente
+711,2024-09-19 04:36:30,746,1,7,Mar del Plata,Cordoba,completado
+712,2021-10-25 22:51:58,123,5,3,La Plata,Rosario,en transito
+713,2021-10-17 08:11:42,530,5,7,Mendoza,San Luis,completado
+714,2022-12-21 15:57:58,247,8,15,La Plata,San Juan,en transito
+715,2021-03-20 21:06:20,503,5,14,Rosario,Neuquen,cancelado
+716,2020-07-16 20:08:22,529,3,7,Buenos Aires,Mendoza,cancelado
+717,2024-05-05 10:32:14,634,2,12,La Plata,La Plata,pendiente
+718,2021-09-25 13:29:20,563,5,12,Buenos Aires,Cordoba,completado
+719,2021-01-29 00:03:46,99,4,2,Mar del Plata,Neuquen,cancelado
+720,2020-07-26 22:17:47,159,9,7,San Juan,San Juan,en transito
+721,2020-01-23 00:17:58,792,6,1,Mar del Plata,San Juan,pendiente
+722,2021-05-31 05:26:22,3,10,7,Cordoba,Tucuman,completado
+723,2024-10-22 00:59:20,541,8,1,Mar del Plata,Mar del Plata,cancelado
+724,2022-06-22 06:16:27,895,6,7,Tucuman,Tucuman,cancelado
+725,2024-03-14 03:42:10,728,7,3,Mar del Plata,La Plata,cancelado
+726,2024-10-06 05:33:45,192,6,9,La Plata,Salta,pendiente
+727,2021-09-21 03:36:11,60,7,7,San Juan,Mendoza,pendiente
+728,2022-04-16 07:57:26,802,8,15,Salta,San Luis,completado
+729,2022-09-04 22:39:40,845,8,15,Rosario,Mar del Plata,completado
+730,2020-05-06 20:26:12,131,10,14,Mar del Plata,Mar del Plata,completado
+731,2024-11-07 17:21:32,89,4,4,La Plata,San Juan,cancelado
+732,2022-05-12 15:19:39,584,8,11,Cordoba,San Juan,cancelado
+733,2022-09-17 22:03:37,545,9,1,Rosario,Rosario,cancelado
+734,2024-07-02 01:29:06,183,8,15,Mendoza,Rosario,completado
+735,2021-12-09 10:33:41,535,9,13,San Juan,Mar del Plata,en transito
+736,2020-04-01 12:06:48,882,9,2,Salta,Neuquen,en transito
+737,2020-04-29 02:41:04,876,4,2,Salta,Rosario,pendiente
+738,2022-05-13 10:32:17,452,6,11,Salta,Cordoba,cancelado
+739,2023-10-22 16:49:06,869,7,7,La Plata,Rosario,en transito
+740,2024-03-07 04:59:31,756,6,13,Salta,San Luis,pendiente
+741,2020-06-18 17:53:28,394,9,9,Mendoza,Salta,pendiente
+742,2020-10-30 03:32:21,418,5,5,Buenos Aires,Rosario,pendiente
+743,2022-06-21 11:44:38,969,9,15,San Luis,San Luis,pendiente
+744,2021-05-05 18:56:34,816,8,11,Mar del Plata,Tucuman,en transito
+745,2021-06-24 10:47:12,323,2,11,Buenos Aires,San Juan,completado
+746,2020-12-20 05:56:28,779,5,2,Buenos Aires,Neuquen,cancelado
+747,2023-04-21 23:49:56,471,1,3,Buenos Aires,Tucuman,en transito
+748,2021-05-23 03:09:38,917,7,1,Tucuman,Tucuman,completado
+749,2024-05-17 20:13:54,622,5,3,Mar del Plata,San Luis,en transito
+750,2020-05-08 14:52:39,384,3,15,La Plata,Neuquen,pendiente
+751,2021-02-09 20:05:00,222,3,6,San Juan,San Juan,cancelado
+752,2021-12-04 07:53:48,995,5,4,San Juan,Mendoza,completado
+753,2021-07-19 15:47:51,912,10,3,Mar del Plata,La Plata,pendiente
+754,2020-10-05 07:53:37,626,8,12,Cordoba,San Luis,cancelado
+755,2024-09-20 10:02:16,285,9,11,Buenos Aires,Mar del Plata,cancelado
+756,2020-10-19 11:20:25,528,8,8,Mendoza,Tucuman,cancelado
+757,2021-10-23 03:12:45,669,5,5,La Plata,San Juan,pendiente
+758,2024-09-26 07:51:13,78,1,1,Buenos Aires,Mar del Plata,cancelado
+759,2020-09-02 17:48:36,885,2,14,San Juan,Mendoza,pendiente
+760,2023-09-06 14:21:31,762,1,14,La Plata,Mendoza,cancelado
+761,2023-03-06 17:36:35,905,2,12,Cordoba,San Juan,cancelado
+762,2020-04-12 03:06:08,762,5,13,San Luis,Tucuman,completado
+763,2024-06-21 16:26:51,14,5,10,Cordoba,Mar del Plata,cancelado
+764,2020-03-25 12:26:42,954,6,13,Rosario,Mendoza,completado
+765,2024-07-19 12:33:24,604,10,7,San Luis,Neuquen,cancelado
+766,2021-09-06 14:08:55,909,1,13,Mendoza,Mendoza,en transito
+767,2022-04-13 10:50:25,561,4,15,Cordoba,Cordoba,completado
+768,2024-02-13 12:13:51,661,2,4,Rosario,Mendoza,cancelado
+769,2023-04-30 02:53:21,303,5,13,Rosario,San Juan,completado
+770,2020-04-10 06:29:39,813,6,15,Cordoba,La Plata,cancelado
+771,2024-04-26 18:43:18,831,6,3,San Luis,San Juan,en transito
+772,2020-01-03 15:40:37,891,6,9,Rosario,San Luis,cancelado
+773,2020-06-18 13:20:48,856,6,5,Mendoza,Rosario,en transito
+774,2022-01-21 01:53:46,553,8,6,Rosario,Salta,en transito
+775,2024-03-14 08:35:56,795,8,10,San Luis,San Juan,en transito
+776,2020-12-03 10:53:27,897,4,5,Mar del Plata,Neuquen,completado
+777,2022-06-01 07:11:50,268,3,13,Salta,Mendoza,pendiente
+778,2021-01-27 04:58:50,868,4,6,Tucuman,Cordoba,en transito
+779,2020-04-06 01:15:52,25,6,1,Buenos Aires,Tucuman,cancelado
+780,2020-04-24 14:11:15,790,3,11,San Luis,San Luis,cancelado
+781,2023-10-27 13:46:55,749,3,3,Cordoba,La Plata,pendiente
+782,2021-09-06 03:18:36,804,7,9,Cordoba,Salta,completado
+783,2024-01-15 07:47:49,997,3,13,San Juan,Salta,en transito
+784,2020-08-24 05:06:49,494,3,6,Salta,San Luis,completado
+785,2022-11-02 14:10:11,441,4,6,Mar del Plata,Neuquen,cancelado
+786,2024-08-23 18:01:40,822,9,3,Tucuman,Mar del Plata,cancelado
+787,2023-04-09 00:23:46,998,4,10,La Plata,Mar del Plata,completado
+788,2023-01-09 21:02:05,1,6,11,Salta,Mar del Plata,pendiente
+789,2023-10-26 14:36:55,886,4,1,Salta,Salta,cancelado
+790,2022-01-15 03:22:03,353,8,15,Mar del Plata,Rosario,en transito
+791,2022-10-22 10:24:35,982,1,1,Tucuman,Mar del Plata,cancelado
+792,2023-02-26 01:03:10,452,10,12,La Plata,Mendoza,completado
+793,2020-09-06 07:38:58,266,3,8,Tucuman,Cordoba,pendiente
+794,2020-08-12 10:09:28,615,6,7,Buenos Aires,Tucuman,en transito
+795,2023-12-04 03:23:14,352,5,1,Tucuman,San Luis,en transito
+796,2024-08-10 13:59:37,622,5,3,San Luis,Mendoza,completado
+797,2022-07-29 03:27:46,7,7,2,Tucuman,Tucuman,cancelado
+798,2023-02-26 00:46:21,747,3,3,La Plata,Mar del Plata,cancelado
+799,2024-06-07 08:24:50,376,2,11,San Juan,Mendoza,completado
+800,2022-10-13 18:39:13,177,4,9,La Plata,Tucuman,cancelado
+801,2024-12-18 11:16:07,457,3,15,Rosario,Mar del Plata,cancelado
+802,2020-03-20 01:30:01,87,7,11,Mar del Plata,Mar del Plata,completado
+803,2021-12-15 06:23:15,788,8,12,Mar del Plata,San Luis,en transito
+804,2023-12-17 20:43:57,699,7,5,Mar del Plata,San Juan,pendiente
+805,2023-03-08 13:59:44,492,9,14,San Luis,Tucuman,en transito
+806,2022-10-24 02:57:13,617,6,15,Mendoza,La Plata,en transito
+807,2023-10-07 08:43:03,89,9,13,Tucuman,San Juan,completado
+808,2021-04-20 20:26:54,45,1,8,San Juan,Mendoza,completado
+809,2023-11-09 09:25:03,457,9,3,Salta,Neuquen,en transito
+810,2020-11-07 03:03:45,15,3,5,La Plata,Mar del Plata,en transito
+811,2023-07-28 02:38:25,817,2,7,San Luis,Cordoba,cancelado
+812,2023-03-16 02:32:41,116,1,8,La Plata,Mar del Plata,pendiente
+813,2020-11-14 02:41:51,87,9,9,La Plata,Mar del Plata,en transito
+814,2022-04-14 19:11:44,175,5,10,San Luis,San Juan,cancelado
+815,2021-08-02 16:25:57,269,6,5,San Juan,La Plata,en transito
+816,2022-02-27 07:30:25,307,3,4,Tucuman,Salta,completado
+817,2023-02-14 11:42:43,826,7,3,Salta,Salta,pendiente
+818,2022-12-10 03:47:30,310,2,1,San Juan,Mar del Plata,en transito
+819,2020-08-05 12:13:35,182,9,5,San Luis,Cordoba,pendiente
+820,2023-03-04 21:47:03,770,1,15,Tucuman,Cordoba,pendiente
+821,2021-03-08 14:46:33,626,5,9,La Plata,Neuquen,completado
+822,2023-02-13 12:11:41,53,2,13,Mendoza,San Luis,completado
+823,2022-09-21 00:22:02,378,6,1,San Luis,Tucuman,cancelado
+824,2021-11-27 15:05:39,761,1,13,Rosario,La Plata,cancelado
+825,2024-06-10 06:58:58,840,2,7,San Luis,Salta,en transito
+826,2024-04-01 09:00:24,385,5,15,Mar del Plata,Neuquen,completado
+827,2022-10-27 01:11:21,550,2,3,Mar del Plata,San Juan,completado
+828,2021-10-01 23:59:15,397,5,10,Cordoba,Cordoba,en transito
+829,2021-08-28 16:27:44,803,9,9,Mar del Plata,San Juan,pendiente
+830,2022-06-01 07:53:59,155,9,15,Tucuman,La Plata,cancelado
+831,2024-04-01 08:46:50,294,4,10,Salta,San Luis,completado
+832,2024-04-11 23:09:39,484,9,14,Rosario,La Plata,pendiente
+833,2023-09-28 05:52:26,480,9,2,Tucuman,Tucuman,pendiente
+834,2020-02-10 22:18:26,229,7,4,Buenos Aires,Mar del Plata,cancelado
+835,2024-03-13 23:39:35,102,10,6,San Luis,La Plata,completado
+836,2020-07-26 02:34:54,128,2,11,Salta,Neuquen,pendiente
+837,2021-01-03 00:44:51,370,10,3,Mar del Plata,Cordoba,completado
+838,2023-08-01 20:06:03,107,4,9,Buenos Aires,Rosario,cancelado
+839,2022-03-28 11:54:42,955,4,7,Mendoza,San Juan,completado
+840,2023-09-09 09:07:59,309,1,1,La Plata,Cordoba,pendiente
+841,2021-12-27 08:15:02,261,1,15,Mar del Plata,San Juan,pendiente
+842,2022-11-27 04:56:45,341,8,6,Buenos Aires,San Juan,completado
+843,2021-05-02 00:37:57,959,1,15,Buenos Aires,San Luis,cancelado
+844,2023-10-15 09:45:12,354,6,2,Mar del Plata,Mar del Plata,cancelado
+845,2022-02-19 05:18:33,583,5,10,San Luis,Salta,en transito
+846,2020-07-04 10:05:55,223,7,11,Mendoza,La Plata,completado
+847,2021-09-19 13:29:38,286,7,3,Salta,La Plata,en transito
+848,2022-10-18 16:57:37,267,9,5,Salta,San Juan,en transito
+849,2024-10-17 17:52:58,708,2,1,Mar del Plata,Cordoba,pendiente
+850,2024-11-30 17:29:22,172,5,3,Rosario,Neuquen,cancelado
+851,2020-11-23 20:03:46,590,5,8,Buenos Aires,La Plata,completado
+852,2021-05-18 07:05:33,686,9,8,La Plata,Tucuman,cancelado
+853,2023-11-01 18:03:19,857,3,7,Buenos Aires,San Luis,en transito
+854,2024-10-15 11:44:50,868,7,15,Rosario,Mar del Plata,pendiente
+855,2020-01-22 20:32:14,748,2,12,Salta,Mendoza,completado
+856,2022-08-16 00:51:06,488,9,14,Mendoza,Neuquen,cancelado
+857,2022-01-04 05:34:02,688,4,5,Buenos Aires,La Plata,en transito
+858,2024-05-03 05:27:53,870,3,8,Cordoba,Rosario,cancelado
+859,2021-03-14 08:32:30,30,6,13,La Plata,Salta,completado
+860,2022-12-16 11:47:01,190,2,2,Tucuman,Tucuman,en transito
+861,2022-04-27 02:08:21,286,2,6,Buenos Aires,San Juan,pendiente
+862,2024-07-11 17:16:52,225,8,3,Mar del Plata,Neuquen,cancelado
+863,2020-02-11 05:53:57,363,4,2,La Plata,Neuquen,completado
+864,2020-08-26 01:45:56,324,4,2,Buenos Aires,San Luis,pendiente
+865,2020-03-13 12:36:40,251,2,9,Mendoza,Neuquen,completado
+866,2024-02-01 22:12:09,282,3,14,Tucuman,Neuquen,completado
+867,2024-03-01 03:29:29,338,8,14,Rosario,San Juan,pendiente
+868,2023-04-29 01:19:15,386,5,10,San Luis,Mendoza,en transito
+869,2021-08-22 19:03:33,149,6,8,San Luis,Cordoba,en transito
+870,2021-01-19 00:09:13,346,3,13,Cordoba,San Luis,pendiente
+871,2024-08-12 16:13:09,610,6,8,Mar del Plata,Salta,en transito
+872,2022-05-10 16:48:47,684,2,10,Rosario,Neuquen,en transito
+873,2021-08-27 06:31:59,893,6,8,Salta,Mar del Plata,en transito
+874,2023-05-09 07:31:16,608,6,9,Buenos Aires,San Juan,en transito
+875,2021-11-25 13:17:24,29,7,4,Salta,Mar del Plata,cancelado
+876,2024-09-30 12:34:27,132,1,8,Mendoza,Mar del Plata,completado
+877,2023-12-30 18:32:44,435,6,1,La Plata,Cordoba,completado
+878,2020-10-01 05:52:41,407,5,5,La Plata,Mendoza,completado
+879,2021-02-06 01:30:15,84,1,6,La Plata,San Juan,pendiente
+880,2022-07-02 01:46:17,675,7,8,San Luis,Rosario,en transito
+881,2023-05-24 09:31:52,850,4,8,Cordoba,San Luis,completado
+882,2020-07-05 18:03:02,691,7,3,San Luis,Rosario,en transito
+883,2021-09-10 05:48:53,904,1,3,Tucuman,Mendoza,cancelado
+884,2024-09-20 14:40:16,779,7,4,La Plata,La Plata,en transito
+885,2022-03-29 18:33:35,109,7,10,Mendoza,Cordoba,en transito
+886,2020-02-04 23:34:54,382,4,13,Buenos Aires,San Luis,cancelado
+887,2021-10-11 06:56:14,51,3,7,Cordoba,San Luis,pendiente
+888,2020-10-01 07:08:00,446,3,10,Buenos Aires,Mendoza,completado
+889,2021-10-09 11:04:57,443,8,7,San Juan,Rosario,pendiente
+890,2021-06-20 19:57:57,710,6,6,Salta,Neuquen,completado
+891,2022-10-02 14:57:17,556,6,4,La Plata,Salta,cancelado
+892,2021-09-23 22:58:16,494,3,7,Rosario,Neuquen,cancelado
+893,2023-03-20 15:22:26,71,7,5,La Plata,Cordoba,completado
+894,2024-11-24 17:50:49,169,9,3,Buenos Aires,Rosario,en transito
+895,2020-06-14 01:26:51,739,8,13,San Juan,Salta,en transito
+896,2020-07-06 09:23:17,713,3,7,Cordoba,Mendoza,pendiente
+897,2020-08-06 13:12:24,766,2,1,Tucuman,Salta,pendiente
+898,2023-10-09 16:24:25,592,2,10,Salta,Rosario,pendiente
+899,2020-11-19 06:26:00,742,8,13,Mar del Plata,Tucuman,cancelado
+900,2023-07-15 08:03:30,676,6,1,La Plata,Mar del Plata,completado
+901,2024-07-21 08:36:49,146,9,12,Buenos Aires,Tucuman,completado
+902,2020-09-25 03:10:53,135,10,2,Cordoba,Cordoba,completado
+903,2023-05-22 17:42:31,98,4,4,Rosario,Tucuman,completado
+904,2020-08-19 02:29:19,79,5,8,Buenos Aires,Cordoba,cancelado
+905,2020-06-22 11:30:52,881,5,6,Rosario,Neuquen,pendiente
+906,2020-01-27 09:29:18,570,8,2,San Luis,Tucuman,completado
+907,2020-03-27 11:18:01,775,7,13,San Luis,Cordoba,cancelado
+908,2021-11-03 02:55:45,414,5,4,Mendoza,Neuquen,completado
+909,2021-03-27 00:01:53,439,6,2,Rosario,San Juan,cancelado
+910,2020-05-07 10:41:55,731,3,6,San Juan,San Juan,completado
+911,2021-10-26 03:18:17,166,8,9,Salta,Mar del Plata,en transito
+912,2020-08-25 08:20:41,446,10,6,Buenos Aires,La Plata,pendiente
+913,2022-06-23 01:57:17,476,10,2,Rosario,Mendoza,cancelado
+914,2023-10-10 01:26:15,380,6,4,La Plata,La Plata,pendiente
+915,2021-01-30 02:20:35,318,7,8,Buenos Aires,Tucuman,completado
+916,2022-06-16 09:37:54,443,5,2,La Plata,San Juan,en transito
+917,2024-08-19 11:33:05,914,1,6,Buenos Aires,San Juan,completado
+918,2020-12-04 13:45:46,522,6,15,Mendoza,Cordoba,completado
+919,2022-12-28 07:51:57,140,9,2,Buenos Aires,Mar del Plata,en transito
+920,2022-03-13 23:53:34,376,10,12,San Luis,Mar del Plata,pendiente
+921,2021-09-10 17:52:39,321,5,5,Rosario,Rosario,en transito
+922,2023-08-30 15:56:08,345,10,15,Rosario,San Juan,completado
+923,2020-12-15 03:59:01,671,6,9,Salta,San Luis,cancelado
+924,2023-09-21 06:12:24,822,1,10,Cordoba,Salta,en transito
+925,2023-01-31 01:17:50,234,5,8,Buenos Aires,La Plata,completado
+926,2022-01-27 04:02:04,773,6,13,Rosario,La Plata,completado
+927,2022-07-29 13:41:20,820,4,9,Buenos Aires,Salta,completado
+928,2023-07-28 21:38:10,508,1,1,Mendoza,Rosario,pendiente
+929,2021-10-05 23:44:06,289,9,11,San Luis,Tucuman,completado
+930,2022-04-08 09:07:17,432,1,15,Mar del Plata,San Luis,pendiente
+931,2023-05-10 03:09:14,797,1,4,Cordoba,Mar del Plata,pendiente
+932,2022-12-05 05:24:45,434,1,12,Mar del Plata,Salta,cancelado
+933,2023-06-21 22:58:59,885,7,12,Rosario,Mendoza,pendiente
+934,2021-02-24 17:51:37,485,5,4,San Juan,Rosario,en transito
+935,2020-08-22 16:10:19,323,6,13,Tucuman,Mendoza,completado
+936,2021-01-28 08:32:42,388,10,15,La Plata,Cordoba,en transito
+937,2021-08-12 12:55:28,679,4,9,Tucuman,Neuquen,cancelado
+938,2020-03-28 17:02:19,44,7,15,Mendoza,Salta,completado
+939,2023-04-04 22:17:57,657,1,7,Cordoba,Tucuman,completado
+940,2024-11-21 23:05:36,275,5,6,San Luis,Rosario,en transito
+941,2022-10-08 06:56:58,757,9,5,Tucuman,Tucuman,pendiente
+942,2021-01-18 12:44:01,113,6,13,Cordoba,Tucuman,en transito
+943,2024-03-18 12:44:17,91,4,5,San Luis,Salta,cancelado
+944,2021-05-19 06:01:42,974,1,5,La Plata,La Plata,pendiente
+945,2020-02-26 18:12:20,984,5,11,Cordoba,San Juan,pendiente
+946,2021-11-10 13:07:01,845,1,11,Mendoza,San Juan,pendiente
+947,2023-07-06 16:54:08,440,3,10,San Juan,Mar del Plata,completado
+948,2021-02-23 17:16:29,848,1,1,Salta,Neuquen,cancelado
+949,2024-04-05 08:52:49,123,2,12,Mar del Plata,Salta,cancelado
+950,2021-01-18 06:26:49,945,9,5,La Plata,Cordoba,pendiente
+951,2024-08-06 03:12:42,434,5,4,Rosario,Mendoza,cancelado
+952,2023-11-20 21:51:14,134,5,14,Buenos Aires,Rosario,completado
+953,2024-06-25 09:02:12,369,6,7,Cordoba,San Luis,completado
+954,2024-05-18 21:38:52,493,3,12,Cordoba,Tucuman,cancelado
+955,2020-07-26 04:21:44,115,6,8,San Juan,San Luis,completado
+956,2024-07-28 07:01:01,968,3,1,La Plata,La Plata,pendiente
+957,2021-05-11 17:25:00,144,2,13,San Luis,Mendoza,en transito
+958,2024-03-03 10:22:54,953,1,11,Cordoba,Mar del Plata,completado
+959,2021-06-07 13:57:38,576,1,2,Mar del Plata,San Juan,pendiente
+960,2023-11-09 21:57:38,799,3,7,Buenos Aires,Cordoba,en transito
+961,2021-11-21 21:22:10,95,6,1,Buenos Aires,Cordoba,pendiente
+962,2021-12-31 15:56:27,120,10,12,Mar del Plata,Tucuman,completado
+963,2021-09-19 13:51:24,886,7,8,San Juan,Mendoza,cancelado
+964,2022-04-05 03:04:17,779,2,15,Tucuman,Neuquen,pendiente
+965,2021-09-28 04:17:50,71,7,12,La Plata,Neuquen,cancelado
+966,2021-08-10 04:40:43,521,4,5,Cordoba,Cordoba,cancelado
+967,2021-08-18 19:35:50,374,3,4,Mendoza,Rosario,pendiente
+968,2022-03-15 15:05:34,606,8,9,Salta,Mendoza,en transito
+969,2024-01-02 02:52:57,457,1,15,Salta,San Luis,cancelado
+970,2022-02-09 19:29:12,521,6,7,La Plata,Neuquen,en transito
+971,2022-08-14 05:41:08,136,9,6,Rosario,Rosario,en transito
+972,2023-05-26 20:31:33,208,9,12,La Plata,San Juan,pendiente
+973,2022-05-04 08:58:41,945,9,15,Buenos Aires,Rosario,completado
+974,2023-03-21 08:48:49,510,1,13,Mar del Plata,San Luis,en transito
+975,2020-08-27 10:08:43,581,2,1,Salta,Mar del Plata,pendiente
+976,2021-12-23 03:46:49,738,3,2,Salta,Neuquen,cancelado
+977,2022-02-16 11:35:07,632,5,13,Salta,Cordoba,completado
+978,2022-11-17 23:27:16,321,10,10,Buenos Aires,San Juan,completado
+979,2023-08-28 21:10:14,927,7,5,Tucuman,La Plata,cancelado
+980,2023-09-25 12:20:05,36,5,4,San Juan,Rosario,completado
+981,2024-12-26 15:53:26,859,6,1,Mar del Plata,San Juan,cancelado
+982,2022-06-26 20:13:10,4,9,8,San Luis,San Luis,pendiente
+983,2024-05-24 17:06:14,191,10,3,Tucuman,Cordoba,en transito
+984,2024-11-02 09:44:56,981,6,5,Mendoza,San Luis,cancelado
+985,2020-06-12 18:44:21,708,9,5,San Juan,La Plata,pendiente
+986,2023-06-15 01:59:39,611,1,10,Buenos Aires,San Juan,pendiente
+987,2023-06-15 08:14:11,332,8,4,San Juan,Rosario,completado
+988,2021-10-26 21:17:00,220,1,5,La Plata,Salta,pendiente
+989,2024-03-31 14:20:38,248,10,7,Mendoza,Cordoba,cancelado
+990,2023-07-08 11:28:20,280,8,3,La Plata,Mendoza,completado
+991,2023-09-16 12:28:24,69,5,4,Tucuman,Neuquen,pendiente
+992,2021-08-02 22:43:13,885,6,15,Tucuman,San Juan,completado
+993,2024-10-19 23:05:22,256,2,2,Buenos Aires,Neuquen,pendiente
+994,2020-11-17 12:25:28,992,4,10,Tucuman,San Luis,en transito
+995,2022-04-03 15:08:42,656,5,4,Tucuman,Cordoba,en transito
+996,2020-12-05 09:16:37,117,5,10,La Plata,Cordoba,en transito
+997,2021-11-14 06:17:35,670,1,9,San Juan,Mendoza,en transito
+998,2022-09-14 06:11:35,546,3,14,La Plata,Tucuman,completado
+999,2023-04-29 23:26:58,119,9,7,Salta,La Plata,completado
+1000,2020-12-08 00:25:19,38,6,15,Buenos Aires,Cordoba,cancelado

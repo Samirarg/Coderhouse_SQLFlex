@@ -28,7 +28,7 @@ WHERE p.estado_pedido!="Entregado" and p.estado_pedido!="Cancelado"
 
 SELECT * from PEDIDOS_PENDIENTES
 
-VISTA N°4: RESUMEN DE VIAJES Y CARGA TRANSPORTADA
+#VISTA N°4: RESUMEN DE VIAJES Y CARGA TRANSPORTADA
 CREATE OR REPLACE VIEW RESUMEN_VIAJES_CARGA AS
 SELECT v.origen, v.destino, COUNT(v.id_viaje) AS total_viajes, SUM(p.peso) AS total_peso_transportado, SUM(p.volumen) AS total_volumen_transportado
 FROM viajes v
@@ -37,7 +37,7 @@ GROUP BY v.origen, v.destino;
 
 SELECT * from RESUMEN_VIAJES_CARGA
 
-VISTA N°5 FACTURAS PENDIENTES DE COBRO
+#VISTA N°5 FACTURAS PENDIENTES DE COBRO
 
 CREATE OR REPLACE VIEW FACTURAS_PENDIENTES_PAGO AS
 SELECT f.id_cliente, count(f.id_factura) AS cantidad_facturas, sum(f.monto_factura) AS monto_total_pendiente_pago FROM facturas f
